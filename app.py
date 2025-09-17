@@ -1,3 +1,58 @@
+import streamlit as st
+import pandas as pd
+from supabase import create_client
+import datetime as dt
+# ← 他に必要なimportがあればここに追加
+
+# --- Supabaseクライアントの初期化 ---
+url = st.secrets["SUPABASE_URL"]
+key = st.secrets["SUPABASE_ANON_KEY"]
+supabase = create_client(url, key)
+
+# --- ログインUIの定義 ---
+def login_ui():
+    st.title("ログイン")
+    email = st.text_input("メールアドレス")
+    pw = st.text_input("パスワード", type="password")
+
+    col1, col2 = st.columns(2)
+    with col1:
+        if st.button("ログイン"):
+            try:
+                auth = supabase.auth.sign_in_with_password({"email": email, "password": pw})
+                st.session_state["user"] = auth.user
+                st.rerun()
+            except Exception as e:
+                st.error(f"ログイン失敗: {e}")
+    with col2:
+        if st.button("新規登録"):
+            try:
+                supabase.auth.sign_up({"email": email, "password": pw})
+                st.success("登録しました！")
+            except Exception as e:
+                st.error(f"登録失敗: {e}")
+
+def logout():
+    supabase.auth.sign_out()
+    st.session_state.pop("user", None)
+    st.rerun()
+
+# --- 認証チェック ---
+if "user" not in st.session_state:
+    login_ui()
+    st.stop()  # ログインしてなければアプリ本体は止める
+else:
+    st.sidebar.write(f"ログイン中: {st.session_state['user'].email}")
+    st.sidebar.button("ログアウト", on_click=logout)
+
+# ===============================
+# ここから下が「既存のアプリ本体」
+# ===============================
+st.success("ログイン済み！本編アプリを使えます ✨")
+
+# 例: ここに食事プラン生成の処理を続ける
+
+
 # app.py — 朝/昼/夜の比率を自動最適化（PFCなし / Supabaseなし）
 import streamlit as st
 import pandas as pd
@@ -280,3 +335,4 @@ if st.button("きょうの3食プランを作る", type="primary"):
             st.warning("±100kcalに収まらない場合は、候補を増やす/予算を上げると精度が上がります。")
     else:
         st.error("条件に合うプランが見つかりませんでした。")
+
