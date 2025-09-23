@@ -1,142 +1,140 @@
-product_name,price,url,calorie,protein,fat,carbohydrate,sugar,fiber,salt
-パリパリ春巻,140円,https://www.hottomotto.com/menu_list/view/13/1007,172kcal,2.6g,11.8g,14.6g,13.3g,1.3g,0.6g
-旨辛特製豚汁,200円,https://www.hottomotto.com/menu_list/view/13/1182,85kcal,5.0g,2.9g,10.4g,8.6g,1.8g,3.4g
-ドラえもんランチ/ドラミちゃんランチ(ふりかけ),520円,https://www.hottomotto.com/menu_list/view/13/1064,415kcal,16.9g,16.7g,51.4g,47.2g,4.2g,2.0g
-W旨だれ焼鳥つくね重(肉2倍),1050円,https://www.hottomotto.com/menu_list/view/13/1288,915kcal,49.5g,35.5g,103.2g,94.7g,8.5g,6.3g
-オードブル,2200円,https://www.hottomotto.com/menu_list/view/13/230,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-もちミニ®しゃけ弁当,590円,https://www.hottomotto.com/menu_list/view/13/1126,487kcal,17.3g,12.7g,79.0g,73.1g,5.9g,2.2g
-幕の内弁当,690円,https://www.hottomotto.com/menu_list/view/13/1280,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-洋風バラエティ弁当,690円,https://www.hottomotto.com/menu_list/view/13/1283,869kcal,27.1g,31.6g,123.2g,114.7g,8.5g,4.6g
-しょうが焼き弁当,670円,https://www.hottomotto.com/menu_list/view/13/1264,701kcal,23.7g,23.9g,101.9g,93.9g,8.0g,3.2g
-チキン南蛮　おかずのみ,570円,https://www.hottomotto.com/menu_list/view/13/1164,549kcal,21.4g,33.9g,38.9g,36.6g,2.3g,3.4g
-肉野菜炒め　おかずのみ,590円,https://www.hottomotto.com/menu_list/view/13/1174,281kcal,16.7g,16.4g,19.5g,14.0g,5.5g,4.3g
-おろしチキン竜田弁当,670円,https://www.hottomotto.com/menu_list/view/13/1268,905kcal,22.7g,39.4g,117.7g,110.7g,7.0g,3.7g
-W特製ナポリタン＆サラダ(麺2倍),650円,https://www.hottomotto.com/menu_list/view/13/1292,770kcal,34.6g,29.1g,100.4g,88.7g,11.7g,5.5g
-たっぷりグリーンサラダ,170円,https://www.hottomotto.com/menu_list/view/13/1187,54kcal,2.0g,3.5g,4.9g,3.2g,1.7g,0.4g
-4コ入り から揚弁当,570円,https://www.hottomotto.com/menu_list/view/13/1255,702kcal,30.2g,19.5g,101.5g,94.9g,6.6g,3.0g
-ポテトサラダ(ツナ＆マカロニ入り),180円,https://www.hottomotto.com/menu_list/view/13/1093,70kcal,1.4g,3.9g,7.7g,7.1g,0.6g,0.4g
-W大判牛焼きすき重(肉4枚),1230円,https://www.hottomotto.com/menu_list/view/13/1089,731kcal,36.4g,22.1g,99.2g,94.5g,4.7g,5.1g
-特製ナポリタン弁当,550円,https://www.hottomotto.com/menu_list/view/13/1293,751kcal,29.1g,23.0g,113.6g,104.5g,9.1g,3.2g
-プラスから揚（2コ入り）,210円,https://www.hottomotto.com/menu_list/view/13/1041,148kcal,12.0g,8.8g,5.2g,4.8g,0.4g,0.8g
-ロースかつとじ弁当,680円,https://www.hottomotto.com/menu_list/view/13/1276,810kcal,34.3g,26.0g,113.0g,106.3g,6.7g,4.1g
-温玉付き焼鳥つくね重,730円,https://www.hottomotto.com/menu_list/view/13/1289,702kcal,34.6g,23.7g,92.1g,85.3g,6.8g,3.4g
-牛すきうな重(2切れ),940円,https://www.hottomotto.com/menu_list/view/13/1103,693kcal,23.6g,23.8g,98.4g,94.0g,4.4g,4.0g
-うな重(3切れ),1040円,https://www.hottomotto.com/menu_list/view/13/1104,601kcal,23.7g,17.3g,90.3g,85.0g,5.3g,2.8g
-デミグラスハンバーグ＆から揚弁当,950円,https://www.hottomotto.com/menu_list/view/13/1272,833kcal,40.0g,27.4g,110.2g,102.2g,8.0g,4.6g
-ロースとんかつ　おかずのみ,580円,https://www.hottomotto.com/menu_list/view/13/1170,489kcal,20.6g,26.8g,42.2g,39.6g,2.6g,3.3g
-Wしょうが焼き弁当(肉２倍),990円,https://www.hottomotto.com/menu_list/view/13/1265,1007kcal,39.7g,45.6g,114.3g,104.9g,9.4g,5.6g
-全部のせのりタル弁当,650円,https://www.hottomotto.com/menu_list/view/13/974,1006kcal,32.0g,40.2g,133.3g,124.6g,8.7g,5.2g
-夏のよくばり牛カレールー,570円,https://www.hottomotto.com/menu_list/view/13/1242,241kcal,7.4g,15.7g,17.8g,16.5g,1.3g,1.9g
-特のりタル弁当,590円,https://www.hottomotto.com/menu_list/view/13/972,875kcal,28.1g,32.8g,120.9g,112.8g,8.1g,4.3g
-チーズハンバーグ弁当,800円,https://www.hottomotto.com/menu_list/view/13/1271,707kcal,24.6g,21.0g,109.9g,100.7g,9.2g,3.7g
-しょうが焼き　おかずのみ,570円,https://www.hottomotto.com/menu_list/view/13/1156,365kcal,18.2g,23.4g,22.1g,18.7g,3.4g,3.2g
-チキン南蛮弁当,670円,https://www.hottomotto.com/menu_list/view/13/1259,885kcal,26.9g,34.4g,118.7g,111.8g,6.9g,3.4g
-スポーツ弁当　バラエティ,730円,https://www.hottomotto.com/menu_list/view/13/1206,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-牛焼肉＆から揚　おかずのみ,870円,https://www.hottomotto.com/menu_list/view/13/1047,582kcal,30.7g,38.7g,29.6g,25.1g,4.5g,4.5g
-ドラえもんプレート,2000円,https://www.hottomotto.com/menu_list/view/13/1079,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-6コ入り から揚　おかずのみ,620円,https://www.hottomotto.com/menu_list/view/13/1045,514kcal,36.7g,27.8g,26.9g,24.5g,2.4g,3.8g
-チキポテBOX,650円,https://www.hottomotto.com/menu_list/view/13/1010,692kcal,30.3g,37.0g,61.7g,55.9g,5.8g,2.7g
-特撰幕の内弁当,970円,https://www.hottomotto.com/menu_list/view/13/1281,911kcal,36.6g,36.7g,112.6g,104.5g,8.1g,5.0g
-大判牛焼きすき重(肉2枚),790円,https://www.hottomotto.com/menu_list/view/13/1088,573kcal,24.3g,14.1g,89.7g,85.0g,4.7g,2.8g
-親子丼,570円,https://www.hottomotto.com/menu_list/view/13/1147,660kcal,30.1g,19.0g,95.1g,89.2g,5.9g,4.3g
-チーズハンバーグ　おかずのみ,700円,https://www.hottomotto.com/menu_list/view/13/1225,371kcal,19.1g,20.5g,30.1g,25.5g,4.6g,3.7g
-手羽から揚(しお味)5本入り,310円,https://www.hottomotto.com/menu_list/view/13/1184,200kcal,13.2g,13.7g,5.9g,5.7g,0.2g,1.6g
-スポーツ弁当　のり,650円,https://www.hottomotto.com/menu_list/view/13/1205,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-手羽から揚(しお味)10本入り,560円,https://www.hottomotto.com/menu_list/view/13/1185,400kcal,26.4g,27.4g,11.8g,11.4g,0.4g,3.2g
-しじみのみそ汁,160円,https://www.hottomotto.com/menu_list/view/13/1194,34kcal,2.4g,0.9g,3.9g,3.3g,0.6g,2.1g
-スポーツ弁当　しょうが焼き＆焼売,680円,https://www.hottomotto.com/menu_list/view/13/1203,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-和風オニオンソースハンバーグ　おかずのみ,620円,https://www.hottomotto.com/menu_list/view/13/1161,355kcal,17.7g,15.3g,38.5g,34.0g,4.5g,3.6g
-BIGのりタル弁当(ナポリタン),740円,https://www.hottomotto.com/menu_list/view/13/1232,1211kcal,40.0g,45.1g,169.4g,157.1g,12.3g,6.5g
-おつまみプレート,1600円,https://www.hottomotto.com/menu_list/view/13/1080,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-ロースカツカレー,810円,https://www.hottomotto.com/menu_list/view/13/1133,842kcal,28.8g,28.5g,121.5g,113.5g,8.0g,3.6g
-和風オニオンソースハンバーグ弁当,720円,https://www.hottomotto.com/menu_list/view/13/1270,691kcal,23.2g,15.8g,118.3g,109.2g,9.1g,3.6g
-7品目のミックスサラダ,190円,https://www.hottomotto.com/menu_list/view/13/1188,84kcal,2.9g,4.9g,9.0g,6.1g,2.9g,0.7g
-九州チキン南蛮　おかずのみ,570円,https://www.hottomotto.com/menu_list/view/13/1166,499kcal,18.6g,24.0g,49.7g,47.4g,2.3g,2.8g
-夏のよくばり牛カレー(チーズ),760円,https://www.hottomotto.com/menu_list/view/13/1241,670kcal,18.9g,23.2g,99.2g,93.1g,6.1g,2.8g
-から揚,110円,https://www.hottomotto.com/menu_list/view/13/1040,74kcal,6.0g,4.4g,2.6g,2.4g,0.2g,0.4g
-夏のよくばり牛カレー(から揚),850円,https://www.hottomotto.com/menu_list/view/13/1239,804kcal,31.0g,29.4g,106.6g,99.9g,6.7g,3.5g
-ドラえもんランチ/ドラミちゃんランチ(カレー),520円,https://www.hottomotto.com/menu_list/view/13/1065,433kcal,17.8g,16.2g,56.1g,52.0g,4.1g,2.3g
-Wしょうが焼き(肉２倍)　おかずのみ,890円,https://www.hottomotto.com/menu_list/view/13/1157,671kcal,34.2g,45.1g,34.5g,29.7g,4.8g,5.6g
-東京都のアレルギー・栄養成分・原産国情報,N/A,https://www.hottomotto.com/menu_list/info/13#!/tab/origin,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-もちミニ®彩・豆腐ハンバーグ弁当,560円,https://www.hottomotto.com/menu_list/view/13/1124,512kcal,12.6g,14.7g,86.3g,78.8g,7.5g,2.1g
-海苔とあおさのみそ汁,160円,https://www.hottomotto.com/menu_list/view/13/1195,42kcal,2.5g,1.0g,5.8g,4.1g,1.7g,2.3g
-のり弁当,460円,https://www.hottomotto.com/menu_list/view/13/971,774kcal,22.8g,23.6g,117.6g,109.9g,7.7g,4.3g
-とりめし弁当,580円,https://www.hottomotto.com/menu_list/view/13/1038,702kcal,27.0g,21.4g,103.3g,96.8g,6.5g,3.4g
-和風オニオンソースハンバーグ＆から揚弁当,950円,https://www.hottomotto.com/menu_list/view/13/1273,869kcal,40.0g,27.5g,119.0g,111.1g,7.9g,5.4g
-W牛焼肉(肉２倍)　おかずのみ,970円,https://www.hottomotto.com/menu_list/view/13/1159,668kcal,23.6g,49.4g,34.8g,29.2g,5.6g,5.5g
-12コ入りチキンBOX,990円,https://www.hottomotto.com/menu_list/view/13/1237,892kcal,72.2g,52.8g,31.8g,29.4g,2.4g,5.8g
-海鮮天ぷら弁当,740円,https://www.hottomotto.com/menu_list/view/13/1229,782kcal,19.3g,22.6g,128.9g,120.4g,8.5g,3.4g
-上・海鮮天丼,890円,https://www.hottomotto.com/menu_list/view/13/1230,830kcal,22.8g,26.5g,128.5g,120.7g,7.8g,3.3g
-ライス単品(中),190円,https://www.hottomotto.com/menu_list/view/13/1191,336kcal,5.5g,0.5g,79.8g,75.2g,4.6g,0.0g
-特製ナポリタン＆サラダ,500円,https://www.hottomotto.com/menu_list/view/13/1291,539kcal,26.7g,26.0g,55.3g,48.4g,6.9g,3.9g
-海鮮天丼,680円,https://www.hottomotto.com/menu_list/view/13/1227,734kcal,18.0g,21.1g,121.3g,113.8g,7.5g,2.9g
-6コ入り から揚弁当,720円,https://www.hottomotto.com/menu_list/view/13/1256,850kcal,42.2g,28.3g,106.7g,99.7g,7.0g,3.9g
-ロースとんかつ弁当,680円,https://www.hottomotto.com/menu_list/view/13/1274,825kcal,26.1g,27.3g,122.0g,114.8g,7.2g,3.3g
-のり弁バーガー,400円,https://www.hottomotto.com/menu_list/view/13/891,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-海鮮天とじ丼,730円,https://www.hottomotto.com/menu_list/view/13/1228,843kcal,25.9g,26.6g,128.9g,121.6g,7.3g,4.7g
-ミニ冷やしわかめうどん,150円,https://www.hottomotto.com/menu_list/view/13/1096,139kcal,3.6g,1.0g,29.7g,27.8g,1.9g,2.0g
-ロースかつとじ　おかずのみ,580円,https://www.hottomotto.com/menu_list/view/13/1172,474kcal,28.8g,25.5g,33.2g,31.1g,2.1g,4.1g
-デミグラスハンバーグ＆から揚　おかずのみ,850円,https://www.hottomotto.com/menu_list/view/13/1048,497kcal,34.5g,26.9g,30.4g,27.0g,3.4g,4.6g
-Wビーフカットステーキ重（肉2倍),1500円,https://www.hottomotto.com/menu_list/view/13/879,802kcal,41.3g,24.4g,106.9g,99.9g,7.0g,7.0g
-特注弁当　梅,1000円,https://www.hottomotto.com/menu_list/view/13/1201,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-肉野菜炒め弁当,690円,https://www.hottomotto.com/menu_list/view/13/1278,617kcal,22.2g,16.9g,99.3g,89.2g,10.1g,4.3g
-特注弁当,1100円,https://www.hottomotto.com/menu_list/view/13/1202,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-九州チキン南蛮弁当,670円,https://www.hottomotto.com/menu_list/view/13/1263,835kcal,24.1g,24.5g,129.5g,122.6g,6.9g,2.8g
-おろしチキン竜田　おかずのみ,570円,https://www.hottomotto.com/menu_list/view/13/1155,569kcal,17.2g,38.9g,37.9g,35.5g,2.4g,3.6g
-しゃけ弁当,640円,https://www.hottomotto.com/menu_list/view/13/970,624kcal,21.6g,16.5g,101.2g,94.1g,7.1g,3.3g
-W特製ナポリタン弁当(麺2倍),700円,https://www.hottomotto.com/menu_list/view/13/1294,982kcal,37.0g,26.1g,158.7g,144.8g,13.9g,4.7g
-ハンバーグスペシャルスポーツ弁当,990円,https://www.hottomotto.com/menu_list/view/13/1296,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-オードブル,5500円,https://www.hottomotto.com/menu_list/view/13/1078,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-もちミニ 海鮮天丼,620円,https://www.hottomotto.com/menu_list/view/13/1226,655kcal,15.9g,19.5g,107.3g,99.8g,7.5g,2.7g
-和風オニオンソースハンバーグ＆から揚　おかずのみ,850円,https://www.hottomotto.com/menu_list/view/13/1049,533kcal,34.5g,27.0g,39.2g,35.9g,3.3g,5.4g
-夏のよくばり牛カレー,670円,https://www.hottomotto.com/menu_list/view/13/1238,582kcal,13.0g,16.2g,98.8g,92.7g,6.1g,2.3g
-6種具材のひじき煮,180円,https://www.hottomotto.com/menu_list/view/13/1094,31kcal,1.6g,0.8g,5.2g,3.4g,1.8g,0.6g
-さっぱりゆず大根,180円,https://www.hottomotto.com/menu_list/view/13/1095,23kcal,0.3g,0.0g,5.8g,5.0g,0.8g,0.6g
-ほっとチキン,230円,https://www.hottomotto.com/menu_list/view/13/1183,212kcal,12.3g,13.3g,11.1g,10.4g,0.7g,1.8g
-旨さやみつきキムチ,130円,https://www.hottomotto.com/menu_list/view/13/183,52kcal,2.4g,0.6g,9.4g,7.6g,1.8g,2.5g
-WチキンBOX （から揚＆手羽から揚）,820円,https://www.hottomotto.com/menu_list/view/13/1009,618kcal,45.3g,39.5g,20.2g,19.1g,1.1g,4.9g
-ミニわかめうどん,150円,https://www.hottomotto.com/menu_list/view/13/1190,149kcal,3.8g,1.0g,31.3g,29.7g,1.6g,3.4g
-たまごスープ,150円,https://www.hottomotto.com/menu_list/view/13/1193,31kcal,2.1g,1.5g,2.2g,0.0g,0.0g,1.7g
-デミグラスハンバーグ　おかずのみ,620円,https://www.hottomotto.com/menu_list/view/13/1160,319kcal,17.7g,15.2g,29.7g,25.1g,4.6g,2.8g
-牛焼肉＆から揚弁当,970円,https://www.hottomotto.com/menu_list/view/13/1258,918kcal,36.2g,39.2g,109.4g,100.3g,9.1g,4.5g
-デミグラスハンバーグ弁当,720円,https://www.hottomotto.com/menu_list/view/13/1269,655kcal,23.2g,15.7g,109.5g,100.3g,9.2g,2.8g
-フライドポテトBOX,500円,https://www.hottomotto.com/menu_list/view/13/1011,633kcal,9.9g,29.2g,87.5g,79.3g,8.2g,1.9g
-フライドポテト,180円,https://www.hottomotto.com/menu_list/view/13/1186,197kcal,3.1g,9.7g,25.5g,23.0g,2.5g,0.5g
-おにぎりセット,500円,https://www.hottomotto.com/menu_list/view/13/1175,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-スポーツ弁当　から揚＆デミメンチ,680円,https://www.hottomotto.com/menu_list/view/13/1204,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-旨だれ焼鳥つくね重,660円,https://www.hottomotto.com/menu_list/view/13/1287,628kcal,27.7g,18.0g,91.9g,85.1g,6.8g,3.2g
-しょうが焼き＆から揚弁当,920円,https://www.hottomotto.com/menu_list/view/13/1257,942kcal,43.3g,35.8g,116.0g,107.0g,9.0g,5.1g
-海鮮天ぷら　おかずのみ,640円,https://www.hottomotto.com/menu_list/view/13/1231,446kcal,13.8g,22.1g,49.1g,45.2g,3.9g,3.4g
-ビーフカットステーキ　おかずのみ,860円,https://www.hottomotto.com/menu_list/view/13/882,317kcal,20.8g,14.5g,27.2g,23.1g,4.1g,4.3g
-牛焼肉　おかずのみ,620円,https://www.hottomotto.com/menu_list/view/13/1158,371kcal,13.1g,25.6g,23.8g,20.0g,3.8g,3.4g
-ちくわ天,80円,https://www.hottomotto.com/menu_list/view/13/985,133kcal,4.2g,7.4g,12.6g,12.0g,0.6g,1.2g
-ロースかつ丼,650円,https://www.hottomotto.com/menu_list/view/13/1149,812kcal,34.3g,26.0g,113.6g,106.8g,6.8g,4.3g
-から揚カレー,770円,https://www.hottomotto.com/menu_list/view/13/1134,681kcal,28.1g,17.1g,107.0g,99.7g,7.3g,4.2g
-サラダ＆ビーフカットステーキコンボ,980円,https://www.hottomotto.com/menu_list/view/13/880,603kcal,24.7g,15.1g,95.0g,88.2g,6.8g,4.2g
-スポーツ弁当　12品目の幕の内,730円,https://www.hottomotto.com/menu_list/view/13/1207,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-4コ入り から揚　おかずのみ,470円,https://www.hottomotto.com/menu_list/view/13/1044,366kcal,24.7g,19.0g,21.7g,19.7g,2.0g,3.0g
-特注弁当　竹,1300円,https://www.hottomotto.com/menu_list/view/13/1200,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-豚汁,160円,https://www.hottomotto.com/menu_list/view/13/1196,81kcal,5.1g,2.3g,9.7g,0.0g,0.0g,2.2g
-W牛焼肉弁当(肉２倍),1070円,https://www.hottomotto.com/menu_list/view/13/1267,1004kcal,29.1g,49.9g,114.6g,104.4g,10.2g,5.5g
-チキン南蛮スペシャルスポーツ弁当,990円,https://www.hottomotto.com/menu_list/view/13/1295,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-夏のよくばり牛カレー(ロースカツ),890円,https://www.hottomotto.com/menu_list/view/13/1240,965kcal,31.7g,40.8g,121.1g,113.7g,7.4g,2.9g
-特注弁当　松,1600円,https://www.hottomotto.com/menu_list/view/13/1199,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-牛焼肉弁当,720円,https://www.hottomotto.com/menu_list/view/13/1266,707kcal,18.6g,26.1g,103.6g,95.2g,8.4g,3.4g
-ビーフカットステーキ重,890円,https://www.hottomotto.com/menu_list/view/13/878,590kcal,24.2g,13.3g,96.5g,89.9g,6.6g,3.6g
-オードブル,3300円,https://www.hottomotto.com/menu_list/view/13/231,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-しょうが焼き＆から揚　おかずのみ,820円,https://www.hottomotto.com/menu_list/view/13/1046,606kcal,37.8g,35.3g,36.2g,31.8g,4.4g,5.0g
-エビフライ,110円,https://www.hottomotto.com/menu_list/view/13/1198,77kcal,2.1g,4.8g,6.4g,6.1g,0.3g,0.6g
-温玉付きW焼鳥つくね重(肉2倍),1120円,https://www.hottomotto.com/menu_list/view/13/1290,989kcal,56.4g,41.2g,103.4g,94.9g,8.5g,6.5g
-N/A,N/A,https://www.hottomotto.com/menu_list/download_pamphlet/13/09kantouA_toukai_kansaiA.pdf?id=858,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-特製豚汁,170円,https://www.hottomotto.com/menu_list/view/13/1189,61kcal,4.8g,1.4g,8.0g,6.4g,1.6g,2.8g
-わかめスープ,150円,https://www.hottomotto.com/menu_list/view/13/1192,35kcal,1.8g,1.3g,3.8g,0.0g,0.0g,1.8g
-東京都のアレルギー・栄養成分・原産国情報,N/A,https://www.hottomotto.com/menu_list/info/13,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-白身フライ,150円,https://www.hottomotto.com/menu_list/view/13/986,226kcal,9.4g,12.1g,20.3g,19.4g,0.9g,1.0g
-きのこごはん単品,300円,https://www.hottomotto.com/menu_list/view/13/1249,337kcal,7.8g,4.2g,68.2g,65.9g,2.3g,2.2g
-東京都のアレルギー・栄養成分・原産国情報,N/A,https://www.hottomotto.com/menu_list/info/13#!/tab/eiyo,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-8コ入りチキンBOX,750円,https://www.hottomotto.com/menu_list/view/13/1008,596kcal,48.2g,35.2g,21.4g,19.8g,1.6g,4.2g
-ビーフカットステーキ弁当,960円,https://www.hottomotto.com/menu_list/view/13/1250,653kcal,26.3g,15.0g,107.0g,98.3g,8.7g,4.3g
-メンチカツ,100円,https://www.hottomotto.com/menu_list/view/13/1197,134kcal,4.3g,8.7g,10.0g,9.2g,0.8g,1.0g
-チキン南蛮バーガー,450円,https://www.hottomotto.com/menu_list/view/13/892,N/A,N/A,N/A,N/A,N/A,N/A,N/A
-カレー　ルーのみ,490円,https://www.hottomotto.com/menu_list/view/13/1163,118kcal,4.6g,3.4g,18.3g,16.4g,1.9g,2.6g
-カレー,590円,https://www.hottomotto.com/menu_list/view/13/1132,468kcal,10.4g,3.9g,101.4g,94.5g,6.9g,3.1g
+product_name,price,picture,calorie,protein,fat,carbohydrate,sugar,fiber,salt,url
+手羽から揚(しお味)5本入り,310,https://www.hottomotto.com/files/menu_img/sp_1184.jpg?id=5845,200kcal,13.2g,13.7g,5.9g,5.7g,0.2g,1.6g,https://www.hottomotto.com/menu_list/view/13/1184
+ビーフカットステーキ　おかずのみ,860,https://www.hottomotto.com/files/menu_img/sp_882.jpg?id=5845,317kcal,20.8g,14.5g,27.2g,23.1g,4.1g,4.3g,https://www.hottomotto.com/menu_list/view/13/882
+Wしょうが焼き(肉２倍)　おかずのみ,890,https://www.hottomotto.com/files/menu_img/sp_1157.jpg?id=5845,671kcal,34.2g,45.1g,34.5g,29.7g,4.8g,5.6g,https://www.hottomotto.com/menu_list/view/13/1157
+特製豚汁,170,https://www.hottomotto.com/files/menu_img/sp_1189.jpg?id=5845,61kcal,4.8g,1.4g,8.0g,6.4g,1.6g,2.8g,https://www.hottomotto.com/menu_list/view/13/1189
+のり弁バーガー,400,https://www.hottomotto.com/files/menu_img/sp_891.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/891
+デミグラスハンバーグ＆から揚弁当,950,https://www.hottomotto.com/files/menu_img/sp_1272.jpg?id=5845,833kcal,40.0g,27.4g,110.2g,102.2g,8.0g,4.6g,https://www.hottomotto.com/menu_list/view/13/1272
+から揚カレー,770,https://www.hottomotto.com/files/menu_img/sp_1134.jpg?id=5845,681kcal,28.1g,17.1g,107.0g,99.7g,7.3g,4.2g,https://www.hottomotto.com/menu_list/view/13/1134
+牛焼肉＆から揚　おかずのみ,870,https://www.hottomotto.com/files/menu_img/sp_1047.jpg?id=5845,582kcal,30.7g,38.7g,29.6g,25.1g,4.5g,4.5g,https://www.hottomotto.com/menu_list/view/13/1047
+夏のよくばり牛カレー,670,https://www.hottomotto.com/files/menu_img/sp_1238.jpg?id=5845,582kcal,13.0g,16.2g,98.8g,92.7g,6.1g,2.3g,https://www.hottomotto.com/menu_list/view/13/1238
+W特製ナポリタン＆サラダ(麺2倍),650,https://www.hottomotto.com/files/menu_img/sp_1292.jpg?id=5845,770kcal,34.6g,29.1g,100.4g,88.7g,11.7g,5.5g,https://www.hottomotto.com/menu_list/view/13/1292
+海鮮天ぷら弁当,740,https://www.hottomotto.com/files/menu_img/sp_1229.jpg?id=5845,782kcal,19.3g,22.6g,128.9g,120.4g,8.5g,3.4g,https://www.hottomotto.com/menu_list/view/13/1229
+旨だれ焼鳥つくね重,660,https://www.hottomotto.com/files/menu_img/sp_1287.jpg?id=5845,628kcal,27.7g,18.0g,91.9g,85.1g,6.8g,3.2g,https://www.hottomotto.com/menu_list/view/13/1287
+夏のよくばり牛カレー(ロースカツ),890,https://www.hottomotto.com/files/menu_img/sp_1240.jpg?id=5845,965kcal,31.7g,40.8g,121.1g,113.7g,7.4g,2.9g,https://www.hottomotto.com/menu_list/view/13/1240
+旨さやみつきキムチ,130,https://www.hottomotto.com/files/menu_img/sp_183.jpg?id=5845,52kcal,2.4g,0.6g,9.4g,7.6g,1.8g,2.5g,https://www.hottomotto.com/menu_list/view/13/183
+おにぎりセット,500,https://www.hottomotto.com/files/menu_img/sp_1175.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1175
+6コ入り から揚弁当,720,https://www.hottomotto.com/files/menu_img/sp_1256.jpg?id=5845,850kcal,42.2g,28.3g,106.7g,99.7g,7.0g,3.9g,https://www.hottomotto.com/menu_list/view/13/1256
+ロースかつとじ　おかずのみ,580,https://www.hottomotto.com/files/menu_img/sp_1172.jpg?id=5845,474kcal,28.8g,25.5g,33.2g,31.1g,2.1g,4.1g,https://www.hottomotto.com/menu_list/view/13/1172
+Wしょうが焼き弁当(肉２倍),990,https://www.hottomotto.com/files/menu_img/sp_1265.jpg?id=5845,1007kcal,39.7g,45.6g,114.3g,104.9g,9.4g,5.6g,https://www.hottomotto.com/menu_list/view/13/1265
+海苔とあおさのみそ汁,160,https://www.hottomotto.com/files/menu_img/sp_1195.jpg?id=5845,42kcal,2.5g,1.0g,5.8g,4.1g,1.7g,2.3g,https://www.hottomotto.com/menu_list/view/13/1195
+から揚,110,https://www.hottomotto.com/files/menu_img/sp_1040.jpg?id=5845,74kcal,6.0g,4.4g,2.6g,2.4g,0.2g,0.4g,https://www.hottomotto.com/menu_list/view/13/1040
+オードブル,3300,https://www.hottomotto.com/files/menu_img/sp_231.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/231
+海鮮天とじ丼,730,https://www.hottomotto.com/files/menu_img/sp_1228.jpg?id=5845,843kcal,25.9g,26.6g,128.9g,121.6g,7.3g,4.7g,https://www.hottomotto.com/menu_list/view/13/1228
+チキポテBOX,650,https://www.hottomotto.com/files/menu_img/sp_1010.jpg?id=5845,692kcal,30.3g,37.0g,61.7g,55.9g,5.8g,2.7g,https://www.hottomotto.com/menu_list/view/13/1010
+海鮮天丼,680,https://www.hottomotto.com/files/menu_img/sp_1227.jpg?id=5845,734kcal,18.0g,21.1g,121.3g,113.8g,7.5g,2.9g,https://www.hottomotto.com/menu_list/view/13/1227
+ミニわかめうどん,150,https://www.hottomotto.com/files/menu_img/sp_1190.jpg?id=5845,149kcal,3.8g,1.0g,31.3g,29.7g,1.6g,3.4g,https://www.hottomotto.com/menu_list/view/13/1190
+しゃけ弁当,640,https://www.hottomotto.com/files/menu_img/sp_970.jpg?id=5845,624kcal,21.6g,16.5g,101.2g,94.1g,7.1g,3.3g,https://www.hottomotto.com/menu_list/view/13/970
+九州チキン南蛮　おかずのみ,570,https://www.hottomotto.com/files/menu_img/sp_1166.jpg?id=5845,499kcal,18.6g,24.0g,49.7g,47.4g,2.3g,2.8g,https://www.hottomotto.com/menu_list/view/13/1166
+牛焼肉　おかずのみ,620,https://www.hottomotto.com/files/menu_img/sp_1158.jpg?id=5845,371kcal,13.1g,25.6g,23.8g,20.0g,3.8g,3.4g,https://www.hottomotto.com/menu_list/view/13/1158
+特撰幕の内弁当,970,https://www.hottomotto.com/files/menu_img/sp_1281.jpg?id=5845,911kcal,36.6g,36.7g,112.6g,104.5g,8.1g,5.0g,https://www.hottomotto.com/menu_list/view/13/1281
+温玉付きW焼鳥つくね重(肉2倍),1120,https://www.hottomotto.com/files/menu_img/sp_1290.jpg?id=5845,989kcal,56.4g,41.2g,103.4g,94.9g,8.5g,6.5g,https://www.hottomotto.com/menu_list/view/13/1290
+肉野菜炒め弁当,690,https://www.hottomotto.com/files/menu_img/sp_1278.jpg?id=5845,617kcal,22.2g,16.9g,99.3g,89.2g,10.1g,4.3g,https://www.hottomotto.com/menu_list/view/13/1278
+東京都のアレルギー・栄養成分・原産国情報,N/A,https://www.hottomotto.com/img/allergy/icon_allergy_wheat.png,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/info/13
+チキン南蛮スペシャルスポーツ弁当,990,https://www.hottomotto.com/files/menu_img/sp_1295.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1295
+デミグラスハンバーグ＆から揚　おかずのみ,850,https://www.hottomotto.com/files/menu_img/sp_1048.jpg?id=5845,497kcal,34.5g,26.9g,30.4g,27.0g,3.4g,4.6g,https://www.hottomotto.com/menu_list/view/13/1048
+洋風バラエティ弁当,690,https://www.hottomotto.com/files/menu_img/sp_1283.jpg?id=5845,869kcal,27.1g,31.6g,123.2g,114.7g,8.5g,4.6g,https://www.hottomotto.com/menu_list/view/13/1283
+特注弁当,1100,https://www.hottomotto.com/files/menu_img/sp_1202.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1202
+ビーフカットステーキ重,890,https://www.hottomotto.com/files/menu_img/sp_878.jpg?id=5845,590kcal,24.2g,13.3g,96.5g,89.9g,6.6g,3.6g,https://www.hottomotto.com/menu_list/view/13/878
+ドラえもんプレート,2000,https://www.hottomotto.com/files/menu_img/sp_1079.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1079
+ハンバーグスペシャルスポーツ弁当,990,https://www.hottomotto.com/files/menu_img/sp_1296.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1296
+プラスから揚（2コ入り）,210,https://www.hottomotto.com/files/menu_img/sp_1041.jpg?id=5845,148kcal,12.0g,8.8g,5.2g,4.8g,0.4g,0.8g,https://www.hottomotto.com/menu_list/view/13/1041
+のり弁当,460,https://www.hottomotto.com/files/menu_img/sp_971.jpg?id=5845,774kcal,22.8g,23.6g,117.6g,109.9g,7.7g,4.3g,https://www.hottomotto.com/menu_list/view/13/971
+全部のせのりタル弁当,650,https://www.hottomotto.com/files/menu_img/sp_974.jpg?id=5845,1006kcal,32.0g,40.2g,133.3g,124.6g,8.7g,5.2g,https://www.hottomotto.com/menu_list/view/13/974
+ポテトサラダ(ツナ＆マカロニ入り),180,https://www.hottomotto.com/files/menu_img/sp_1093.jpg?id=5845,70kcal,1.4g,3.9g,7.7g,7.1g,0.6g,0.4g,https://www.hottomotto.com/menu_list/view/13/1093
+豚汁,160,https://www.hottomotto.com/files/menu_img/sp_1196.jpg?id=5845,81kcal,5.1g,2.3g,9.7g,0.0g,0.0g,2.2g,https://www.hottomotto.com/menu_list/view/13/1196
+和風オニオンソースハンバーグ　おかずのみ,620,https://www.hottomotto.com/files/menu_img/sp_1161.jpg?id=5845,355kcal,17.7g,15.3g,38.5g,34.0g,4.5g,3.6g,https://www.hottomotto.com/menu_list/view/13/1161
+もちミニ®彩・豆腐ハンバーグ弁当,560,https://www.hottomotto.com/files/menu_img/sp_1124.jpg?id=5845,512kcal,12.6g,14.7g,86.3g,78.8g,7.5g,2.1g,https://www.hottomotto.com/menu_list/view/13/1124
+オードブル,5500,https://www.hottomotto.com/files/menu_img/sp_1078.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1078
+フライドポテトBOX,500,https://www.hottomotto.com/files/menu_img/sp_1011.jpg?id=5845,633kcal,9.9g,29.2g,87.5g,79.3g,8.2g,1.9g,https://www.hottomotto.com/menu_list/view/13/1011
+チキン南蛮バーガー,450,https://www.hottomotto.com/files/menu_img/sp_892.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/892
+チキン南蛮弁当,670,https://www.hottomotto.com/files/menu_img/sp_1259.jpg?id=5845,885kcal,26.9g,34.4g,118.7g,111.8g,6.9g,3.4g,https://www.hottomotto.com/menu_list/view/13/1259
+パリパリ春巻,140,https://www.hottomotto.com/files/menu_img/sp_1007.jpg?id=5845,172kcal,2.6g,11.8g,14.6g,13.3g,1.3g,0.6g,https://www.hottomotto.com/menu_list/view/13/1007
+東京都のアレルギー・栄養成分・原産国情報,N/A,https://www.hottomotto.com/img/allergy/icon_allergy_wheat.png,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/info/13#!/tab/eiyo
+手羽から揚(しお味)10本入り,560,https://www.hottomotto.com/files/menu_img/sp_1185.jpg?id=5845,400kcal,26.4g,27.4g,11.8g,11.4g,0.4g,3.2g,https://www.hottomotto.com/menu_list/view/13/1185
+7品目のミックスサラダ,190,https://www.hottomotto.com/files/menu_img/sp_1188.jpg?id=5845,84kcal,2.9g,4.9g,9.0g,6.1g,2.9g,0.7g,https://www.hottomotto.com/menu_list/view/13/1188
+和風オニオンソースハンバーグ＆から揚　おかずのみ,850,https://www.hottomotto.com/files/menu_img/sp_1049.jpg?id=5845,533kcal,34.5g,27.0g,39.2g,35.9g,3.3g,5.4g,https://www.hottomotto.com/menu_list/view/13/1049
+しじみのみそ汁,160,https://www.hottomotto.com/files/menu_img/sp_1194.jpg?id=5845,34kcal,2.4g,0.9g,3.9g,3.3g,0.6g,2.1g,https://www.hottomotto.com/menu_list/view/13/1194
+スポーツ弁当　から揚＆デミメンチ,680,https://www.hottomotto.com/files/menu_img/sp_1204.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1204
+サラダ＆ビーフカットステーキコンボ,980,https://www.hottomotto.com/files/menu_img/sp_880.jpg?id=5845,603kcal,24.7g,15.1g,95.0g,88.2g,6.8g,4.2g,https://www.hottomotto.com/menu_list/view/13/880
+親子丼,570,https://www.hottomotto.com/files/menu_img/sp_1147.jpg?id=5845,660kcal,30.1g,19.0g,95.1g,89.2g,5.9g,4.3g,https://www.hottomotto.com/menu_list/view/13/1147
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/download_pamphlet/13/09kantouA_toukai_kansaiA.pdf?id=858
+W特製ナポリタン弁当(麺2倍),700,https://www.hottomotto.com/files/menu_img/sp_1294.jpg?id=5845,982kcal,37.0g,26.1g,158.7g,144.8g,13.9g,4.7g,https://www.hottomotto.com/menu_list/view/13/1294
+ロースかつとじ弁当,680,https://www.hottomotto.com/files/menu_img/sp_1276.jpg?id=5845,810kcal,34.3g,26.0g,113.0g,106.3g,6.7g,4.1g,https://www.hottomotto.com/menu_list/view/13/1276
+8コ入りチキンBOX,750,https://www.hottomotto.com/files/menu_img/sp_1008.jpg?id=5845,596kcal,48.2g,35.2g,21.4g,19.8g,1.6g,4.2g,https://www.hottomotto.com/menu_list/view/13/1008
+うな重(3切れ),1040,https://www.hottomotto.com/files/menu_img/sp_1104.jpg?id=5845,601kcal,23.7g,17.3g,90.3g,85.0g,5.3g,2.8g,https://www.hottomotto.com/menu_list/view/13/1104
+和風オニオンソースハンバーグ弁当,720,https://www.hottomotto.com/files/menu_img/sp_1270.jpg?id=5845,691kcal,23.2g,15.8g,118.3g,109.2g,9.1g,3.6g,https://www.hottomotto.com/menu_list/view/13/1270
+ライス単品(中),190,https://www.hottomotto.com/files/menu_img/sp_1191.jpg?id=5845,336kcal,5.5g,0.5g,79.8g,75.2g,4.6g,0.0g,https://www.hottomotto.com/menu_list/view/13/1191
+肉野菜炒め　おかずのみ,590,https://www.hottomotto.com/files/menu_img/sp_1174.jpg?id=5845,281kcal,16.7g,16.4g,19.5g,14.0g,5.5g,4.3g,https://www.hottomotto.com/menu_list/view/13/1174
+BIGのりタル弁当(ナポリタン),740,https://www.hottomotto.com/files/menu_img/sp_1232.jpg?id=5845,1211kcal,40.0g,45.1g,169.4g,157.1g,12.3g,6.5g,https://www.hottomotto.com/menu_list/view/13/1232
+ロースとんかつ　おかずのみ,580,https://www.hottomotto.com/files/menu_img/sp_1170.jpg?id=5845,489kcal,20.6g,26.8g,42.2g,39.6g,2.6g,3.3g,https://www.hottomotto.com/menu_list/view/13/1170
+大判牛焼きすき重(肉2枚),790,https://www.hottomotto.com/files/menu_img/sp_1088.jpg?id=5845,573kcal,24.3g,14.1g,89.7g,85.0g,4.7g,2.8g,https://www.hottomotto.com/menu_list/view/13/1088
+ビーフカットステーキ弁当,960,https://www.hottomotto.com/files/menu_img/sp_1250.jpg?id=5845,653kcal,26.3g,15.0g,107.0g,98.3g,8.7g,4.3g,https://www.hottomotto.com/menu_list/view/13/1250
+スポーツ弁当　12品目の幕の内,730,https://www.hottomotto.com/files/menu_img/sp_1207.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1207
+チーズハンバーグ　おかずのみ,700,https://www.hottomotto.com/files/menu_img/sp_1225.jpg?id=5845,371kcal,19.1g,20.5g,30.1g,25.5g,4.6g,3.7g,https://www.hottomotto.com/menu_list/view/13/1225
+さっぱりゆず大根,180,https://www.hottomotto.com/files/menu_img/sp_1095.jpg?id=5845,23kcal,0.3g,0.0g,5.8g,5.0g,0.8g,0.6g,https://www.hottomotto.com/menu_list/view/13/1095
+夏のよくばり牛カレー(から揚),850,https://www.hottomotto.com/files/menu_img/sp_1239.jpg?id=5845,804kcal,31.0g,29.4g,106.6g,99.9g,6.7g,3.5g,https://www.hottomotto.com/menu_list/view/13/1239
+スポーツ弁当　のり,650,https://www.hottomotto.com/files/menu_img/sp_1205.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1205
+ロースとんかつ弁当,680,https://www.hottomotto.com/files/menu_img/sp_1274.jpg?id=5845,825kcal,26.1g,27.3g,122.0g,114.8g,7.2g,3.3g,https://www.hottomotto.com/menu_list/view/13/1274
+W旨だれ焼鳥つくね重(肉2倍),1050,https://www.hottomotto.com/files/menu_img/sp_1288.jpg?id=5845,915kcal,49.5g,35.5g,103.2g,94.7g,8.5g,6.3g,https://www.hottomotto.com/menu_list/view/13/1288
+上・海鮮天丼,890,https://www.hottomotto.com/files/menu_img/sp_1230.jpg?id=5845,830kcal,22.8g,26.5g,128.5g,120.7g,7.8g,3.3g,https://www.hottomotto.com/menu_list/view/13/1230
+ドラえもんランチ/ドラミちゃんランチ(カレー),520,https://www.hottomotto.com/files/menu_img/sp_1065.jpg?id=5845,433kcal,17.8g,16.2g,56.1g,52.0g,4.1g,2.3g,https://www.hottomotto.com/menu_list/view/13/1065
+牛焼肉弁当,720,https://www.hottomotto.com/files/menu_img/sp_1266.jpg?id=5845,707kcal,18.6g,26.1g,103.6g,95.2g,8.4g,3.4g,https://www.hottomotto.com/menu_list/view/13/1266
+W牛焼肉弁当(肉２倍),1070,https://www.hottomotto.com/files/menu_img/sp_1267.jpg?id=5845,1004kcal,29.1g,49.9g,114.6g,104.4g,10.2g,5.5g,https://www.hottomotto.com/menu_list/view/13/1267
+6種具材のひじき煮,180,https://www.hottomotto.com/files/menu_img/sp_1094.jpg?id=5845,31kcal,1.6g,0.8g,5.2g,3.4g,1.8g,0.6g,https://www.hottomotto.com/menu_list/view/13/1094
+メンチカツ,100,https://www.hottomotto.com/files/menu_img/sp_1197.jpg?id=5845,134kcal,4.3g,8.7g,10.0g,9.2g,0.8g,1.0g,https://www.hottomotto.com/menu_list/view/13/1197
+スポーツ弁当　しょうが焼き＆焼売,680,https://www.hottomotto.com/files/menu_img/sp_1203.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1203
+しょうが焼き＆から揚弁当,920,https://www.hottomotto.com/files/menu_img/sp_1257.jpg?id=5845,942kcal,43.3g,35.8g,116.0g,107.0g,9.0g,5.1g,https://www.hottomotto.com/menu_list/view/13/1257
+フライドポテト,180,https://www.hottomotto.com/files/menu_img/sp_1186.jpg?id=5845,197kcal,3.1g,9.7g,25.5g,23.0g,2.5g,0.5g,https://www.hottomotto.com/menu_list/view/13/1186
+4コ入り から揚弁当,570,https://www.hottomotto.com/files/menu_img/sp_1255.jpg?id=5845,702kcal,30.2g,19.5g,101.5g,94.9g,6.6g,3.0g,https://www.hottomotto.com/menu_list/view/13/1255
+わかめスープ,150,https://www.hottomotto.com/files/menu_img/sp_1192.jpg?id=5845,35kcal,1.8g,1.3g,3.8g,0.0g,0.0g,1.8g,https://www.hottomotto.com/menu_list/view/13/1192
+幕の内弁当,690,https://www.hottomotto.com/files/menu_img/sp_1280.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1280
+海鮮天ぷら　おかずのみ,640,https://www.hottomotto.com/files/menu_img/sp_1231.jpg?id=5845,446kcal,13.8g,22.1g,49.1g,45.2g,3.9g,3.4g,https://www.hottomotto.com/menu_list/view/13/1231
+おつまみプレート,1600,https://www.hottomotto.com/files/menu_img/sp_1080.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1080
+カレー　ルーのみ,490,https://www.hottomotto.com/files/menu_img/sp_1163.jpg?id=5845,118kcal,4.6g,3.4g,18.3g,16.4g,1.9g,2.6g,https://www.hottomotto.com/menu_list/view/13/1163
+特のりタル弁当,590,https://www.hottomotto.com/files/menu_img/sp_972.jpg?id=5845,875kcal,28.1g,32.8g,120.9g,112.8g,8.1g,4.3g,https://www.hottomotto.com/menu_list/view/13/972
+特注弁当　梅,1000,https://www.hottomotto.com/files/menu_img/sp_1201.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1201
+ちくわ天,80,https://www.hottomotto.com/files/menu_img/sp_985.jpg?id=5845,133kcal,4.2g,7.4g,12.6g,12.0g,0.6g,1.2g,https://www.hottomotto.com/menu_list/view/13/985
+特製ナポリタン＆サラダ,500,https://www.hottomotto.com/files/menu_img/sp_1291.jpg?id=5845,539kcal,26.7g,26.0g,55.3g,48.4g,6.9g,3.9g,https://www.hottomotto.com/menu_list/view/13/1291
+旨辛特製豚汁,200,https://www.hottomotto.com/files/menu_img/sp_1182.jpg?id=5845,85kcal,5.0g,2.9g,10.4g,8.6g,1.8g,3.4g,https://www.hottomotto.com/menu_list/view/13/1182
+白身フライ,150,https://www.hottomotto.com/files/menu_img/sp_986.jpg?id=5845,226kcal,9.4g,12.1g,20.3g,19.4g,0.9g,1.0g,https://www.hottomotto.com/menu_list/view/13/986
+しょうが焼き　おかずのみ,570,https://www.hottomotto.com/files/menu_img/sp_1156.jpg?id=5845,365kcal,18.2g,23.4g,22.1g,18.7g,3.4g,3.2g,https://www.hottomotto.com/menu_list/view/13/1156
+夏のよくばり牛カレー(チーズ),760,https://www.hottomotto.com/files/menu_img/sp_1241.jpg?id=5845,670kcal,18.9g,23.2g,99.2g,93.1g,6.1g,2.8g,https://www.hottomotto.com/menu_list/view/13/1241
+W牛焼肉(肉２倍)　おかずのみ,970,https://www.hottomotto.com/files/menu_img/sp_1159.jpg?id=5845,668kcal,23.6g,49.4g,34.8g,29.2g,5.6g,5.5g,https://www.hottomotto.com/menu_list/view/13/1159
+特注弁当　松,1600,https://www.hottomotto.com/files/menu_img/sp_1199.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1199
+4コ入り から揚　おかずのみ,470,https://www.hottomotto.com/files/menu_img/sp_1044.jpg?id=5845,366kcal,24.7g,19.0g,21.7g,19.7g,2.0g,3.0g,https://www.hottomotto.com/menu_list/view/13/1044
+12コ入りチキンBOX,990,https://www.hottomotto.com/files/menu_img/sp_1237.jpg?id=5845,892kcal,72.2g,52.8g,31.8g,29.4g,2.4g,5.8g,https://www.hottomotto.com/menu_list/view/13/1237
+ドラえもんランチ/ドラミちゃんランチ(ふりかけ),520,https://www.hottomotto.com/files/menu_img/sp_1064.jpg?id=5845,415kcal,16.9g,16.7g,51.4g,47.2g,4.2g,2.0g,https://www.hottomotto.com/menu_list/view/13/1064
+たっぷりグリーンサラダ,170,https://www.hottomotto.com/files/menu_img/sp_1187.jpg?id=5845,54kcal,2.0g,3.5g,4.9g,3.2g,1.7g,0.4g,https://www.hottomotto.com/menu_list/view/13/1187
+和風オニオンソースハンバーグ＆から揚弁当,950,https://www.hottomotto.com/files/menu_img/sp_1273.jpg?id=5845,869kcal,40.0g,27.5g,119.0g,111.1g,7.9g,5.4g,https://www.hottomotto.com/menu_list/view/13/1273
+デミグラスハンバーグ　おかずのみ,620,https://www.hottomotto.com/files/menu_img/sp_1160.jpg?id=5845,319kcal,17.7g,15.2g,29.7g,25.1g,4.6g,2.8g,https://www.hottomotto.com/menu_list/view/13/1160
+おろしチキン竜田　おかずのみ,570,https://www.hottomotto.com/files/menu_img/sp_1155.jpg?id=5845,569kcal,17.2g,38.9g,37.9g,35.5g,2.4g,3.6g,https://www.hottomotto.com/menu_list/view/13/1155
+W大判牛焼きすき重(肉4枚),1230,https://www.hottomotto.com/files/menu_img/sp_1089.jpg?id=5845,731kcal,36.4g,22.1g,99.2g,94.5g,4.7g,5.1g,https://www.hottomotto.com/menu_list/view/13/1089
+特注弁当　竹,1300,https://www.hottomotto.com/files/menu_img/sp_1200.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1200
+Wビーフカットステーキ重（肉2倍),1500,https://www.hottomotto.com/files/menu_img/sp_879.jpg?id=5845,802kcal,41.3g,24.4g,106.9g,99.9g,7.0g,7.0g,https://www.hottomotto.com/menu_list/view/13/879
+たまごスープ,150,https://www.hottomotto.com/files/menu_img/sp_1193.jpg?id=5845,31kcal,2.1g,1.5g,2.2g,0.0g,0.0g,1.7g,https://www.hottomotto.com/menu_list/view/13/1193
+とりめし弁当,580,https://www.hottomotto.com/files/menu_img/sp_1038.jpg?id=5845,702kcal,27.0g,21.4g,103.3g,96.8g,6.5g,3.4g,https://www.hottomotto.com/menu_list/view/13/1038
+牛すきうな重(2切れ),940,https://www.hottomotto.com/files/menu_img/sp_1103.jpg?id=5845,693kcal,23.6g,23.8g,98.4g,94.0g,4.4g,4.0g,https://www.hottomotto.com/menu_list/view/13/1103
+九州チキン南蛮弁当,670,https://www.hottomotto.com/files/menu_img/sp_1263.jpg?id=5845,835kcal,24.1g,24.5g,129.5g,122.6g,6.9g,2.8g,https://www.hottomotto.com/menu_list/view/13/1263
+エビフライ,110,https://www.hottomotto.com/files/menu_img/sp_1198.jpg?id=5845,77kcal,2.1g,4.8g,6.4g,6.1g,0.3g,0.6g,https://www.hottomotto.com/menu_list/view/13/1198
+きのこごはん単品,300,https://www.hottomotto.com/files/menu_img/sp_1249.jpg?id=5845,337kcal,7.8g,4.2g,68.2g,65.9g,2.3g,2.2g,https://www.hottomotto.com/menu_list/view/13/1249
+ロースカツカレー,810,https://www.hottomotto.com/files/menu_img/sp_1133.jpg?id=5845,842kcal,28.8g,28.5g,121.5g,113.5g,8.0g,3.6g,https://www.hottomotto.com/menu_list/view/13/1133
+チキン南蛮　おかずのみ,570,https://www.hottomotto.com/files/menu_img/sp_1164.jpg?id=5845,549kcal,21.4g,33.9g,38.9g,36.6g,2.3g,3.4g,https://www.hottomotto.com/menu_list/view/13/1164
+6コ入り から揚　おかずのみ,620,https://www.hottomotto.com/files/menu_img/sp_1045.jpg?id=5845,514kcal,36.7g,27.8g,26.9g,24.5g,2.4g,3.8g,https://www.hottomotto.com/menu_list/view/13/1045
+WチキンBOX （から揚＆手羽から揚）,820,https://www.hottomotto.com/files/menu_img/sp_1009.jpg?id=5845,618kcal,45.3g,39.5g,20.2g,19.1g,1.1g,4.9g,https://www.hottomotto.com/menu_list/view/13/1009
+しょうが焼き弁当,670,https://www.hottomotto.com/files/menu_img/sp_1264.jpg?id=5845,701kcal,23.7g,23.9g,101.9g,93.9g,8.0g,3.2g,https://www.hottomotto.com/menu_list/view/13/1264
+カレー,590,https://www.hottomotto.com/files/menu_img/sp_1132.jpg?id=5845,468kcal,10.4g,3.9g,101.4g,94.5g,6.9g,3.1g,https://www.hottomotto.com/menu_list/view/13/1132
+しょうが焼き＆から揚　おかずのみ,820,https://www.hottomotto.com/files/menu_img/sp_1046.jpg?id=5845,606kcal,37.8g,35.3g,36.2g,31.8g,4.4g,5.0g,https://www.hottomotto.com/menu_list/view/13/1046
+オードブル,2200,https://www.hottomotto.com/files/menu_img/sp_230.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/230
+ほっとチキン,230,https://www.hottomotto.com/files/menu_img/sp_1183.jpg?id=5845,212kcal,12.3g,13.3g,11.1g,10.4g,0.7g,1.8g,https://www.hottomotto.com/menu_list/view/13/1183
+ロースかつ丼,650,https://www.hottomotto.com/files/menu_img/sp_1149.jpg?id=5845,812kcal,34.3g,26.0g,113.6g,106.8g,6.8g,4.3g,https://www.hottomotto.com/menu_list/view/13/1149
+おろしチキン竜田弁当,670,https://www.hottomotto.com/files/menu_img/sp_1268.jpg?id=5845,905kcal,22.7g,39.4g,117.7g,110.7g,7.0g,3.7g,https://www.hottomotto.com/menu_list/view/13/1268
+特製ナポリタン弁当,550,https://www.hottomotto.com/files/menu_img/sp_1293.jpg?id=5845,751kcal,29.1g,23.0g,113.6g,104.5g,9.1g,3.2g,https://www.hottomotto.com/menu_list/view/13/1293
+夏のよくばり牛カレールー,570,https://www.hottomotto.com/files/menu_img/sp_1242.jpg?id=5845,241kcal,7.4g,15.7g,17.8g,16.5g,1.3g,1.9g,https://www.hottomotto.com/menu_list/view/13/1242
+牛焼肉＆から揚弁当,970,https://www.hottomotto.com/files/menu_img/sp_1258.jpg?id=5845,918kcal,36.2g,39.2g,109.4g,100.3g,9.1g,4.5g,https://www.hottomotto.com/menu_list/view/13/1258
+チーズハンバーグ弁当,800,https://www.hottomotto.com/files/menu_img/sp_1271.jpg?id=5845,707kcal,24.6g,21.0g,109.9g,100.7g,9.2g,3.7g,https://www.hottomotto.com/menu_list/view/13/1271
+スポーツ弁当　バラエティ,730,https://www.hottomotto.com/files/menu_img/sp_1206.jpg?id=5845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.hottomotto.com/menu_list/view/13/1206
+もちミニ 海鮮天丼,620,https://www.hottomotto.com/files/menu_img/sp_1226.jpg?id=5845,655kcal,15.9g,19.5g,107.3g,99.8g,7.5g,2.7g,https://www.hottomotto.com/menu_list/view/13/1226
+もちミニ®しゃけ弁当,590,https://www.hottomotto.com/files/menu_img/sp_1126.jpg?id=5845,487kcal,17.3g,12.7g,79.0g,73.1g,5.9g,2.2g,https://www.hottomotto.com/menu_list/view/13/1126
+温玉付き焼鳥つくね重,730,https://www.hottomotto.com/files/menu_img/sp_1289.jpg?id=5845,702kcal,34.6g,23.7g,92.1g,85.3g,6.8g,3.4g,https://www.hottomotto.com/menu_list/view/13/1289
+デミグラスハンバーグ弁当,720,https://www.hottomotto.com/files/menu_img/sp_1269.jpg?id=5845,655kcal,23.2g,15.7g,109.5g,100.3g,9.2g,2.8g,https://www.hottomotto.com/menu_list/view/13/1269
