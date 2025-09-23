@@ -109,26 +109,49 @@ def save_to_csv(data, filename=filename):
         print(f"追加保存：{data['product_name']}")
 
 
-# カテゴリページをクロールして商品URLを収集
-def scrape_category(url):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.content, 'html.parser')
+from urllib.parse import urljoin
 
-    product_links = []
-    for a in soup.select("div.list_inner a"):
-        href = a.get("href")
-        if href and "/products/" in href:
-            full_url = "https://www.sej.co.jp" + href
-            product_links.append(full_url)
+def scrape_category_all_pages(base_url):
+    all_links = set()
+    visited_pages = set()
+    next_pages = [base_url]
 
-    return list(set(product_links))  # 重複除去
+    while next_pages:
+        url = next_pages.pop(0)
+        if url in visited_pages:
+            continue
+        visited_pages.add(url)
+
+        print(f"取得中: {url}")
+        response = requests.get(url)
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        # 商品リンク収集
+        for a in soup.select("div.list_inner a"):
+            href = a.get("href")
+            if href and "/products/" in href:
+                full_url = urljoin("https://www.sej.co.jp", href)
+                all_links.add(full_url)
+
+        # ページャーから次ページ候補を収集
+        pager = soup.select("div.pager a")
+        for a in pager:
+            href = a.get("href")
+            if href:
+                next_url = urljoin("https://www.sej.co.jp", href)
+                if next_url not in visited_pages:
+                    next_pages.append(next_url)
+
+    return list(all_links)
+
 
 
 # 使用例
 if __name__ == "__main__":
-    category_url = "https://www.sej.co.jp/products/a/onigiri"  # おにぎりカテゴリ例
-    product_urls = scrape_category(category_url)
+    category_url = "https://www.sej.co.jp/products/a/frozen_foods/"
+    product_urls = scrape_category_all_pages(category_url)
 
+    print(f"商品数: {len(product_urls)}")
     for url in product_urls:
         try:
             product_info = scrape_seven_eleven_product(url)
