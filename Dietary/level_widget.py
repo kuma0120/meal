@@ -58,15 +58,15 @@ def _norm_path(path: str) -> str:
 
 # ★要件: カビゴン → プリン → コダック → ピカチュウ → カスミ
 LEVEL_IMAGE_PATHS = [
-    "assets/levels/kabigon.png",   # Lv0
-    "assets/levels/purin.png",     # Lv1
-    "assets/levels/koduck.png",   # Lv2
-    "assets/levels/pikachu.png", # Lv3
-    "assets/levels/kasumi.png",     # Lv4
+    "Dietary/kabigon.png",   # Lv0
+    "Dietary/purin.png",     # Lv1
+    "Dietary/koduck.png",   # Lv2
+    "Dietary/pikachu.png", # Lv3
+    "Dietary/kasumi.png",     # Lv4
 ]
 
 def get_level_image(level: int) -> Optional[str]:
-    """ローカルに存在する最適な画像パスを返す（日本語 → ASCII 代替の順で探索）。"""
+    """ローカルに存在する最適な画像パスを返す"""
     idx = max(0, min(4, int(level)))
     candidates = [
         _norm_path(LEVEL_IMAGE_PATHS[idx]),
