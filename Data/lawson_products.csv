@@ -1,0 +1,705 @@
+﻿product_name,price,picture,calorie,protein,fat,carbohydrate,sugar,fiber,salt,url
+プレミアムおにぎり　わさび仕立ての黒毛和牛カルビ焼肉,322,https://www.lawson.co.jp/recommend/original/detail/img/l794520.jpg,240,5.1,5.2,44.1,42.3,1.8,1.63,https://www.lawson.co.jp/recommend/original/detail/1510654_1996.html
+プレミアムおにぎり　いくら醤油漬,308,https://www.lawson.co.jp/recommend/original/detail/img/l786918.jpg,193,5,1.7,40.2,38.8,1.4,1.37,https://www.lawson.co.jp/recommend/original/detail/1507091_1996.html
+プレミアムおにぎり　焼さけハラミ,297,https://www.lawson.co.jp/recommend/original/detail/img/l786917.jpg,204,6.6,3.3,37.5,36.6,0.9,1.5,https://www.lawson.co.jp/recommend/original/detail/1507092_1996.html
+プレミアムおにぎり　鮭明太,246,https://www.lawson.co.jp/recommend/original/detail/img/l792939.jpg,198,4.9,2.1,40.4,39.3,1.1,1.58,https://www.lawson.co.jp/recommend/original/detail/1510139_1996.html
+プレミアムおにぎり　熟成生たらこ,275,https://www.lawson.co.jp/recommend/original/detail/img/l786936.jpg,197,5.7,1.2,41.3,40.3,1,1.14,https://www.lawson.co.jp/recommend/original/detail/1507291_1996.html
+プレミアムおにぎり　直火焼黒毛和牛カルビ焼肉(ナムル),322,https://www.lawson.co.jp/recommend/original/detail/img/l790847.jpg,247,5.6,6.3,42.7,41,1.7,1.4,https://www.lawson.co.jp/recommend/original/detail/1508650_1996.html
+プレミアムおにぎり　塩にぎり,149,https://www.lawson.co.jp/recommend/original/detail/img/l786939.jpg,207,3.5,1.1,46.2,45.4,0.8,0.85,https://www.lawson.co.jp/recommend/original/detail/1509134_1996.html
+焼豚辛味噌おにぎり,181,https://www.lawson.co.jp/recommend/original/detail/img/l793334.jpg,191,5.3,2.2,37.9,37.1,0.8,1.56,https://www.lawson.co.jp/recommend/original/detail/1390947_1996.html
+舞茸と霜降りひらたけ®のおこわおにぎり,192,https://www.lawson.co.jp/recommend/original/detail/img/l793352.jpg,194,4.4,2.3,39.8,38,1.8,1.19,https://www.lawson.co.jp/recommend/original/detail/1510226_1996.html
+だしおにぎり　梅おかか,138,https://www.lawson.co.jp/recommend/original/detail/img/l793354.jpg,188,4.1,1.2,40.8,39.8,1,1.21,https://www.lawson.co.jp/recommend/original/detail/1510225_1996.html
+大きなおにぎり　シーチキン®マヨネーズ,279,https://www.lawson.co.jp/recommend/original/detail/img/l787963.jpg,366,6.8,11.2,60.5,58.3,2.2,2.13,https://www.lawson.co.jp/recommend/original/detail/1507752_1996.html
+大きなおにぎり　鮭,289,https://www.lawson.co.jp/recommend/original/detail/img/l787354.jpg,283,7.7,2.5,58.6,56.4,2.2,2,https://www.lawson.co.jp/recommend/original/detail/1507533_1996.html
+大きなおにぎり　辛旨チャーハン＆チャーシューマヨネーズ,289,https://www.lawson.co.jp/recommend/original/detail/img/l792625.jpg,337,6.8,9.4,57.3,55.1,2.2,3.4,https://www.lawson.co.jp/recommend/original/detail/1509519_1996.html
+具！おにぎり　ポーク玉子(シーチキン®マヨネーズ),322,https://www.lawson.co.jp/recommend/original/detail/img/l789897.jpg,356,12.4,15.2,43.3,41.6,1.7,2.54,https://www.lawson.co.jp/recommend/original/detail/1504108_1996.html
+具！おにぎり　まるでまぐろたたき丼(とろたく風),354,https://www.lawson.co.jp/recommend/original/detail/img/l791783.jpg,281,10.5,5.5,48,46.5,1.5,3.19,https://www.lawson.co.jp/recommend/original/detail/1509462_1996.html
+大きなおにぎり　高菜明太ごはん,246,https://www.lawson.co.jp/recommend/original/detail/img/l793335.jpg,266,6.4,4.5,51.3,48.6,2.7,1.6,https://www.lawson.co.jp/recommend/original/detail/1510075_1996.html
+手巻おにぎり　シーチキン®マヨネーズ,181,https://www.lawson.co.jp/recommend/original/detail/img/l787518.jpg,226,4.2,7.7,35.7,34,1.7,1.18,https://www.lawson.co.jp/recommend/original/detail/1507601_1996.html
+手巻おにぎり　熟成紀州南高梅,184,https://www.lawson.co.jp/recommend/original/detail/img/l787519.jpg,169,3,1,37.5,36.7,0.8,1.62,https://www.lawson.co.jp/recommend/original/detail/1507754_1996.html
+手巻おにぎり　炙り熟成紅鮭,221,https://www.lawson.co.jp/recommend/original/detail/img/l787520.jpg,174,4.8,1.9,35.1,33.9,1.2,1.19,https://www.lawson.co.jp/recommend/original/detail/1507600_1996.html
+手巻おにぎり　熟成辛子明太子,221,https://www.lawson.co.jp/recommend/original/detail/img/l787521.jpg,174,5.1,1.1,36.6,35.2,1.4,1.37,https://www.lawson.co.jp/recommend/original/detail/1507755_1996.html
+手巻おにぎり　北海道産日高昆布,184,https://www.lawson.co.jp/recommend/original/detail/img/l787525.jpg,173,3.5,0.9,38.6,36.8,1.8,1.34,https://www.lawson.co.jp/recommend/original/detail/1507756_1996.html
+手巻おにぎり　ゆかり®ごはん(沢庵おかか),192,https://www.lawson.co.jp/recommend/original/detail/img/l792646.jpg,160,3.7,1.1,34.6,33.1,1.5,1.21,https://www.lawson.co.jp/recommend/original/detail/1509518_1996.html
+味付海苔手巻おにぎり　追い鰹製法おかか,184,https://www.lawson.co.jp/recommend/original/detail/img/l787516.jpg,171,4.3,0.9,37.2,35.8,1.4,1.25,https://www.lawson.co.jp/recommend/original/detail/1507753_1996.html
+和風シーチキン®マヨネーズおにぎり,181,https://www.lawson.co.jp/recommend/original/detail/img/l784643.jpg,257,5.3,7.1,43.7,42.4,1.3,1.54,https://www.lawson.co.jp/recommend/original/detail/1506447_1996.html
+チャーシューマヨネーズおにぎり,181,https://www.lawson.co.jp/recommend/original/detail/img/l786007.jpg,206,4.9,3.5,39.2,38.1,1.1,1.46,https://www.lawson.co.jp/recommend/original/detail/1500435_1996.html
+胡麻さけおにぎり,167,https://www.lawson.co.jp/recommend/original/detail/img/l784645.jpg,183,5.1,2.2,36.4,35,1.4,1.5,https://www.lawson.co.jp/recommend/original/detail/1506446_1996.html
+三陸産わかめごはんおにぎり,167,https://www.lawson.co.jp/recommend/original/detail/img/l784639.jpg,186,3.8,1.3,40.2,39.4,0.8,1.12,https://www.lawson.co.jp/recommend/original/detail/1506302_1996.html
+阿波尾鶏の鶏五目おにぎり,192,https://www.lawson.co.jp/recommend/original/detail/img/l784647.jpg,171,5,1.6,34.8,33.7,1.1,1.35,https://www.lawson.co.jp/recommend/original/detail/1506445_1996.html
+北海道十勝産小豆　赤飯おこわ,181,https://www.lawson.co.jp/recommend/original/detail/img/l784678.jpg,206,4.8,1.2,45.2,43,2.2,1.11,https://www.lawson.co.jp/recommend/original/detail/1506444_1996.html
+天かすやみつきおにぎり(国産もち麦入り),138,https://www.lawson.co.jp/recommend/original/detail/img/l791782.jpg,204,3.7,4.8,37.7,35.5,2.2,1.29,https://www.lawson.co.jp/recommend/original/detail/1509254_1996.html
+しば漬けしそひじきおにぎり(国産もち麦入り),138,https://www.lawson.co.jp/recommend/original/detail/img/l791781.jpg,159,3.3,1.1,35.1,33,2.1,0.9,https://www.lawson.co.jp/recommend/original/detail/1509253_1996.html
+たっぷり食物繊維が摂れる　梅しそごはんおにぎり(国産もち麦入り),181,https://www.lawson.co.jp/recommend/original/detail/img/l784652.jpg,170,4.2,2,38,29.4,8.6,2.49,https://www.lawson.co.jp/recommend/original/detail/1506442_1996.html
+おにぎり2個セット(胡麻さけ・ゆかり®),408,https://www.lawson.co.jp/recommend/original/detail/img/l788866.jpg,404,11.3,8.5,71.9,69.3,2.6,2.99,https://www.lawson.co.jp/recommend/original/detail/1508134_1996.html
+おにぎりおかずセット(シーチキン®マヨネーズ・鮭),448,https://www.lawson.co.jp/recommend/original/detail/img/l784655.jpg,525,16,17.1,78.7,75,3.7,3.2,https://www.lawson.co.jp/recommend/original/detail/1506441_1996.html
+チャーハン＆焼ラーメンセット,397,https://www.lawson.co.jp/recommend/original/detail/img/l792643.jpg,405,12.2,10.7,66.9,63.2,3.7,4.68,https://www.lawson.co.jp/recommend/original/detail/1509517_1996.html
+たっぷり食物繊維が摂れる　枝豆と塩昆布おにぎり(国産もち麦入り),181,https://www.lawson.co.jp/recommend/original/detail/img/l784649.jpg,172,5.1,2.2,36.9,28.8,8.1,0.64,https://www.lawson.co.jp/recommend/original/detail/1506443_1996.html
+もったいない手巻寿司　サーモンわさび醤油,246,https://www.lawson.co.jp/recommend/original/detail/img/l794518.jpg,168,4.5,2.4,32.6,31.4,1.2,1.3,https://www.lawson.co.jp/recommend/original/detail/1510655_1996.html
+おいなりさん　きのこ(椎茸),214,https://www.lawson.co.jp/recommend/original/detail/img/l793351.jpg,187,5.1,3.6,34.5,32.5,2,1.39,https://www.lawson.co.jp/recommend/original/detail/1510228_1996.html
+寿司おかずセット(いなりと椎茸ちらし),497,https://www.lawson.co.jp/recommend/original/detail/img/l793350.jpg,455,12.8,14.1,71.4,67.1,4.3,3.14,https://www.lawson.co.jp/recommend/original/detail/1510227_1996.html
+手巻寿司　海老マヨ,257,https://www.lawson.co.jp/recommend/original/detail/img/l784636.jpg,186,3.9,4,34.2,33,1.2,1.77,https://www.lawson.co.jp/recommend/original/detail/1509471_1996.html
+手巻寿司　ねぎとろ,257,https://www.lawson.co.jp/recommend/original/detail/img/l784635.jpg,173,5.7,2.5,32.6,31.2,1.4,1.91,https://www.lawson.co.jp/recommend/original/detail/1509470_1996.html
+手巻寿司　サーモンマヨ,257,https://www.lawson.co.jp/recommend/original/detail/img/l784634.jpg,192,4.3,6.4,29.9,28.8,1.1,1.54,https://www.lawson.co.jp/recommend/original/detail/1509469_1996.html
+手巻寿司　納豆,214,https://www.lawson.co.jp/recommend/original/detail/img/l784637.jpg,162,5.6,1.9,31.7,29.7,2,1.29,https://www.lawson.co.jp/recommend/original/detail/1509468_1996.html
+もったいない手巻寿司　ピリ辛豚焼肉,246,https://www.lawson.co.jp/recommend/original/detail/img/l792006.jpg,184,4.5,2.4,37,35.4,1.6,1.74,https://www.lawson.co.jp/recommend/original/detail/1509467_1996.html
+細巻納豆　12巻,430,https://www.lawson.co.jp/recommend/original/detail/img/l784630.jpg,319,11.7,3.8,61.3,57.7,3.6,2.28,https://www.lawson.co.jp/recommend/original/detail/1509466_1996.html
+サラダ巻,475,https://www.lawson.co.jp/recommend/original/detail/img/l792002.jpg,424,8.7,8.5,79.7,76.6,3.1,3.29,https://www.lawson.co.jp/recommend/original/detail/1509465_1996.html
+助六寿司,538,https://www.lawson.co.jp/recommend/original/detail/img/l791999.jpg,466,13.8,10.5,80.8,77.4,3.4,3.32,https://www.lawson.co.jp/recommend/original/detail/1509464_1996.html
+いなり　3個入,311,https://www.lawson.co.jp/recommend/original/detail/img/l791996.jpg,299,9.6,7.3,49.3,48.1,1.2,2.08,https://www.lawson.co.jp/recommend/original/detail/1509463_1996.html
+にんにく香る！辛旨豚焼肉キンパ,430,https://www.lawson.co.jp/recommend/original/detail/img/l792624.jpg,272,7.8,6.3,47.6,44.4,3.2,3.13,https://www.lawson.co.jp/recommend/original/detail/1509520_1996.html
+秋の味わいおかず弁当,497,https://www.lawson.co.jp/recommend/original/detail/img/l790251.jpg,396,13,11.6,61.5,58.1,3.4,2.68,https://www.lawson.co.jp/recommend/original/detail/1510230_1996.html
+おにぎり弁当,516,https://www.lawson.co.jp/recommend/original/detail/img/l778875.jpg,500,17.5,20.2,63.4,60.8,2.6,3.51,https://www.lawson.co.jp/recommend/original/detail/1506416_1996.html
+明太唐揚のり弁当,497,https://www.lawson.co.jp/recommend/original/detail/img/l785053.jpg,538,21.8,18.4,73,69.6,3.4,2.2,https://www.lawson.co.jp/recommend/original/detail/1507095_1996.html
+鶏そぼろ弁当,421,https://www.lawson.co.jp/recommend/original/detail/img/l789448.jpg,341,15.5,4.5,60.7,58.4,2.3,2.17,https://www.lawson.co.jp/recommend/original/detail/1509270_1996.html
+あじほぐし弁当,421,https://www.lawson.co.jp/recommend/original/detail/img/l789449_1.jpg,310,10.9,4,58.7,56.3,2.4,1.25,https://www.lawson.co.jp/recommend/original/detail/1509269_1996.html
+おかずいろいろ幕の内,646,https://www.lawson.co.jp/recommend/original/detail/img/l785005.jpg,598,17.3,21.8,85.1,81.3,3.8,2.53,https://www.lawson.co.jp/recommend/original/detail/1502255_1996.html
+おかズドン！タルタル鶏唐揚弁当,626,https://www.lawson.co.jp/recommend/original/detail/img/l789451.jpg,764,35.7,23.2,105.4,100.8,4.6,4.22,https://www.lawson.co.jp/recommend/original/detail/1509521_1996.html
+よくばり合体メシ　オムカレー＆ペペロンチーノ,754,https://www.lawson.co.jp/recommend/original/detail/img/l790258.jpg,"1,004",30.4,35.5,146.1,135.2,10.9,8.54,https://www.lawson.co.jp/recommend/original/detail/1510229_1996.html
+だしご飯の海苔弁当,667,https://www.lawson.co.jp/recommend/original/detail/img/l784941.jpg,836,26.8,33.6,109.3,104,5.3,4.23,https://www.lawson.co.jp/recommend/original/detail/1506410_1996.html
+たっぷりタルタルのチキン南蛮弁当,697,https://www.lawson.co.jp/recommend/original/detail/img/l780449.jpg,951,34.1,45.6,102.7,99.5,3.2,6.19,https://www.lawson.co.jp/recommend/original/detail/1505349_1996.html
+牛丼,646,https://www.lawson.co.jp/recommend/original/detail/img/l784946.jpg,622,17,31.8,69,64.9,4.1,2.88,https://www.lawson.co.jp/recommend/original/detail/1506411_1996.html
+ねぎ塩炭火焼牛カルビ丼,646,https://www.lawson.co.jp/recommend/original/detail/img/l789438.jpg,489,14.6,17.3,69.9,67.7,2.2,2.45,https://www.lawson.co.jp/recommend/original/detail/1508278_1996.html
+国産生姜の豚生姜焼弁当,697,https://www.lawson.co.jp/recommend/original/detail/img/l781578.jpg,620,27.8,19.4,85.7,81.5,4.2,4.19,https://www.lawson.co.jp/recommend/original/detail/1505527_1996.html
+ヨード卵・光®のロースかつ丼,697,https://www.lawson.co.jp/recommend/original/detail/img/l784011.jpg,710,27.7,23.6,99,94.5,4.5,3.61,https://www.lawson.co.jp/recommend/original/detail/1500461_1996.html
+ヨード卵・光®の親子丼,646,https://www.lawson.co.jp/recommend/original/detail/img/l789445.jpg,497,24.8,10,77.7,76.2,1.5,2.99,https://www.lawson.co.jp/recommend/original/detail/1509268_1996.html
+醤油が効いた鶏竜田揚げ弁当,697,https://www.lawson.co.jp/recommend/original/detail/img/l783791.jpg,802,27.2,32.8,102,97.2,4.8,3.56,https://www.lawson.co.jp/recommend/original/detail/1508137_1996.html
+赤ワイン仕立てのデミハンバーグ弁当,743,https://www.lawson.co.jp/recommend/original/detail/img/l784944.jpg,702,25.6,24.8,96.4,92,4.4,3.83,https://www.lawson.co.jp/recommend/original/detail/1506413_1996.html
+ポークカレー(中辛),599,https://www.lawson.co.jp/recommend/original/detail/img/l783798.jpg,467,12.4,8.8,87.9,81.3,6.6,3.12,https://www.lawson.co.jp/recommend/original/detail/1507839_1996.html
+グリル満天星お墨付き　オムライス,697,https://www.lawson.co.jp/recommend/original/detail/img/l783792.jpg,559,20.1,24.4,67,62.3,4.7,5.05,https://www.lawson.co.jp/recommend/original/detail/1507838_1996.html
+背脂にんにく豚チャーハン,697,https://www.lawson.co.jp/recommend/original/detail/img/l790252.jpg,824,25.3,20.5,136.4,132.9,3.5,6.26,https://www.lawson.co.jp/recommend/original/detail/1509531_1996.html
+よくばり合体メシ　キムチ炒飯＆背脂焼ラーメン,754,https://www.lawson.co.jp/recommend/original/detail/img/l789446.jpg,"1,064",29.7,34.1,163.6,155.3,8.3,8.34,https://www.lawson.co.jp/recommend/original/detail/1509267_1996.html
+よくばりサンド　レタス＆照焼チキン,333,https://www.lawson.co.jp/recommend/original/detail/img/l795119.jpg,223,9.2,10.3,24.1,22.6,1.5,1.76,https://www.lawson.co.jp/recommend/original/detail/1510740_1996.html
+ベーコンエッグロール,333,https://www.lawson.co.jp/recommend/original/detail/img/l793278.jpg,258,11.4,12.8,24.8,23.8,1,1.48,https://www.lawson.co.jp/recommend/original/detail/1510739_1996.html
+モンブランサンド,419,https://www.lawson.co.jp/recommend/original/detail/img/l792595.jpg,309,5.4,13.3,42.9,41,1.9,0.49,https://www.lawson.co.jp/recommend/original/detail/1510291_1996.html
+たまごサンド,297,https://www.lawson.co.jp/recommend/original/detail/img/l785178.jpg,297,9.1,19,22.7,21.9,0.8,1.69,https://www.lawson.co.jp/recommend/original/detail/1506440_1996.html
+ツナたまごサンド,297,https://www.lawson.co.jp/recommend/original/detail/img/l790272.jpg,320,9.3,20.9,24.3,23.2,1.1,1.47,https://www.lawson.co.jp/recommend/original/detail/1509277_1996.html
+ハムたまごサンド,383,https://www.lawson.co.jp/recommend/original/detail/img/l784953.jpg,319,13.4,17.5,27.5,26.3,1.2,2.49,https://www.lawson.co.jp/recommend/original/detail/1506439_1996.html
+ミックスサンド,333,https://www.lawson.co.jp/recommend/original/detail/img/l790270.jpg,320,11.2,18.4,28.1,26.7,1.4,1.84,https://www.lawson.co.jp/recommend/original/detail/1509276_1996.html
+野菜ミックスサンド,354,https://www.lawson.co.jp/recommend/original/detail/img/l778883.jpg,226,7.2,10.6,26.1,24.6,1.5,1.37,https://www.lawson.co.jp/recommend/original/detail/1503559_1996.html
+レタスサンド,343,https://www.lawson.co.jp/recommend/original/detail/img/l784952.jpg,216,8.4,10.5,22.6,21.2,1.4,1.84,https://www.lawson.co.jp/recommend/original/detail/1506438_1996.html
+ポテトサラダサンド,297,https://www.lawson.co.jp/recommend/original/detail/img/l790260.jpg,231,6.9,10,29.4,27.2,2.2,1.66,https://www.lawson.co.jp/recommend/original/detail/1508863_1996.html
+BLTEサンド,430,https://www.lawson.co.jp/recommend/original/detail/img/l785106.jpg,207,9.7,7.5,25.9,24.5,1.4,1.49,https://www.lawson.co.jp/recommend/original/detail/1507412_1996.html
+ハムサンド,343,https://www.lawson.co.jp/recommend/original/detail/img/l775769.jpg,249,10.4,10,30,28.6,1.4,2.29,https://www.lawson.co.jp/recommend/original/detail/1404254_1996.html
+ハムチーズたまごサンド,365,https://www.lawson.co.jp/recommend/original/detail/img/l778403.jpg,253,12,12.2,24.3,23.1,1.2,2.02,https://www.lawson.co.jp/recommend/original/detail/1500454_1996.html
+チキンカツサンド,419,https://www.lawson.co.jp/recommend/original/detail/img/l757804.jpg,364,13.2,16.7,41.1,39.2,1.9,2.6,https://www.lawson.co.jp/recommend/original/detail/1488100_1996.html
+ハムカツ＆焼そばサンド,322,https://www.lawson.co.jp/recommend/original/detail/img/l787597.jpg,345,9.9,15.3,42.9,41.1,1.8,2.71,https://www.lawson.co.jp/recommend/original/detail/1507881_1996.html
+照焼チキンたまごサンド,365,https://www.lawson.co.jp/recommend/original/detail/img/l789454.jpg,238,13,9.1,26.6,25.5,1.1,2.26,https://www.lawson.co.jp/recommend/original/detail/1508281_1996.html
+コロッケサンド,297,https://www.lawson.co.jp/recommend/original/detail/img/l783603.jpg,442,7.5,20.8,57.8,54.7,3.1,2.53,https://www.lawson.co.jp/recommend/original/detail/1505533_1996.html
+大きなサンドイッチ　オムレツサンド,451,https://www.lawson.co.jp/recommend/original/detail/img/l781587_1.jpg,519,20.1,26.1,52.1,49.8,2.3,3.13,https://www.lawson.co.jp/recommend/original/detail/1509555_1996.html
+大きなサンドイッチ　野菜照焼チキンサンド,451,https://www.lawson.co.jp/recommend/original/detail/img/l781586.jpg,445,19.5,17.4,54.1,51.3,2.8,3.13,https://www.lawson.co.jp/recommend/original/detail/1510078_1996.html
+ハムたまごBOX,365,https://www.lawson.co.jp/recommend/original/detail/img/l787600.jpg,251,10.7,11.1,27.7,26.3,1.4,1.89,https://www.lawson.co.jp/recommend/original/detail/1508158_1996.html
+ヒレカツBOX,473,https://www.lawson.co.jp/recommend/original/detail/img/l784957.jpg,393,14.6,19.5,41,38.7,2.3,2.81,https://www.lawson.co.jp/recommend/original/detail/1506435_1996.html
+ROLLサンド　海老とツナポテト,397,https://www.lawson.co.jp/recommend/original/detail/img/l790262.jpg,307,10.4,17.2,28.9,26.4,2.5,1.76,https://www.lawson.co.jp/recommend/original/detail/1508862_1996.html
+ROLLサンド　牛カルビ,430,https://www.lawson.co.jp/recommend/original/detail/img/l791963.jpg,336,11.6,18.6,31.9,29.4,2.5,2.06,https://www.lawson.co.jp/recommend/original/detail/1509556_1996.html
+ホットドッグ,235,https://www.lawson.co.jp/recommend/original/detail/img/l778401.jpg,271,10.1,15.5,23.4,22.2,1.2,1.56,https://www.lawson.co.jp/recommend/original/detail/1500455_1996.html
+チーズバーガー,268,https://www.lawson.co.jp/recommend/original/detail/img/l754531.jpg,314,15,15.3,30.4,27.8,2.6,1.91,https://www.lawson.co.jp/recommend/original/detail/1502339_1996.html
+ピザロール　ベーコン＆たまご,297,https://www.lawson.co.jp/recommend/original/detail/img/l792596.jpg,202,9.4,7.7,24.6,22.7,1.9,1.5,https://www.lawson.co.jp/recommend/original/detail/1510738_1996.html
+ピザロール　クアトロフォルマッジ,297,https://www.lawson.co.jp/recommend/original/detail/img/l763204.jpg,230,10.3,8.9,28,26.2,1.8,1.6,https://www.lawson.co.jp/recommend/original/detail/1493577_1996.html
+ピザロール　あらびきウインナー2本,365,https://www.lawson.co.jp/recommend/original/detail/img/l763203.jpg,320,12.5,16.6,31.3,29.1,2.2,2.1,https://www.lawson.co.jp/recommend/original/detail/1493875_1996.html
+ピザロール　ハム＆チーズ,257,https://www.lawson.co.jp/recommend/original/detail/img/l763202.jpg,199,11.9,6.2,25.1,22.9,2.2,1.9,https://www.lawson.co.jp/recommend/original/detail/1493874_1996.html
+ピザロール　マルゲリータ,257,https://www.lawson.co.jp/recommend/original/detail/img/l763201.jpg,195,10.5,5.9,26,23.7,2.3,1.4,https://www.lawson.co.jp/recommend/original/detail/1493873_1996.html
+ピザロール　アラビアータ,297,https://www.lawson.co.jp/recommend/original/detail/img/l785454.jpg,183,8.9,5.7,25.2,22.8,2.4,1.7,https://www.lawson.co.jp/recommend/original/detail/1507609_1996.html
+バターソースとふわふわパンケーキ,257,https://www.lawson.co.jp/recommend/original/detail/img/l770976.jpg,227,5,11.5,26.4,25.1,1.3,0.5,https://www.lawson.co.jp/recommend/original/detail/1494409_1996.html
+デニッシュドーナツ,138,https://www.lawson.co.jp/recommend/original/detail/img/l794231.jpg,517,6,35.8,43.5,42.1,1.4,0.6,https://www.lawson.co.jp/recommend/original/detail/1510732_1996.html
+キャラメルナッツデニッシュ,171,https://www.lawson.co.jp/recommend/original/detail/img/l794241.jpg,332,4.1,19,36.7,35.4,1.3,0.4,https://www.lawson.co.jp/recommend/original/detail/1510731_1996.html
+ふんわりコッペ　3種盛り,235,https://www.lawson.co.jp/recommend/original/detail/img/l795210.jpg,316,9.9,14.8,36.5,35.1,1.4,2.1,https://www.lawson.co.jp/recommend/original/detail/1510730_1996.html
+こんがりチーズのハム＆マヨパン　2個入,160,https://www.lawson.co.jp/recommend/original/detail/img/l795176.jpg,147,4.5,6.9,16.9,16.3,0.6,0.9,https://www.lawson.co.jp/recommend/original/detail/1510729_1996.html
+至福のマロン＆マロン,160,https://www.lawson.co.jp/recommend/original/detail/img/l783245.jpg,345,5.6,11.5,55.6,54.2,1.4,0.4,https://www.lawson.co.jp/recommend/original/detail/1510270_1996.html
+至福のチーズ＆チーズ,181,https://www.lawson.co.jp/recommend/original/detail/img/l783246.jpg,380,7.1,17.3,49.6,48.3,1.3,0.6,https://www.lawson.co.jp/recommend/original/detail/1510269_1996.html
+とろ〜り半熟卵のカレーパン,225,https://www.lawson.co.jp/recommend/original/detail/img/l791861.jpg,308,8.3,14.3,37.7,35.4,2.3,1.7,https://www.lawson.co.jp/recommend/original/detail/1510268_1996.html
+とろ〜り半熟卵のミートチーズパン,225,https://www.lawson.co.jp/recommend/original/detail/img/l791862.jpg,184,7.7,5.3,27.6,25.3,2.3,1.5,https://www.lawson.co.jp/recommend/original/detail/1510267_1996.html
+シーチキン®明太マヨパン,192,https://www.lawson.co.jp/recommend/original/detail/img/l793175.jpg,261,6.7,13,30.3,28.3,2,1.9,https://www.lawson.co.jp/recommend/original/detail/1510266_1996.html
+紅はるかのスティックパイ　4本入,192,https://www.lawson.co.jp/recommend/original/detail/img/l795030.jpg,141,2.1,7.7,16.4,15.5,0.9,0.3,https://www.lawson.co.jp/recommend/original/detail/1510265_1996.html
+ふわサクっ！メロンパン,138,https://www.lawson.co.jp/recommend/original/detail/img/l782072.jpg,355,6.5,14.6,50.2,48.8,1.4,0.4,https://www.lawson.co.jp/recommend/original/detail/1504765_1996.html
+じゅわバタ塩メロンパン,160,https://www.lawson.co.jp/recommend/original/detail/img/l778356.jpg,470,6.3,31.4,41.4,40.1,1.3,0.9,https://www.lawson.co.jp/recommend/original/detail/1500304_1996.html
+チョコチップメロンパン,171,https://www.lawson.co.jp/recommend/original/detail/img/l786208.jpg,366,6.3,11.3,60.6,58.7,1.9,0.4,https://www.lawson.co.jp/recommend/original/detail/1507866_1996.html
+メープルナッツメロンパン,171,https://www.lawson.co.jp/recommend/original/detail/img/l791856.jpg,489,7.2,26.1,57.1,55.5,1.6,0.6,https://www.lawson.co.jp/recommend/original/detail/1509548_1996.html
+つぶあんぱん,138,https://www.lawson.co.jp/recommend/original/detail/img/l778199.jpg,329,8.4,3.3,68.5,64.5,4,0.6,https://www.lawson.co.jp/recommend/original/detail/1502262_1996.html
+もっちドーナツ　こしあん,149,https://www.lawson.co.jp/recommend/original/detail/img/l784377_1.jpg,364,5.6,16.4,49.6,47.4,2.2,0.3,https://www.lawson.co.jp/recommend/original/detail/1506068_1996.html
+ツイストドーナツ　カスタード＆ホイップ,149,https://www.lawson.co.jp/recommend/original/detail/img/l771011.jpg,433,5.5,26.6,43.4,42.2,1.2,0.7,https://www.lawson.co.jp/recommend/original/detail/1496098_1996.html
+アップルカスタードデニッシュ,138,https://www.lawson.co.jp/recommend/original/detail/img/l782424.jpg,467,7.5,21.1,62.8,60.5,2.3,1.1,https://www.lawson.co.jp/recommend/original/detail/1505624_1996.html
+あんクロワッサン,160,https://www.lawson.co.jp/recommend/original/detail/img/l788908.jpg,281,5.5,11,41.3,38.6,2.7,0.6,https://www.lawson.co.jp/recommend/original/detail/1508671_1996.html
+ダブルホイップクロワッサン,160,https://www.lawson.co.jp/recommend/original/detail/img/l780171.jpg,468,6,23.8,58.4,56.5,1.9,0.8,https://www.lawson.co.jp/recommend/original/detail/1504505_1996.html
+チョコクロワッサン,171,https://www.lawson.co.jp/recommend/original/detail/img/l793997.jpg,341,5.2,19.2,38,35.7,2.3,0.6,https://www.lawson.co.jp/recommend/original/detail/1510081_1996.html
+バター香るパンスイス　チョコ＆カスタード,171,https://www.lawson.co.jp/recommend/original/detail/img/l775561.jpg,400,6.4,22.3,44.3,42.6,1.7,0.7,https://www.lawson.co.jp/recommend/original/detail/1498491_1996.html
+バター香るクイニーアマン,149,https://www.lawson.co.jp/recommend/original/detail/img/l777553.jpg,379,3.6,25.1,35.2,34.1,1.1,0.8,https://www.lawson.co.jp/recommend/original/detail/1501063_1996.html
+十勝バターとたまごの旨じゅわフレンチトースト,149,https://www.lawson.co.jp/recommend/original/detail/img/l757104.jpg,456,9.3,21.6,57.3,55.1,2.2,1.6,https://www.lawson.co.jp/recommend/original/detail/1487303_1996.html
+ふんわりコッペ　苺ジャム＆マーガリン,149,https://www.lawson.co.jp/recommend/original/detail/img/l779382.jpg,414,8.2,16.7,58.7,56.7,2,1.1,https://www.lawson.co.jp/recommend/original/detail/1504270_1996.html
+ふんわりコッペ　あんこ＆マーガリン,149,https://www.lawson.co.jp/recommend/original/detail/img/l779383.jpg,428,8.9,16.3,62.5,60.2,2.3,1.2,https://www.lawson.co.jp/recommend/original/detail/1504271_1996.html
+ふんわりレーズンシュガーパン,138,https://www.lawson.co.jp/recommend/original/detail/img/l791855.jpg,391,9.3,11.4,64.3,61.2,3.1,0.8,https://www.lawson.co.jp/recommend/original/detail/1509281_1996.html
+GODIVA　ナッツ＆ショコラロール,246,https://www.lawson.co.jp/recommend/original/detail/img/l791889_1.jpg,288,7.7,13.1,36.4,33.6,2.8,0.5,https://www.lawson.co.jp/recommend/original/detail/1510082_1996.html
+塩チョコクリームロール,160,https://www.lawson.co.jp/recommend/original/detail/img/l791401.jpg,286,6.7,9.1,45.2,43.3,1.9,0.8,https://www.lawson.co.jp/recommend/original/detail/1508842_1996.html
+白いふわふわパン　チョコクリーム,149,https://www.lawson.co.jp/recommend/original/detail/img/l773058.jpg,452,7.5,25.5,49.3,47.1,2.2,0.5,https://www.lawson.co.jp/recommend/original/detail/1497269_1996.html
+もっちチョコパン,127,https://www.lawson.co.jp/recommend/original/detail/img/l764359.jpg,310,6.2,11.9,45.6,43.2,2.4,0.7,https://www.lawson.co.jp/recommend/original/detail/1491631_1996.html
+マンゴー味わうふわもちパン,171,https://www.lawson.co.jp/recommend/original/detail/img/l786210.jpg,234,5.8,6.8,38.1,36.6,1.5,0.5,https://www.lawson.co.jp/recommend/original/detail/1508362_1996.html
+ふわもちパンケーキ　メープル＆マーガリン　2個入,138,https://www.lawson.co.jp/recommend/original/detail/img/l791870.jpg,447,4.8,18.6,65.6,64.5,1.1,1.7,https://www.lawson.co.jp/recommend/original/detail/1509280_1996.html
+ふわもちパンケーキ　コーヒー　2個入,149,https://www.lawson.co.jp/recommend/original/detail/img/l788910.jpg,391,5.2,11,68.7,67,1.7,1.4,https://www.lawson.co.jp/recommend/original/detail/1508670_1996.html
+ふんわりたまご蒸しケーキ,138,https://www.lawson.co.jp/recommend/original/detail/img/l770949.jpg,441,6.7,22.1,54,53.4,0.6,0.9,https://www.lawson.co.jp/recommend/original/detail/1495665_1996.html
+うずまきロールケーキ,171,https://www.lawson.co.jp/recommend/original/detail/img/l784659.jpg,407,4.9,21.7,48.3,47.5,0.8,0.4,https://www.lawson.co.jp/recommend/original/detail/1506295_1996.html
+チョコチップ入りロールケーキ　2本入,171,https://www.lawson.co.jp/recommend/original/detail/img/l788919.jpg,410,5.6,15.3,63.2,62,1.2,0.6,https://www.lawson.co.jp/recommend/original/detail/1508838_1996.html
+塩ミルククレープケーキ,171,https://www.lawson.co.jp/recommend/original/detail/img/l788918.jpg,335,6.4,11,53,52.1,0.9,0.4,https://www.lawson.co.jp/recommend/original/detail/1508841_1996.html
+濃厚ミルクフランス　北海道産練乳・生クリーム使用,160,https://www.lawson.co.jp/recommend/original/detail/img/l767417.jpg,332,6.5,17.6,37.6,36.2,1.4,0.8,https://www.lawson.co.jp/recommend/original/detail/1493881_1996.html
+Ｌチキバンズ,84,https://www.lawson.co.jp/recommend/original/detail/img/l781250.jpg,176,4.9,4.3,30.3,28.7,1.6,0.7,https://www.lawson.co.jp/recommend/original/detail/1505054_1996.html
+牛肉入りカレーパン,149,https://www.lawson.co.jp/recommend/original/detail/img/l756536.jpg,329,7.5,17.3,36.8,34.9,1.9,1.5,https://www.lawson.co.jp/recommend/original/detail/1484580_1996.html
+てりやきハンバーガー,149,https://www.lawson.co.jp/recommend/original/detail/img/l791857.jpg,250,10.9,9.7,30.8,28.8,2,1.9,https://www.lawson.co.jp/recommend/original/detail/1509547_1996.html
+はみでるバーガー　メンチカツ,214,https://www.lawson.co.jp/recommend/original/detail/img/l781622.jpg,481,13.7,30,40.6,37.4,3.2,3.6,https://www.lawson.co.jp/recommend/original/detail/1505387_1996.html
+牛肉入りコロッケパン,181,https://www.lawson.co.jp/recommend/original/detail/img/l764358.jpg,328,7.8,13.5,45.1,42.3,2.8,2.1,https://www.lawson.co.jp/recommend/original/detail/1491629_1996.html
+焼きそばパン,171,https://www.lawson.co.jp/recommend/original/detail/img/l778089.jpg,277,8.3,8.6,42.6,40.5,2.1,2.5,https://www.lawson.co.jp/recommend/original/detail/1500300_1996.html
+塩焼きそばパン,171,https://www.lawson.co.jp/recommend/original/detail/img/l771130.jpg,282,9.1,7.4,45.8,43.5,2.3,3.6,https://www.lawson.co.jp/recommend/original/detail/1496333_1996.html
+あらびきポークフランクロール,181,https://www.lawson.co.jp/recommend/original/detail/img/l739812.jpg,306,10.9,17.5,26.9,25.6,1.3,2.4,https://www.lawson.co.jp/recommend/original/detail/1474998_1996.html
+あらびきチョリソーパン,160,https://www.lawson.co.jp/recommend/original/detail/img/l779851.jpg,213,6.7,11.2,21.7,20.8,0.9,1.7,https://www.lawson.co.jp/recommend/original/detail/1504763_1996.html
+あらびきソーセージパン,149,https://www.lawson.co.jp/recommend/original/detail/img/l769019.jpg,284,7.8,13.7,33.6,31,2.6,1.7,https://www.lawson.co.jp/recommend/original/detail/1495580_1996.html
+あらびきソーセージドーナツ　カレー風味,149,https://www.lawson.co.jp/recommend/original/detail/img/l786211.jpg,287,7.4,16.5,27.9,26.6,1.3,1.2,https://www.lawson.co.jp/recommend/original/detail/1508169_1996.html
+たまごトースト,235,https://www.lawson.co.jp/recommend/original/detail/img/l788920.jpg,396,9.5,25.7,32.5,30.7,1.8,2.5,https://www.lawson.co.jp/recommend/original/detail/1508840_1996.html
+とろ〜り白いチーズパン,181,https://www.lawson.co.jp/recommend/original/detail/img/l786207.jpg,352,9.6,12.8,50.4,48.6,1.8,1.8,https://www.lawson.co.jp/recommend/original/detail/1507664_1996.html
+コーンマヨネーズパン,192,https://www.lawson.co.jp/recommend/original/detail/img/l793549.jpg,338,6.5,16.3,43,39.4,3.6,1.4,https://www.lawson.co.jp/recommend/original/detail/1509546_1996.html
+こんがりチーズのベーコンマヨネーズ,160,https://www.lawson.co.jp/recommend/original/detail/img/l788165.jpg,418,9.6,21.7,46.8,45.4,1.4,1.6,https://www.lawson.co.jp/recommend/original/detail/1507864_1996.html
+こんがりチーズのハムデニッシュ,171,https://www.lawson.co.jp/recommend/original/detail/img/l761232.jpg,289,7.7,17.4,25.7,24.8,0.9,1.5,https://www.lawson.co.jp/recommend/original/detail/1489631_1996.html
+もっちりとしたハムチーズパン,138,https://www.lawson.co.jp/recommend/original/detail/img/l784563.jpg,257,8.2,8.6,37.2,36.1,1.1,1.9,https://www.lawson.co.jp/recommend/original/detail/1505860_1996.html
+ベーコンチーズのパン,192,https://www.lawson.co.jp/recommend/original/detail/img/l791050.jpg,245,7.8,9.7,32.3,30.8,1.5,1.4,https://www.lawson.co.jp/recommend/original/detail/1508839_1996.html
+バター香る塩パン,149,https://www.lawson.co.jp/recommend/original/detail/img/l770365.jpg,266,4.6,15.1,28.5,27.3,1.2,1,https://www.lawson.co.jp/recommend/original/detail/1495812_1996.html
+味わいの食パン　6枚入,138,https://www.lawson.co.jp/recommend/original/detail/img/l772282_4.jpg,163,4.8,2,32.1,30.9,1.2,0.8,https://www.lawson.co.jp/recommend/original/detail/1496980_1996.html
+香り豊かなもっちりとした食パン　6枚入,181,https://www.lawson.co.jp/recommend/original/detail/img/l786198_3.jpg,157,5.6,2.5,29,27.2,1.8,0.7,https://www.lawson.co.jp/recommend/original/detail/1507139_1996.html
+香り豊かなもっちりとした食パン　8枚入,181,https://www.lawson.co.jp/recommend/original/detail/img/l786197_3.jpg,119,4.2,1.9,21.8,20.5,1.3,0.5,https://www.lawson.co.jp/recommend/original/detail/1507138_1996.html
+国産小麦のバターロール　4個入,149,https://www.lawson.co.jp/recommend/original/detail/img/l778093.jpg,95,3,2.8,14.8,14.2,0.6,0.3,https://www.lawson.co.jp/recommend/original/detail/1500299_1996.html
+国産小麦のマーガリン入りバターロール　4個入,160,https://www.lawson.co.jp/recommend/original/detail/img/l778095.jpg,146,2.9,8.4,14.7,14.1,0.6,0.4,https://www.lawson.co.jp/recommend/original/detail/1500298_1996.html
+国産小麦のマーガリン入りレーズンバターロール　4個入,181,https://www.lawson.co.jp/recommend/original/detail/img/l778094.jpg,153,2.9,8.4,16.9,16.2,0.7,0.4,https://www.lawson.co.jp/recommend/original/detail/1500297_1996.html
+もっちりとしたチョコパン　4個入,181,https://www.lawson.co.jp/recommend/original/detail/img/l764361.jpg,97,1.8,3.7,14.6,13.8,0.8,0.2,https://www.lawson.co.jp/recommend/original/detail/1491628_1996.html
+ゴロチョコパン　4個入,235,https://www.lawson.co.jp/recommend/original/detail/img/l792785.jpg,138,2.3,4.8,21.8,21,0.8,0.2,https://www.lawson.co.jp/recommend/original/detail/1509279_1996.html
+ガーリックフランスパン　4個入,192,https://www.lawson.co.jp/recommend/original/detail/img/l786212.jpg,87,1.8,4.8,9.5,9,0.5,0.5,https://www.lawson.co.jp/recommend/original/detail/1508168_1996.html
+つぶあんぱん　4個入,171,https://www.lawson.co.jp/recommend/original/detail/img/l779848.jpg,124,3.5,1.2,25.6,23.9,1.7,0.1,https://www.lawson.co.jp/recommend/original/detail/1504762_1996.html
+クリームパン　4個入,160,https://www.lawson.co.jp/recommend/original/detail/img/l781598.jpg,112,2.6,3.6,17.6,17,0.6,0.1,https://www.lawson.co.jp/recommend/original/detail/1504761_1996.html
+ピーナッツクリームパン　4個入,160,https://www.lawson.co.jp/recommend/original/detail/img/l795031.jpg,119,2.9,5.1,15.6,15,0.6,0.2,https://www.lawson.co.jp/recommend/original/detail/1510079_1996.html
+角切りりんごのデニッシュ　4個入,181,https://www.lawson.co.jp/recommend/original/detail/img/l762721.jpg,109,2,3.4,17.9,17.2,0.7,0.3,https://www.lawson.co.jp/recommend/original/detail/1490470_1996.html
+バター香るスナックスティック　6本入,138,https://www.lawson.co.jp/recommend/original/detail/img/l775566.jpg,85,1.9,3.4,11.8,11.4,0.4,0.1,https://www.lawson.co.jp/recommend/original/detail/1498486_1996.html
+チョコチップスナック　6本入,138,https://www.lawson.co.jp/recommend/original/detail/img/l775567.jpg,82,1.9,2.5,13.2,12.7,0.5,0.1,https://www.lawson.co.jp/recommend/original/detail/1498485_1996.html
+十勝バターのスティック　4本入,160,https://www.lawson.co.jp/recommend/original/detail/img/l781766.jpg,111,2.3,3.2,18.4,18,0.4,0.2,https://www.lawson.co.jp/recommend/original/detail/1504759_1996.html
+フレンチトースト　4個入,181,https://www.lawson.co.jp/recommend/original/detail/img/l781623.jpg,89,2.3,1.2,17.4,16.9,0.5,0.2,https://www.lawson.co.jp/recommend/original/detail/1505386_1996.html
+チョコチップスコーン　4個入,235,https://www.lawson.co.jp/recommend/original/detail/img/l778198.jpg,132,1.8,7,15.6,15.1,0.5,0.3,https://www.lawson.co.jp/recommend/original/detail/1502258_1996.html
+はちみつバタースコーン　4個入,235,https://www.lawson.co.jp/recommend/original/detail/img/l791860.jpg,118,1.9,4.4,17.7,17.3,0.4,0.4,https://www.lawson.co.jp/recommend/original/detail/1510080_1996.html
+紅はるかのおいも蒸しパン　4個入,214,https://www.lawson.co.jp/recommend/original/detail/img/l791852.jpg,85,1.1,0.4,19.6,19,0.6,0.3,https://www.lawson.co.jp/recommend/original/detail/1509278_1996.html
+NL　ブランバンズ,106,https://www.lawson.co.jp/recommend/original/detail/img/l796094.jpg,166,11.3,6.1,20.6,11.9,8.7,0.5,https://www.lawson.co.jp/recommend/original/detail/1510728_1996.html
+NL　ブランパン　2個入　〜乳酸菌入〜,149,https://www.lawson.co.jp/recommend/original/detail/img/l768916.jpg,66,6.1,2.6,7.1,2,5.1,0.3,https://www.lawson.co.jp/recommend/original/detail/1494935_1996.html
+NL　ブランパン　4個入　〜乳酸菌入〜,279,https://www.lawson.co.jp/recommend/original/detail/img/l768917.jpg,66,6.1,2.6,7.1,2,5.1,0.3,https://www.lawson.co.jp/recommend/original/detail/1494934_1996.html
+NL　ブラン入り食パン　4枚入　〜乳酸菌入〜,189,https://www.lawson.co.jp/recommend/original/detail/img/l742619.jpg,111,6.8,2.5,17.3,13.4,3.9,0.7,https://www.lawson.co.jp/recommend/original/detail/1476336_1996.html
+NL　もっちりとしたマーガリンサンド　2個入,160,https://www.lawson.co.jp/recommend/original/detail/img/l785455.jpg,135,4.5,9.3,12.9,3.8,9.1,0.4,https://www.lawson.co.jp/recommend/original/detail/1506065_1996.html
+NL　もちもちとした白いパン　ハム＆チーズ　2個入,149,https://www.lawson.co.jp/recommend/original/detail/img/l757429.jpg,74,2.7,3.1,11.7,5.9,5.8,0.5,https://www.lawson.co.jp/recommend/original/detail/1487837_1996.html
+NL　もっちりとしたパン　チーズクリーム＆ダブルベリー　2個入,181,https://www.lawson.co.jp/recommend/original/detail/img/l785456.jpg,113,3.7,6.6,13.5,6.2,7.3,0.4,https://www.lawson.co.jp/recommend/original/detail/1506066_1996.html
+NL　バランスサポートブレッド　チョコ＆バナナ　2個入,214,https://www.lawson.co.jp/recommend/original/detail/img/l785457.jpg,237,7.8,10.4,37.6,18.5,19.1,0.54,https://www.lawson.co.jp/recommend/original/detail/1506064_1996.html
+そのまま食べて欲しい　贅沢食パン　4枚,408,https://www.lawson.co.jp/recommend/original/detail/img/l693989.jpg,316,7.8,8.1,53.8,52.1,1.7,1.1,https://www.lawson.co.jp/recommend/original/detail/1480952_1996.html
+そのまま食べて欲しい　贅沢食パン　2枚,225,https://www.lawson.co.jp/recommend/original/detail/img/l693988.jpg,316,7.8,8.1,53.8,52.1,1.7,1.1,https://www.lawson.co.jp/recommend/original/detail/1480953_1996.html
+ソースたっぷり　きのこクリーム,599,https://www.lawson.co.jp/recommend/original/detail/img/l791231.jpg,602,24,21.7,80.8,74.5,6.3,4.15,https://www.lawson.co.jp/recommend/original/detail/1510232_1996.html
+冷製生パスタ　カルボナーラ,599,https://www.lawson.co.jp/recommend/original/detail/img/l780942.jpg,555,23.4,26.4,57.7,54.4,3.3,3.44,https://www.lawson.co.jp/recommend/original/detail/1509135_1996.html
+ソースたっぷり　カルボナーラ,599,https://www.lawson.co.jp/recommend/original/detail/img/l763431.jpg,602,26.3,19.9,82.6,76.3,6.3,5.26,https://www.lawson.co.jp/recommend/original/detail/1496849_1996.html
+こだわりおだし　醤油きのこ,538,https://www.lawson.co.jp/recommend/original/detail/img/l776313.jpg,503,25.4,16.4,67.2,59.8,7.4,3.86,https://www.lawson.co.jp/recommend/original/detail/1501038_1996.html
+こだわりおだし　北海道産たらこ,538,https://www.lawson.co.jp/recommend/original/detail/img/l776312.jpg,433,19.3,12.8,62.5,57.8,4.7,2.77,https://www.lawson.co.jp/recommend/original/detail/1506428_1996.html
+特盛明太マヨネーズ,697,https://www.lawson.co.jp/recommend/original/detail/img/l776314.jpg,967,37.6,42,114.1,105.4,8.7,5.76,https://www.lawson.co.jp/recommend/original/detail/1501673_1996.html
+ナポリタン,538,https://www.lawson.co.jp/recommend/original/detail/img/l748884.jpg,520,19.8,17.4,75,67,8,4.37,https://www.lawson.co.jp/recommend/original/detail/1506427_1996.html
+大盛ペペロンチーノ,697,https://www.lawson.co.jp/recommend/original/detail/img/l720369.jpg,910,35.1,41.9,102.3,94.1,8.2,5.61,https://www.lawson.co.jp/recommend/original/detail/1496253_1996.html
+大盛ミートソース,697,https://www.lawson.co.jp/recommend/original/detail/img/l720370.jpg,725,35.4,16.6,112,105.1,6.9,4.88,https://www.lawson.co.jp/recommend/original/detail/1506930_1996.html
+大盛ガリバタ豚カルビ,697,https://www.lawson.co.jp/recommend/original/detail/img/l780423.jpg,792,37.4,29.4,98.4,90.4,8,5.53,https://www.lawson.co.jp/recommend/original/detail/1507096_1996.html
+半熟玉子ぶっかけうどん,538,https://www.lawson.co.jp/recommend/original/detail/img/l781500.jpg,533,15.4,11.9,92.7,89.2,3.5,3.76,https://www.lawson.co.jp/recommend/original/detail/1505382_1996.html
+温・冷　気分で選べる！明太釜玉風うどん,559,https://www.lawson.co.jp/recommend/original/detail/img/l789909.jpg,459,16.8,8.8,80.7,75.7,5,3.39,https://www.lawson.co.jp/recommend/original/detail/1509256_1996.html
+ざるそば,451,https://www.lawson.co.jp/recommend/original/detail/img/l781494.jpg,356,18.9,3,65.4,61.4,4,2.08,https://www.lawson.co.jp/recommend/original/detail/1505157_1996.html
+冷しそば＆いなり,697,https://www.lawson.co.jp/recommend/original/detail/img/l781497.jpg,459,19.8,7.8,79.1,75.6,3.5,3.49,https://www.lawson.co.jp/recommend/original/detail/1506433_1996.html
+月見とろろそば,646,https://www.lawson.co.jp/recommend/original/detail/img/l781495.jpg,408,23.2,7.8,63.6,58.7,4.9,2.87,https://www.lawson.co.jp/recommend/original/detail/1505159_1996.html
+ミニネバネバそば,451,https://www.lawson.co.jp/recommend/original/detail/img/l781499.jpg,205,11.3,1.8,37.8,34,3.8,2.24,https://www.lawson.co.jp/recommend/original/detail/1505158_1996.html
+大盛ぶっかけそば,599,https://www.lawson.co.jp/recommend/original/detail/img/l781496.jpg,515,24.6,9.3,86.3,80.3,6,4.6,https://www.lawson.co.jp/recommend/original/detail/1505156_1996.html
+冷し中華,599,https://www.lawson.co.jp/recommend/original/detail/img/l781504.jpg,474,24.3,12.1,68.9,65,3.9,5.64,https://www.lawson.co.jp/recommend/original/detail/1508749_1996.html
+ミニ冷し中華,430,https://www.lawson.co.jp/recommend/original/detail/img/l781506.jpg,239,11.6,2.7,43.2,40.7,2.5,3.19,https://www.lawson.co.jp/recommend/original/detail/1509136_1996.html
+盛岡風冷麺,646,https://www.lawson.co.jp/recommend/original/detail/img/l776249.jpg,334,11.8,4.3,63.2,60.8,2.4,4.72,https://www.lawson.co.jp/recommend/original/detail/1500309_1996.html
+汁なし棒棒鶏麺,599,https://www.lawson.co.jp/recommend/original/detail/img/l785803.jpg,620,25.1,27.5,70.5,65.7,4.8,4.91,https://www.lawson.co.jp/recommend/original/detail/1508139_1996.html
+麺処ほん田監修　ニボコン　煮干しと昆布の冷しラーメン(醤油),697,https://www.lawson.co.jp/recommend/original/detail/img/l785801.jpg,354,18.4,9.4,51.4,46.7,4.7,4.65,https://www.lawson.co.jp/recommend/original/detail/1509473_1996.html
+きつねうどん,538,https://www.lawson.co.jp/recommend/original/detail/img/l793566.jpg,371,15.4,6.4,64.6,61.1,3.5,5.88,https://www.lawson.co.jp/recommend/original/detail/1509138_1996.html
+野菜かき揚げそば,599,https://www.lawson.co.jp/recommend/original/detail/img/l766062.jpg,570,24.2,23.1,70.2,62.3,7.9,6.34,https://www.lawson.co.jp/recommend/original/detail/1506434_1996.html
+3種きのこそば,538,https://www.lawson.co.jp/recommend/original/detail/img/l766063.jpg,317,21.1,2.6,55.7,49,6.7,6.14,https://www.lawson.co.jp/recommend/original/detail/1509137_1996.html
+満腹濃厚豚ラーメン,745,https://www.lawson.co.jp/recommend/original/detail/img/l769026.jpg,795,38.3,35.6,86.2,74.6,11.6,9.95,https://www.lawson.co.jp/recommend/original/detail/1500474_1996.html
+旨辛！満腹濃厚豚ラーメン,745,https://www.lawson.co.jp/recommend/original/detail/img/l789272.jpg,799,36.4,31.1,99.2,87.3,11.9,10.77,https://www.lawson.co.jp/recommend/original/detail/1509530_1996.html
+天下一品監修　こってりラーメン,697,https://www.lawson.co.jp/recommend/original/detail/img/l770862.jpg,453,29,6.9,71.1,66.4,4.7,6.96,https://www.lawson.co.jp/recommend/original/detail/1494661_1996.html
+1食分の野菜ちゃんぽん,599,https://www.lawson.co.jp/recommend/original/detail/img/l763922.jpg,311,16.4,8.2,45.4,40.3,5.1,6.4,https://www.lawson.co.jp/recommend/original/detail/1506431_1996.html
+大盛ソース焼そば,538,https://www.lawson.co.jp/recommend/original/detail/img/l753807.jpg,682,18.9,19.7,110.7,104,6.7,6.1,https://www.lawson.co.jp/recommend/original/detail/1508645_1996.html
+大盛塩焼そば,538,https://www.lawson.co.jp/recommend/original/detail/img/l754099.jpg,645,20.4,16.4,107.6,100.4,7.2,6.34,https://www.lawson.co.jp/recommend/original/detail/1506429_1996.html
+にんにく辛旨焼そば,646,https://www.lawson.co.jp/recommend/original/detail/img/l789910.jpg,627,25.8,14.1,104,94.3,9.7,7.35,https://www.lawson.co.jp/recommend/original/detail/1509529_1996.html
+1/2日分の野菜が摂れる　あんかけ焼そば,599,https://www.lawson.co.jp/recommend/original/detail/img/l740227.jpg,534,19.9,21.5,69.7,60.8,8.9,7.54,https://www.lawson.co.jp/recommend/original/detail/1504318_1996.html
+Uchi Café　日本のフルーツ　山梨県産白桃,268,https://www.lawson.co.jp/recommend/original/detail/img/l784522.jpg,70,0.1,0,17.6,17.1,0.5,0.02,https://www.lawson.co.jp/recommend/original/detail/1507937_1996.html
+Uchi Café　日本のフルーツ　広島県産豊水,268,https://www.lawson.co.jp/recommend/original/detail/img/l785949.jpg,71,0.1,0,18.1,17.7,0.4,0.001,https://www.lawson.co.jp/recommend/original/detail/1508568_1996.html
+ウチカフェ　ミルクワッフルコーン,302,https://www.lawson.co.jp/recommend/original/detail/img/l696833.jpg,277,4.5,13.8,33.7,33.2,0.5,0.35,https://www.lawson.co.jp/recommend/original/detail/1462701_1996.html
+ウチカフェ　ショコラ＆ミルクワッフルコーン,324,https://www.lawson.co.jp/recommend/original/detail/img/l720930.jpg,276,4.4,13.6,34.6,33.5,1.2,0.34,https://www.lawson.co.jp/recommend/original/detail/1467918_1996.html
+ウチカフェ　リッチミルクバー,194,https://www.lawson.co.jp/recommend/original/detail/img/l754653.jpg,134,2.5,7.1,15.2,15.1,0.2,0.095,https://www.lawson.co.jp/recommend/original/detail/1504932_1996.html
+ウチカフェ　リッチミルクバー　マルチ　240ml,518,https://www.lawson.co.jp/recommend/original/detail/img/l756747.jpg,45,0.8,2.4,5.1,5,0.1,0.032,https://www.lawson.co.jp/recommend/original/detail/1504931_1996.html
+Uchi Café　日本のフルーツ　沖縄県産パイン,268,https://www.lawson.co.jp/recommend/original/detail/img/l776511.jpg,70,0.1,0,17.7,17.4,0.3,0.002,https://www.lawson.co.jp/recommend/original/detail/1504511_1996.html
+Uchi Café　日本のフルーツ　福岡県産あまおういちご,268,https://www.lawson.co.jp/recommend/original/detail/img/l779657.jpg,74,0.2,0,18.6,18.3,0.3,0.003,https://www.lawson.co.jp/recommend/original/detail/1505616_1996.html
+ウチカフェ　果肉ソースがけ　みかんかき氷,257,https://www.lawson.co.jp/recommend/original/detail/img/l779473.jpg,164,0.2,3.9,32.5,32.2,0.3,0.005,https://www.lawson.co.jp/recommend/original/detail/1505842_1996.html
+ウチカフェ　果肉ソースがけ　マンゴーかき氷,257,https://www.lawson.co.jp/recommend/original/detail/img/l783749.jpg,164,0.2,3,34.9,34.5,0.4,0.064,https://www.lawson.co.jp/recommend/original/detail/1507875_1996.html
+焼豚春雨サラダ,268,https://www.lawson.co.jp/recommend/original/detail/img/l791346.jpg,158,3,6.1,24.4,21.1,3.3,2.42,https://www.lawson.co.jp/recommend/original/detail/1510662_1996.html
+食物繊維が摂れる　オクラとなめこのネバネバサラダ,268,https://www.lawson.co.jp/recommend/original/detail/img/l791344.jpg,52,2.1,0.3,12.1,8.2,3.9,2.42,https://www.lawson.co.jp/recommend/original/detail/1510661_1996.html
+きのこと焼ベーコンのアヒージョ風,333,https://www.lawson.co.jp/recommend/original/detail/img/l789003.jpg,106,5.4,5.6,10.4,6.7,3.7,1.73,https://www.lawson.co.jp/recommend/original/detail/1510240_1996.html
+ホイップクリームを添えた　南瓜とナッツのメープルサラダ,333,https://www.lawson.co.jp/recommend/original/detail/img/l789001.jpg,178,2.6,7,28,24.3,3.7,0.38,https://www.lawson.co.jp/recommend/original/detail/1510239_1996.html
+南瓜とナッツのメープルサラダ,297,https://www.lawson.co.jp/recommend/original/detail/img/l789002.jpg,183,3.4,5.4,32,28.2,3.8,0.5,https://www.lawson.co.jp/recommend/original/detail/1510238_1996.html
+コールスローサラダ,268,https://www.lawson.co.jp/recommend/original/detail/img/l777100.jpg,144,2.4,10.3,11.7,9,2.7,1.65,https://www.lawson.co.jp/recommend/original/detail/1506425_1996.html
+ペッパーマカロニサラダ,268,https://www.lawson.co.jp/recommend/original/detail/img/l779212.jpg,272,9.3,19.4,15.6,14.7,0.9,2.28,https://www.lawson.co.jp/recommend/original/detail/1506424_1996.html
+海老とブロッコリーのサラダ,333,https://www.lawson.co.jp/recommend/original/detail/img/l785043.jpg,157,6.7,9.6,12.3,9.6,2.7,1.32,https://www.lawson.co.jp/recommend/original/detail/1507841_1996.html
+海老といかの明太子サラダ,333,https://www.lawson.co.jp/recommend/original/detail/img/l791343.jpg,189,8.6,10.4,16.3,14.3,2,1.15,https://www.lawson.co.jp/recommend/original/detail/1509523_1996.html
+蒸し鶏とザーサイのサラダ,297,https://www.lawson.co.jp/recommend/original/detail/img/l778342.jpg,107,7,6.5,6.3,3.8,2.5,1.81,https://www.lawson.co.jp/recommend/original/detail/1506423_1996.html
+ピリ辛ラー油で食べる　よだれ鶏サラダ,297,https://www.lawson.co.jp/recommend/original/detail/img/l786464.jpg,178,9.3,10.9,11.9,9.5,2.4,2.03,https://www.lawson.co.jp/recommend/original/detail/1509524_1996.html
+中華風春雨サラダ,268,https://www.lawson.co.jp/recommend/original/detail/img/l777103.jpg,125,2.3,2,26.3,22.8,3.5,2.41,https://www.lawson.co.jp/recommend/original/detail/1506422_1996.html
+和風ポテトサラダ,297,https://www.lawson.co.jp/recommend/original/detail/img/l779459.jpg,254,6.5,18.6,16.2,14.2,2,2.1,https://www.lawson.co.jp/recommend/original/detail/1506056_1996.html
+緑野菜のごま和えサラダ,297,https://www.lawson.co.jp/recommend/original/detail/img/l782508.jpg,110,6.1,5.7,11,6.3,4.7,1.95,https://www.lawson.co.jp/recommend/original/detail/1508287_1996.html
+食物繊維が摂れる　豆腐とひじきの和風サラダ,297,https://www.lawson.co.jp/recommend/original/detail/img/l777622.jpg,95,5.4,4.4,10.6,6.4,4.2,1.53,https://www.lawson.co.jp/recommend/original/detail/1506421_1996.html
+和風だしジュレで食べる　ねばねばサラダ,268,https://www.lawson.co.jp/recommend/original/detail/img/l784526.jpg,48,2.2,0.3,10.8,7.3,3.5,2.48,https://www.lawson.co.jp/recommend/original/detail/1507132_1996.html
+コーンサラダ,257,https://www.lawson.co.jp/recommend/original/detail/img/l728102.jpg,54,1.9,1.6,9.4,6.8,2.6,0.2,https://www.lawson.co.jp/recommend/original/detail/1500449_1996.html
+シーチキン®＆コーンサラダ,289,https://www.lawson.co.jp/recommend/original/detail/img/l728103.jpg,68,5.3,2.3,8,5.1,2.9,0.29,https://www.lawson.co.jp/recommend/original/detail/1500450_1996.html
+玉ねぎサラダ,257,https://www.lawson.co.jp/recommend/original/detail/img/l728105.jpg,26,1.4,0.1,5.8,3.8,2,0.02,https://www.lawson.co.jp/recommend/original/detail/1500448_1996.html
+蒸し鶏のサラダ,289,https://www.lawson.co.jp/recommend/original/detail/img/l728106.jpg,52,7.6,0.5,5.5,2.9,2.6,0.3,https://www.lawson.co.jp/recommend/original/detail/1500452_1996.html
+ベーコンとさくさくクルトンのシーザーサラダ,397,https://www.lawson.co.jp/recommend/original/detail/img/l791954.jpg,170,4.4,13.3,9.3,6.9,2.4,1.44,https://www.lawson.co.jp/recommend/original/detail/1510089_1996.html
+ピリ辛味噌だれで食べる　野菜スティック,289,https://www.lawson.co.jp/recommend/original/detail/img/l746305.jpg,101,2.6,4.4,13.8,11.6,2.2,1.56,https://www.lawson.co.jp/recommend/original/detail/1478722_1996.html
+たんぱく質が摂れる　国産鶏むね肉のサラダ,497,https://www.lawson.co.jp/recommend/original/detail/img/l759155.jpg,206,23.1,11,4.9,2.2,2.7,3.15,https://www.lawson.co.jp/recommend/original/detail/1505308_1996.html
+たんぱく質が摂れる　国産豚肉のサラダ,497,https://www.lawson.co.jp/recommend/original/detail/img/l755980.jpg,284,16.8,20.8,8.6,6.3,2.3,2.73,https://www.lawson.co.jp/recommend/original/detail/1507466_1996.html
+1食分の緑黄色野菜が摂れるサラダ,430,https://www.lawson.co.jp/recommend/original/detail/img/l791955.jpg,73,1.8,3.5,10.2,7,3.2,0.87,https://www.lawson.co.jp/recommend/original/detail/1510090_1996.html
+国産わかめのチョレギサラダ,397,https://www.lawson.co.jp/recommend/original/detail/img/l704119.jpg,83,2.8,5.2,7.8,4.5,3.3,1.71,https://www.lawson.co.jp/recommend/original/detail/1506262_1996.html
+振っておいしいパスタサラダ　豚しゃぶ,397,https://www.lawson.co.jp/recommend/original/detail/img/l779616.jpg,340,12.5,19.5,30.7,26.5,4.2,2.72,https://www.lawson.co.jp/recommend/original/detail/1504384_1996.html
+振っておいしいパスタサラダ　海老明太子,397,https://www.lawson.co.jp/recommend/original/detail/img/l779528.jpg,258,13.1,10.9,28.3,25.2,3.1,2.5,https://www.lawson.co.jp/recommend/original/detail/1504382_1996.html
+振っておいしいパスタサラダ　甘辛唐揚マヨ,397,https://www.lawson.co.jp/recommend/original/detail/img/l781925.jpg,347,12.2,17.8,36.5,32.7,3.8,3.4,https://www.lawson.co.jp/recommend/original/detail/1509993_1996.html
+シーザードレッシング,35,https://www.lawson.co.jp/recommend/original/detail/img/l531818.jpg,68,0.3,6.6,1.7,1.6,0.1,0.9,https://www.lawson.co.jp/recommend/original/detail/1390447_1996.html
+すりおろしオニオンドレッシング,35,https://www.lawson.co.jp/recommend/original/detail/img/l531819.jpg,81,0.4,7.4,3,2.9,0.1,1,https://www.lawson.co.jp/recommend/original/detail/1390448_1996.html
+ノンオイルドレッシング香味青じそ,35,https://www.lawson.co.jp/recommend/original/detail/img/l531820.jpg,25,0.6,0,5.4,5.4,0,2.1,https://www.lawson.co.jp/recommend/original/detail/1390449_1996.html
+焙煎胡麻ドレッシング,38,https://www.lawson.co.jp/recommend/original/detail/img/l531821.jpg,101,0.5,9.6,3,2.8,0.2,0.6,https://www.lawson.co.jp/recommend/original/detail/1390450_1996.html
+和風ドレッシング,38,https://www.lawson.co.jp/recommend/original/detail/img/l531822.jpg,59,0.6,4.7,3.4,3.3,0.1,0.8,https://www.lawson.co.jp/recommend/original/detail/1390451_1996.html
+ごまと香味野菜ドレッシング,38,https://www.lawson.co.jp/recommend/original/detail/img/l531823.jpg,39,0.8,3,2.1,2,0.1,1,https://www.lawson.co.jp/recommend/original/detail/1390452_1996.html
+クリームチーズ生ハム巻き,570,https://www.lawson.co.jp/recommend/original/detail/img/l671099_5.jpg,17,1.4,1.2,0.2,0.2,0,0.3,https://www.lawson.co.jp/recommend/original/detail/1446497_1996.html
+重慶飯店監修　四川風麻婆豆腐,451,https://www.lawson.co.jp/recommend/original/detail/img/l769380_2.jpg,210,12.8,10.6,16,13.8,2.2,3.7,https://www.lawson.co.jp/recommend/original/detail/1494923_1996.html
+重慶飯店監修　大海老のマヨソース,484,https://www.lawson.co.jp/recommend/original/detail/img/l694454_2.jpg,212,10.5,12.5,14.4,14.4,0,2.5,https://www.lawson.co.jp/recommend/original/detail/1458234_1996.html
+厳選洋食さくらい監修　牛タンシチュー,592,https://www.lawson.co.jp/recommend/original/detail/img/l785292.jpg,221,17.3,10.9,13.4,12.3,1.1,2.6,https://www.lawson.co.jp/recommend/original/detail/1507874_1996.html
+GARAKU監修　札幌スープカレー,462,https://www.lawson.co.jp/recommend/original/detail/img/l787386_1.jpg,202,16.4,11.8,9,6.2,2.8,2.4,https://www.lawson.co.jp/recommend/original/detail/1507873_1996.html
+肉卸小島監修　牛すじ煮込,419,https://www.lawson.co.jp/recommend/original/detail/img/l733533_1.jpg,248,14,19.1,5.3,4.7,0.6,1.5,https://www.lawson.co.jp/recommend/original/detail/1472357_1996.html
+肉卸小島監修　牛すじカレー,473,https://www.lawson.co.jp/recommend/original/detail/img/l770426_1.jpg,238,11.2,14.8,17.2,13,4.2,3,https://www.lawson.co.jp/recommend/original/detail/1495762_1996.html
+本格！ビーフカレー,441,https://www.lawson.co.jp/recommend/original/detail/img/l743343_1.jpg,314,11,20.6,22.6,19.6,3,2.9,https://www.lawson.co.jp/recommend/original/detail/1477335_1996.html
+国産さんまの塩焼,397,https://www.lawson.co.jp/recommend/original/detail/img/l791274_1.jpg,233,20.4,16.8,0,0,0,1,https://www.lawson.co.jp/recommend/original/detail/1510261_1996.html
+ピリ辛ねぎだれで食べる旨辛たまご,333,https://www.lawson.co.jp/recommend/original/detail/img/l775319.jpg,170,14.3,11.1,3.3,3.1,0.2,2.16,https://www.lawson.co.jp/recommend/original/detail/1502253_1996.html
+香味ねぎだれのグリルチキン,333,https://www.lawson.co.jp/recommend/original/detail/img/l794512.jpg,188,17.3,10.1,7.7,6.1,1.6,2.18,https://www.lawson.co.jp/recommend/original/detail/1510088_1996.html
+デミグラスハンバーグ,192,https://www.lawson.co.jp/recommend/original/detail/img/l637701_4.jpg,173,8.6,10.2,11.8,10.2,1.6,1.7,https://www.lawson.co.jp/recommend/original/detail/1430207_1996.html
+チーズ入りハンバーグ,192,https://www.lawson.co.jp/recommend/original/detail/img/l637702_4.jpg,172,8.2,10,12.4,11,1.4,1.8,https://www.lawson.co.jp/recommend/original/detail/1430206_1996.html
+中落ち牛カルビ焼,430,https://www.lawson.co.jp/recommend/original/detail/img/l785974.jpg,163,14,10.8,2.5,2.3,0.2,1.9,https://www.lawson.co.jp/recommend/original/detail/1507872_1996.html
+骨なしスペアリブ,354,https://www.lawson.co.jp/recommend/original/detail/img/l786305.jpg,200,12.8,14.9,3.9,3.5,0.4,1.3,https://www.lawson.co.jp/recommend/original/detail/1508284_1996.html
+直火焼鳥　もも塩＆やげん軟骨,354,https://www.lawson.co.jp/recommend/original/detail/img/l786689.jpg,125,14,6,4.2,3,1.2,1.9,https://www.lawson.co.jp/recommend/original/detail/1507662_1996.html
+豚もつ煮込,430,https://www.lawson.co.jp/recommend/original/detail/img/l791592.jpg,198,17.5,11.2,7.7,5.7,2,3,https://www.lawson.co.jp/recommend/original/detail/1509896_1996.html
+国産鶏と国産豚の黒酢たれ肉団子,289,https://www.lawson.co.jp/recommend/original/detail/img/l637721_4.jpg,327,13.9,21,20.8,19.5,1.3,2.2,https://www.lawson.co.jp/recommend/original/detail/1443139_1996.html
+牛肉と北海道産男爵の肉じゃが,333,https://www.lawson.co.jp/recommend/original/detail/img/l643080_3.jpg,183,6.2,6,27.4,24.8,2.6,2.1,https://www.lawson.co.jp/recommend/original/detail/1495664_1996.html
+ごぼうこんにゃく,192,https://www.lawson.co.jp/recommend/original/detail/img/l588292_5.jpg,29,1.1,0.2,6.7,4.7,2,0.8,https://www.lawson.co.jp/recommend/original/detail/1406535_1996.html
+切り干し大根,192,https://www.lawson.co.jp/recommend/original/detail/img/l753681_1.jpg,39,1.6,0.6,8,5.6,2.4,0.9,https://www.lawson.co.jp/recommend/original/detail/1486424_1996.html
+うの花,192,https://www.lawson.co.jp/recommend/original/detail/img/l753679_1.jpg,71,4,3.7,7.7,3.6,4.1,0.6,https://www.lawson.co.jp/recommend/original/detail/1486421_1996.html
+五目白和え,181,https://www.lawson.co.jp/recommend/original/detail/img/l774918_1.jpg,74,5.2,3.2,7.3,5.3,2,1.3,https://www.lawson.co.jp/recommend/original/detail/1498187_1996.html
+たけのこ土佐煮,160,https://www.lawson.co.jp/recommend/original/detail/img/l750908_1.jpg,19,0.8,0,4.6,3.5,1.1,0.7,https://www.lawson.co.jp/recommend/original/detail/1484952_1996.html
+太切りメンマ,181,https://www.lawson.co.jp/recommend/original/detail/img/l524878_5.jpg,45,1.2,1,8.7,6.8,1.9,2.1,https://www.lawson.co.jp/recommend/original/detail/1390524_1996.html
+国産じゃがいもの明太ポテトサラダ,203,https://www.lawson.co.jp/recommend/original/detail/img/l688126_4.jpg,126,2.2,7.4,13.3,12.2,1.1,1.5,https://www.lawson.co.jp/recommend/original/detail/1455553_1996.html
+国産ごぼうのサラダ,181,https://www.lawson.co.jp/recommend/original/detail/img/l760143_1.jpg,98,1.9,6.7,8.4,6.4,2,0.9,https://www.lawson.co.jp/recommend/original/detail/1489971_1996.html
+春雨サラダ,181,https://www.lawson.co.jp/recommend/original/detail/img/l747220_1.jpg,90,2.1,2.9,15.1,12.8,2.3,2.3,https://www.lawson.co.jp/recommend/original/detail/1479541_1996.html
+重慶飯店監修　大海老のチリソース,484,https://www.lawson.co.jp/recommend/original/detail/img/l755057.jpg,164,8.9,7.4,16.1,15.2,0.9,2.4,https://www.lawson.co.jp/recommend/original/detail/1487027_1996.html
+なすび亭監修　豚の角煮,497,https://www.lawson.co.jp/recommend/original/detail/img/l733528.jpg,277,18.6,17.1,12.3,11.9,0.4,2.9,https://www.lawson.co.jp/recommend/original/detail/1472358_1996.html
+濃厚！ビーフシチュー,484,https://www.lawson.co.jp/recommend/original/detail/img/l743700.jpg,345,12.4,24.6,20.1,16.9,3.2,2.4,https://www.lawson.co.jp/recommend/original/detail/1477336_1996.html
+肉厚！ビーフハンバーグ,473,https://www.lawson.co.jp/recommend/original/detail/img/l726974.jpg,455,17.5,33.7,21.5,19.2,2.3,2.2,https://www.lawson.co.jp/recommend/original/detail/1468452_1996.html
+肉厚！とろけるチーズハンバーグ,462,https://www.lawson.co.jp/recommend/original/detail/img/l684037_1.jpg,324,17.2,20.4,18.4,17.1,1.4,3.2,https://www.lawson.co.jp/recommend/original/detail/1459302_1996.html
+肉厚！和風ハンバーグ,473,https://www.lawson.co.jp/recommend/original/detail/img/l693018_1.jpg,405,18.8,30.9,13.9,11.8,2.1,2.4,https://www.lawson.co.jp/recommend/original/detail/1461092_1996.html
+ミートボール,138,https://www.lawson.co.jp/recommend/original/detail/img/l602788_3.jpg,207,6.8,8.8,25.7,24.7,1,1.9,https://www.lawson.co.jp/recommend/original/detail/1427779_1996.html
+酢豚,322,https://www.lawson.co.jp/recommend/original/detail/img/l736623.jpg,157,6.3,4.9,22.6,21.2,1.4,1.4,https://www.lawson.co.jp/recommend/original/detail/1473902_1996.html
+こてっちゃん,300,https://www.lawson.co.jp/recommend/original/detail/img/l588277_3.jpg,218,9.6,16.5,8.7,6.6,2.1,2.8,https://www.lawson.co.jp/recommend/original/detail/1390495_1996.html
+豚肉と北海道産男爵の肉じゃが,333,https://www.lawson.co.jp/recommend/original/detail/img/l686411_4.jpg,206,5.9,9.5,25.8,23.1,2.7,2.4,https://www.lawson.co.jp/recommend/original/detail/1452507_1996.html
+豚汁,300,https://www.lawson.co.jp/recommend/original/detail/img/l595894_4.jpg,113,4.8,5.8,11.7,8.7,3,2.1,https://www.lawson.co.jp/recommend/original/detail/1398271_1996.html
+すき焼き,462,https://www.lawson.co.jp/recommend/original/detail/img/l740916.jpg,217,10.6,12.8,15.8,13.9,1.9,3,https://www.lawson.co.jp/recommend/original/detail/1475921_1996.html
+キムチチゲ,462,https://www.lawson.co.jp/recommend/original/detail/img/l735687.jpg,143,11.1,7.4,8.3,7.6,0.7,2.2,https://www.lawson.co.jp/recommend/original/detail/1473220_1996.html
+鶏肉のガーリックトマト煮,430,https://www.lawson.co.jp/recommend/original/detail/img/l503545_4.jpg,240,20.2,11.8,14.2,12.4,1.8,3,https://www.lawson.co.jp/recommend/original/detail/1390474_1996.html
+1食分の野菜が摂れる　チキンのチーズトマト煮,451,https://www.lawson.co.jp/recommend/original/detail/img/l684029_4.jpg,220,16,11.1,15.1,12.7,2.4,1.8,https://www.lawson.co.jp/recommend/original/detail/1454252_1996.html
+ロールキャベツ,451,https://www.lawson.co.jp/recommend/original/detail/img/l698593.jpg,112,7.3,4,13.3,10.2,3.1,3,https://www.lawson.co.jp/recommend/original/detail/1461832_1996.html
+煮込みハンバーグ,441,https://www.lawson.co.jp/recommend/original/detail/img/l729293.jpg,225,10.6,13.6,16.4,13.7,2.7,2.1,https://www.lawson.co.jp/recommend/original/detail/1470293_1996.html
+ジャーマンポテト,408,https://www.lawson.co.jp/recommend/original/detail/img/l750697.jpg,272,5.6,12.1,37.1,33.4,3.7,2.5,https://www.lawson.co.jp/recommend/original/detail/1485539_1996.html
+1食分の野菜が摂れる　八宝菜,430,https://www.lawson.co.jp/recommend/original/detail/img/l776349.jpg,134,5.5,8.1,11,8.5,2.5,2.2,https://www.lawson.co.jp/recommend/original/detail/1500307_1996.html
+肉豆腐,430,https://www.lawson.co.jp/recommend/original/detail/img/l730327.jpg,246,13.1,14.1,17,16.4,0.6,2.6,https://www.lawson.co.jp/recommend/original/detail/1470291_1996.html
+豚の生姜焼,387,https://www.lawson.co.jp/recommend/original/detail/img/l692298.jpg,279,16.3,20.4,7.5,7.5,0,2.4,https://www.lawson.co.jp/recommend/original/detail/1461831_1996.html
+よだれ鶏,408,https://www.lawson.co.jp/recommend/original/detail/img/l766797.jpg,182,17.9,4.6,17.5,16.9,0.6,3.7,https://www.lawson.co.jp/recommend/original/detail/1494677_1996.html
+あじの南蛮漬け,419,https://www.lawson.co.jp/recommend/original/detail/img/l699619.jpg,195,9.8,10,17.2,16,1.2,2.3,https://www.lawson.co.jp/recommend/original/detail/1462530_1996.html
+イカと里芋の煮物,419,https://www.lawson.co.jp/recommend/original/detail/img/l684028_4.jpg,85,5.5,0.5,15.8,13.5,2.3,2.4,https://www.lawson.co.jp/recommend/original/detail/1454250_1996.html
+銀鮭の塩焼,430,https://www.lawson.co.jp/recommend/original/detail/img/l643300_4.jpg,135,12,9.7,0,0,0,1.2,https://www.lawson.co.jp/recommend/original/detail/1443791_1996.html
+縞ほっけの塩焼,397,https://www.lawson.co.jp/recommend/original/detail/img/l738218.jpg,106,12.5,6.2,0,0,0,0.7,https://www.lawson.co.jp/recommend/original/detail/1474612_1996.html
+さばの塩焼,397,https://www.lawson.co.jp/recommend/original/detail/img/l738217.jpg,226,15.1,20.3,0.3,0.3,0,1,https://www.lawson.co.jp/recommend/original/detail/1474611_1996.html
+さばの味噌煮,365,https://www.lawson.co.jp/recommend/original/detail/img/l595893_6.jpg,293,14.8,22.1,9.2,8.3,0.9,1.2,https://www.lawson.co.jp/recommend/original/detail/1390500_1996.html
+子持ちししゃも,300,https://www.lawson.co.jp/recommend/original/detail/img/l738219.jpg,195,19.4,12.7,1.1,0.5,0.6,1.55,https://www.lawson.co.jp/recommend/original/detail/1474610_1996.html
+皮がなめらか焼餃子,354,https://www.lawson.co.jp/recommend/original/detail/img/l773563.jpg,320,12.1,14.8,35.9,33.1,2.8,2.6,https://www.lawson.co.jp/recommend/original/detail/1497704_1996.html
+ジューシーしゅうまい,430,https://www.lawson.co.jp/recommend/original/detail/img/l657703_4.jpg,324,17.7,18.3,23.6,20.5,3.1,3.4,https://www.lawson.co.jp/recommend/original/detail/1433114_1996.html
+グリルチキン,354,https://www.lawson.co.jp/recommend/original/detail/img/l751196.jpg,164,21.1,7.7,2.8,2.3,0.5,2.4,https://www.lawson.co.jp/recommend/original/detail/1486005_1996.html
+ガーリック香る砂肝焼,322,https://www.lawson.co.jp/recommend/original/detail/img/l599720_3.jpg,76,14.1,1.5,1.6,1.3,0.3,1.6,https://www.lawson.co.jp/recommend/original/detail/1407189_1996.html
+鶏軟骨の唐揚げ,343,https://www.lawson.co.jp/recommend/original/detail/img/l612023_3.jpg,283,12.9,21.1,10.3,10,0.3,1.1,https://www.lawson.co.jp/recommend/original/detail/1423406_1996.html
+直火焼きベーコン,343,https://www.lawson.co.jp/recommend/original/detail/img/l736836.jpg,154,12.6,9.9,3.9,3.4,0.5,2.2,https://www.lawson.co.jp/recommend/original/detail/1474132_1996.html
+あらびきチョリソー,322,https://www.lawson.co.jp/recommend/original/detail/img/l750314.jpg,328,11.4,30,3.8,2.6,1.2,2.3,https://www.lawson.co.jp/recommend/original/detail/1484748_1996.html
+あらびきウインナー　スモーク＆バジル,322,https://www.lawson.co.jp/recommend/original/detail/img/l774065.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1497705_1996.html
+直火で仕上げた豚トロ焼,343,https://www.lawson.co.jp/recommend/original/detail/img/l757777.jpg,181,7.5,15.4,3.2,3,0.2,1.1,https://www.lawson.co.jp/recommend/original/detail/1488621_1996.html
+おつまみバラ焼豚,387,https://www.lawson.co.jp/recommend/original/detail/img/l776348.jpg,282,13.3,23.9,3.4,3.4,0,1.1,https://www.lawson.co.jp/recommend/original/detail/1500308_1996.html
+タン焼き＜辛みそ＞,322,https://www.lawson.co.jp/recommend/original/detail/img/l753647.jpg,252,15.1,19.1,5,4.8,0.2,2.5,https://www.lawson.co.jp/recommend/original/detail/1486619_1996.html
+黒胡椒香る　直火焼ハラミ,354,https://www.lawson.co.jp/recommend/original/detail/img/l657710_4.jpg,173,14.4,10.6,5.2,4.8,0.4,1.8,https://www.lawson.co.jp/recommend/original/detail/1443794_1996.html
+きんぴらごぼう,181,https://www.lawson.co.jp/recommend/original/detail/img/l753686.jpg,69,1.5,1.3,14.1,11.4,2.7,1.2,https://www.lawson.co.jp/recommend/original/detail/1486423_1996.html
+ひじき煮,181,https://www.lawson.co.jp/recommend/original/detail/img/l753694.jpg,49,2.7,1.1,8.6,5.4,3.2,0.8,https://www.lawson.co.jp/recommend/original/detail/1486422_1996.html
+穂先メンマ,171,https://www.lawson.co.jp/recommend/original/detail/img/l564618_4.jpg,34,1.7,1.7,4.4,1.7,2.7,1.9,https://www.lawson.co.jp/recommend/original/detail/1390517_1996.html
+国産じゃがいものポテトサラダ,181,https://www.lawson.co.jp/recommend/original/detail/img/l774492.jpg,166,1.9,9.6,18.7,17.2,1.6,0.9,https://www.lawson.co.jp/recommend/original/detail/1497858_1996.html
+国産じゃがいものベーコンポテトサラダ,203,https://www.lawson.co.jp/recommend/original/detail/img/l762496_1.jpg,129,3.1,6.8,14.5,13.2,1.3,0.8,https://www.lawson.co.jp/recommend/original/detail/1490868_1996.html
+国産かぼちゃのサラダ,181,https://www.lawson.co.jp/recommend/original/detail/img/l768172.jpg,83,1.6,0.8,17.9,16.3,1.6,0.3,https://www.lawson.co.jp/recommend/original/detail/1496314_1996.html
+たまごサラダ,181,https://www.lawson.co.jp/recommend/original/detail/img/l757982.jpg,169,5.8,14.2,4.6,4.4,0.2,0.9,https://www.lawson.co.jp/recommend/original/detail/1488047_1996.html
+マカロニサラダ,181,https://www.lawson.co.jp/recommend/original/detail/img/l746278.jpg,151,4.6,8.8,14,13,1,1.3,https://www.lawson.co.jp/recommend/original/detail/1478734_1996.html
+塩ゆで枝豆,192,https://www.lawson.co.jp/recommend/original/detail/img/l533630_4.jpg,111,9,5.3,7.4,2.3,5.1,0.6,https://www.lawson.co.jp/recommend/original/detail/1390462_1996.html
+冷やっこセット,181,https://www.lawson.co.jp/recommend/original/detail/img/l588300_3.jpg,133,11.6,6.8,6.9,6,0.9,1.2,https://www.lawson.co.jp/recommend/original/detail/1390455_1996.html
+海老入り茶碗蒸し,192,https://www.lawson.co.jp/recommend/original/detail/img/l733530.jpg,56,4.5,3.2,2.7,2.2,0.5,1.8,https://www.lawson.co.jp/recommend/original/detail/1495663_1996.html
+からむきゆでたまご,149,https://www.lawson.co.jp/recommend/original/detail/img/l752582_1.jpg,81,7.3,5.5,0.6,0.4,0.2,0.9,https://www.lawson.co.jp/recommend/original/detail/1485814_1996.html
+煮たまご,248,https://www.lawson.co.jp/recommend/original/detail/img/l592982_3.jpg,78,6.5,5.5,0.6,0.4,0.2,0.7,https://www.lawson.co.jp/recommend/original/detail/1390519_1996.html
+半熟くんたま,235,https://www.lawson.co.jp/recommend/original/detail/img/l606899.jpg,163,16.1,9.9,2.5,2.2,0.3,1.3,https://www.lawson.co.jp/recommend/original/detail/1494805_1996.html
+切れてる厚焼玉子,181,https://www.lawson.co.jp/recommend/original/detail/img/l565156_4.jpg,168,10.2,8.7,12.2,12.1,0.1,1.2,https://www.lawson.co.jp/recommend/original/detail/1390525_1996.html
+切れてるだし巻玉子,181,https://www.lawson.co.jp/recommend/original/detail/img/l565157_4.jpg,139,9.7,9.1,4.5,4.4,0.1,1.8,https://www.lawson.co.jp/recommend/original/detail/1390526_1996.html
+8種具材のポトフ,351,https://www.lawson.co.jp/recommend/original/detail/img/l767535.jpg,126,7.9,7.7,7.6,4.8,2.8,2.72,https://www.lawson.co.jp/recommend/original/detail/1505302_1996.html
+ごま油香るもちもち餃子スープ,351,https://www.lawson.co.jp/recommend/original/detail/img/l768147.jpg,137,8.8,6.6,11.7,9.3,2.4,3.3,https://www.lawson.co.jp/recommend/original/detail/1505303_1996.html
+ピリ辛キムチの水餃子スープ,397,https://www.lawson.co.jp/recommend/original/detail/img/l786456.jpg,182,9.1,7.6,21.9,16.6,5.3,4.01,https://www.lawson.co.jp/recommend/original/detail/1509522_1996.html
+鶏肉のフォー,351,https://www.lawson.co.jp/recommend/original/detail/img/l767540.jpg,112,7.2,2.9,15,13.6,1.4,3.31,https://www.lawson.co.jp/recommend/original/detail/1505304_1996.html
+おにぎり浅草宿六監修　こだわり味噌の豚汁,351,https://www.lawson.co.jp/recommend/original/detail/img/l764029_1.jpg,104,10.7,4.6,6.4,3.7,2.7,2.92,https://www.lawson.co.jp/recommend/original/detail/1505305_1996.html
+5種のチーズ使用　チーズグラタン,538,https://www.lawson.co.jp/recommend/original/detail/img/l791449.jpg,348,16.9,16.4,34.1,32,2.1,3.1,https://www.lawson.co.jp/recommend/original/detail/1510660_1996.html
+4種のチーズ使用　海老グラタン,497,https://www.lawson.co.jp/recommend/original/detail/img/l764840.jpg,324,16.7,12.4,37.3,34.9,2.4,2.6,https://www.lawson.co.jp/recommend/original/detail/1491324_1996.html
+北海道生乳使用ゴーダチーズ海老ドリア,497,https://www.lawson.co.jp/recommend/original/detail/img/l757438.jpg,378,12,10.4,59.6,58.5,1.1,2.8,https://www.lawson.co.jp/recommend/original/detail/1491325_1996.html
+博多明太子使用　明太もちチーズグラタン,505,https://www.lawson.co.jp/recommend/original/detail/img/l757439.jpg,325,14.3,10.4,44.8,42.6,2.2,2.9,https://www.lawson.co.jp/recommend/original/detail/1508837_1996.html
+千房監修　お好み焼とソース焼そば,630,https://www.lawson.co.jp/recommend/original/detail/img/l788707.jpg,575,17.7,20.1,84.3,77.2,7.1,8.13,https://www.lawson.co.jp/recommend/original/detail/1510659_1996.html
+1/2日分の野菜が摂れる　玉子乗せキャベツ包み焼,484,https://www.lawson.co.jp/recommend/original/detail/img/l788708.jpg,202,8.1,6.1,30.7,26.6,4.1,2.11,https://www.lawson.co.jp/recommend/original/detail/1510231_1996.html
+屋台風お好み焼　豚玉＆焼そば,538,https://www.lawson.co.jp/recommend/original/detail/img/l753814.jpg,517,16.3,17,78.1,71.1,7,5.84,https://www.lawson.co.jp/recommend/original/detail/1510592_1996.html
+みっちゃん監修　広島流お好み焼　そば肉玉子,630,https://www.lawson.co.jp/recommend/original/detail/img/l744449.jpg,416,16.6,11,66.2,58.9,7.3,4.32,https://www.lawson.co.jp/recommend/original/detail/1508836_1996.html
+たこ焼(8個入り),430,https://www.lawson.co.jp/recommend/original/detail/img/l781114.jpg,306,7.7,13.4,39.9,37.5,2.4,2.08,https://www.lawson.co.jp/recommend/original/detail/1504930_1996.html
+まんまる鶏　七味,259,https://www.lawson.co.jp/recommend/original/detail/img/l786781.jpg,189,16,10.3,8.2,7.8,0.4,2.1,https://www.lawson.co.jp/recommend/original/detail/1510663_1996.html
+からあげクン　うすしお味,278,https://www.lawson.co.jp/recommend/original/detail/img/l790577.jpg,248,15.1,17.6,7.5,7,0.5,1.8,https://www.lawson.co.jp/recommend/original/detail/1510264_1996.html
+北海道産じゃがいもコロッケ　うすしお味,120,https://www.lawson.co.jp/recommend/original/detail/img/l790716.jpg,166,2.3,9.2,19.2,18,1.2,1.1,https://www.lawson.co.jp/recommend/original/detail/1510263_1996.html
+Ｌから　うすしお味　4個,298,https://www.lawson.co.jp/recommend/original/detail/img/l790544.jpg,356,14.5,21.1,27.3,26.7,0.6,2.5,https://www.lawson.co.jp/recommend/original/detail/1510262_1996.html
+からあげクン　レギュラー,278,https://www.lawson.co.jp/recommend/original/detail/img/l456071_7.jpg,226,14.4,15.4,7.8,7.3,0.5,1.5,https://www.lawson.co.jp/recommend/original/detail/1390563_1996.html
+からあげクン　レッド,278,https://www.lawson.co.jp/recommend/original/detail/img/l456069_7.jpg,225,14.3,15.1,8.1,7.6,0.5,1.7,https://www.lawson.co.jp/recommend/original/detail/1390564_1996.html
+からあげクン　北海道チーズ,278,https://www.lawson.co.jp/recommend/original/detail/img/l456070_7.jpg,249,14.6,17.5,8.4,7.9,0.5,1.7,https://www.lawson.co.jp/recommend/original/detail/1390565_1996.html
+からあげクン　さわやかレモン味,278,https://www.lawson.co.jp/recommend/original/detail/img/l734571_1.jpg,242,14.3,15.6,11.4,10.9,0.5,1.8,https://www.lawson.co.jp/recommend/original/detail/1474189_1996.html
+からあげクン　スタミナのタレ味,278,https://www.lawson.co.jp/recommend/original/detail/img/l786914.jpg,230,15.1,15.3,8.3,7.6,0.7,1.8,https://www.lawson.co.jp/recommend/original/detail/1509897_1996.html
+からあげクン　レッド3倍味　BOX(20個入り),"デリバリー価格1,440",https://www.lawson.co.jp/recommend/original/detail/img/l759214_2.jpg,904,62.8,56.4,37.2,34.8,2.4,8,https://www.lawson.co.jp/recommend/original/detail/1496851_1996.html
+まんまる鶏,248,https://www.lawson.co.jp/recommend/original/detail/img/l778728.jpg,217,17.2,13.1,7.8,7.2,0.6,1.6,https://www.lawson.co.jp/recommend/original/detail/1508176_1996.html
+Ｌチキ　レギュラー,248,https://www.lawson.co.jp/recommend/original/detail/img/l534447_3.jpg,255,13.7,16.6,12.8,12.3,0.5,1.6,https://www.lawson.co.jp/recommend/original/detail/1390578_1996.html
+Ｌチキ　レッド,259,https://www.lawson.co.jp/recommend/original/detail/img/l534443_3.jpg,247,12.4,16.4,12.7,12.1,0.6,1.5,https://www.lawson.co.jp/recommend/original/detail/1390579_1996.html
+Ｌから　4個,298,https://www.lawson.co.jp/recommend/original/detail/img/l736316.jpg,367,17.5,25.5,17.6,16.2,1.4,2.1,https://www.lawson.co.jp/recommend/original/detail/1475903_1996.html
+ハッシュドポテト,140,https://www.lawson.co.jp/recommend/original/detail/img/l759228.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1490461_1996.html
+フライドポテト,デリバリー価格680,https://www.lawson.co.jp/recommend/original/detail/img/l792031.jpg,318,4.4,17.3,38,34.2,3.8,1.88,https://www.lawson.co.jp/recommend/original/detail/1508751_1996.html
+ジャンボアメリカンドッグ,148,https://www.lawson.co.jp/recommend/original/detail/img/n476174_1.jpg,276,6.2,12.5,35.9,33.2,2.7,1.6,https://www.lawson.co.jp/recommend/original/detail/1495038_1996.html
+ジャイアントポークフランク,208,https://www.lawson.co.jp/recommend/original/detail/img/l577862.jpg,304,8.5,26.8,7.3,7,0.3,1.8,https://www.lawson.co.jp/recommend/original/detail/1402231_1996.html
+なんこつ入りつくね棒,198,https://www.lawson.co.jp/recommend/original/detail/img/l760099.jpg,134,10.1,7.5,6.9,N/A,N/A,1.3,https://www.lawson.co.jp/recommend/original/detail/1493250_1996.html
+タレつくね串　なんこつ入,198,https://www.lawson.co.jp/recommend/original/detail/img/l740137.jpg,174,11.8,10.7,8.1,7.2,0.9,1.5,https://www.lawson.co.jp/recommend/original/detail/1490832_1996.html
+北海道産きたあかりの牛肉コロッケ,108,https://www.lawson.co.jp/recommend/original/detail/img/l639851_1.jpg,221,3.4,15.6,17,16.3,0.7,0.4,https://www.lawson.co.jp/recommend/original/detail/1447913_1996.html
+メガメンチ,235,https://www.lawson.co.jp/recommend/original/detail/img/l780114.jpg,586,15.8,43.4,32.6,31.6,1,1.6,https://www.lawson.co.jp/recommend/original/detail/1509193_1996.html
+牛肉メンチ,130,https://www.lawson.co.jp/recommend/original/detail/img/l758880.jpg,198,6.5,13.7,12.5,11.4,1.1,0.9,https://www.lawson.co.jp/recommend/original/detail/1491180_1996.html
+箸で切れるとんかつ,292,https://www.lawson.co.jp/recommend/original/detail/img/l786531.jpg,254,11,17.6,13.3,12.8,0.5,1,https://www.lawson.co.jp/recommend/original/detail/1509895_1996.html
+贅沢厚切りハムカツ,188,https://www.lawson.co.jp/recommend/original/detail/img/l552087_1.jpg,175,9.1,9.8,12.6,12.2,0.4,1.7,https://www.lawson.co.jp/recommend/original/detail/1507663_1996.html
+たけのこと豚肉の五目春巻,100,https://www.lawson.co.jp/recommend/original/detail/img/l639446.jpg,145,2.7,9.5,12.4,11.5,0.9,0.5,https://www.lawson.co.jp/recommend/original/detail/1446261_1996.html
+チヂミロール(ソース入り),198,https://www.lawson.co.jp/recommend/original/detail/img/l790405.jpg,168,4.6,6,24.9,23,1.9,1.3,https://www.lawson.co.jp/recommend/original/detail/1510077_1996.html
+お好み焼きロール(ソース入り),198,https://www.lawson.co.jp/recommend/original/detail/img/l790161.jpg,165,3.9,6,24.8,22.5,2.3,1.3,https://www.lawson.co.jp/recommend/original/detail/1510076_1996.html
+大きなイカフライ,205,https://www.lawson.co.jp/recommend/original/detail/img/l518112_1.jpg,257,10.6,16.9,16.2,15,1.2,1,https://www.lawson.co.jp/recommend/original/detail/1390623_1996.html
+ふっくらあじフライ,190,https://www.lawson.co.jp/recommend/original/detail/img/n503714.jpg,315,12.3,21.3,18.7,18,0.6,0.6,https://www.lawson.co.jp/recommend/original/detail/1390625_1996.html
+イカから揚げ,248,https://www.lawson.co.jp/recommend/original/detail/img/l552009_1.jpg,320,13.4,20.8,19.7,19.7,0,1.7,https://www.lawson.co.jp/recommend/original/detail/1390602_1996.html
+Ｌチキバンズ,84,https://www.lawson.co.jp/recommend/original/detail/img/l781250.jpg,176,4.9,4.3,30.3,28.7,1.6,0.7,https://www.lawson.co.jp/recommend/original/detail/1505088_1996.html
+大学いもまん,198,https://www.lawson.co.jp/recommend/original/detail/img/l790293.jpg,189,4,3.6,35.9,34.5,1.4,0.4,https://www.lawson.co.jp/recommend/original/detail/1510293_1996.html
+肉まん,180,https://www.lawson.co.jp/recommend/original/detail/img/l785794.jpg,237,9.3,6.9,35.2,33.5,1.7,1,https://www.lawson.co.jp/recommend/original/detail/1508860_1996.html
+特撰　豚まん(塩),270,https://www.lawson.co.jp/recommend/original/detail/img/l785800.jpg,317,7.6,13.6,42,40.3,1.7,1.2,https://www.lawson.co.jp/recommend/original/detail/1509893_1996.html
+特撰　豚まん(醤油),270,https://www.lawson.co.jp/recommend/original/detail/img/l785802.jpg,299,9.2,11.6,39.4,37.4,2,1.4,https://www.lawson.co.jp/recommend/original/detail/1509892_1996.html
+ピザまん,180,https://www.lawson.co.jp/recommend/original/detail/img/l785795.jpg,194,5.9,5.8,30.3,28.9,1.4,0.8,https://www.lawson.co.jp/recommend/original/detail/1508859_1996.html
+つぶあんまん,160,https://www.lawson.co.jp/recommend/original/detail/img/l732503.jpg,197,5.8,1.5,41.4,38.5,2.9,0.2,https://www.lawson.co.jp/recommend/original/detail/1508858_1996.html
+ごまあんまん,160,https://www.lawson.co.jp/recommend/original/detail/img/l732502.jpg,225,6.2,5,39.7,37.7,2,0.2,https://www.lawson.co.jp/recommend/original/detail/1508857_1996.html
+森半監修　抹茶ショコラまん,195,https://www.lawson.co.jp/recommend/original/detail/img/l739750.jpg,193,4.3,4.9,33.3,32.3,1,0.2,https://www.lawson.co.jp/recommend/original/detail/1508856_1996.html
+つゆしみたまご,135,https://www.lawson.co.jp/recommend/original/detail/img/l638802.jpg,150,12.2,11.1,0.6,0.2,0.4,1,https://www.lawson.co.jp/recommend/original/detail/1509309_1996.html
+つゆしみ大根,135,https://www.lawson.co.jp/recommend/original/detail/img/l638845.jpg,11,0.4,0,2.7,1.8,0.9,0.71,https://www.lawson.co.jp/recommend/original/detail/1509308_1996.html
+国産手結び白滝,120,https://www.lawson.co.jp/recommend/original/detail/img/l436967_1.jpg,6,0,0,2.9,0.6,2.3,0.2,https://www.lawson.co.jp/recommend/original/detail/1509307_1996.html
+国産手結び白滝,120,https://www.lawson.co.jp/recommend/original/detail/img/l436967_1.jpg,7,0.1,0,3.1,0.3,2.8,0.2,https://www.lawson.co.jp/recommend/original/detail/1509306_1996.html
+絹厚揚げ,135,https://www.lawson.co.jp/recommend/original/detail/img/l638806.jpg,96,7.3,5.7,4.2,3.3,0.9,0.04,https://www.lawson.co.jp/recommend/original/detail/1509305_1996.html
+焼とうふ,120,https://www.lawson.co.jp/recommend/original/detail/img/l606811.jpg,69,6.4,4.2,1.7,1.1,0.6,0.008,https://www.lawson.co.jp/recommend/original/detail/1509304_1996.html
+こんにゃく,130,https://www.lawson.co.jp/recommend/original/detail/img/l638807.jpg,5,0.1,0.1,2.5,0.3,2.2,0.406,https://www.lawson.co.jp/recommend/original/detail/1509303_1996.html
+牛すじ,195,https://www.lawson.co.jp/recommend/original/detail/img/l436956_1.jpg,118,14,5.1,4.3,3.9,0.4,1.9,https://www.lawson.co.jp/recommend/original/detail/1509302_1996.html
+あらびきウインナー,130,https://www.lawson.co.jp/recommend/original/detail/img/l585841.jpg,279,12.4,25.1,1,0.8,0.2,1.8,https://www.lawson.co.jp/recommend/original/detail/1509301_1996.html
+ウインナー巻,150,https://www.lawson.co.jp/recommend/original/detail/img/l476179_1.jpg,245,10.9,16,14.4,14.2,0.2,2.22,https://www.lawson.co.jp/recommend/original/detail/1509300_1996.html
+国産もち米使用　餅入巾着,150,https://www.lawson.co.jp/recommend/original/detail/img/l638809.jpg,266,10,11.2,33.7,32.8,0.9,0,https://www.lawson.co.jp/recommend/original/detail/1509299_1996.html
+焼ちくわ,130,https://www.lawson.co.jp/recommend/original/detail/img/l638810.jpg,128,10.4,1.5,18.8,18.5,0.3,2.4,https://www.lawson.co.jp/recommend/original/detail/1509298_1996.html
+つゆしみがんも,120,https://www.lawson.co.jp/recommend/original/detail/img/l638816.jpg,184,15.3,12.4,3.7,2,1.7,0.5,https://www.lawson.co.jp/recommend/original/detail/1509297_1996.html
+ひじきと5種野菜のさつま揚げ,120,https://www.lawson.co.jp/recommend/original/detail/img/l638820.jpg,134,7.2,4.3,16.7,15,1.7,1.2,https://www.lawson.co.jp/recommend/original/detail/1509295_1996.html
+ロールキャベツ,150,https://www.lawson.co.jp/recommend/original/detail/img/l638813.jpg,58,4.1,2,5.7,3.2,2.5,1,https://www.lawson.co.jp/recommend/original/detail/1509294_1996.html
+ごぼう巻,140,https://www.lawson.co.jp/recommend/original/detail/img/l638814.jpg,151,7.6,4.2,21.2,20,1.2,2,https://www.lawson.co.jp/recommend/original/detail/1509293_1996.html
+はんぺん,130,https://www.lawson.co.jp/recommend/original/detail/img/l606808.jpg,93,10.3,0.4,12.1,11.8,0.3,2.3,https://www.lawson.co.jp/recommend/original/detail/1509292_1996.html
+直火焼なんこつ入つくね串,165,https://www.lawson.co.jp/recommend/original/detail/img/l638840.jpg,209,16.8,11.8,10.1,7.5,2.6,1.575,https://www.lawson.co.jp/recommend/original/detail/1509291_1996.html
+つみれ,120,https://www.lawson.co.jp/recommend/original/detail/img/l638842.jpg,119,14.3,1.6,11.8,N/A,N/A,2.3,https://www.lawson.co.jp/recommend/original/detail/1509290_1996.html
+ちくわぶ,120,https://www.lawson.co.jp/recommend/original/detail/img/l606812.jpg,142,5.7,0.7,29,27.3,1.7,0.02,https://www.lawson.co.jp/recommend/original/detail/1509289_1996.html
+沖縄そば,150,https://www.lawson.co.jp/recommend/original/detail/img/l530763.jpg,125,4.4,0.7,23.8,22.5,1.3,0.4,https://www.lawson.co.jp/recommend/original/detail/1509286_1996.html
+沖縄風テビチ,240,https://www.lawson.co.jp/recommend/original/detail/img/l606825_1.jpg,208,18.6,14.1,1.8,1.5,0.3,1,https://www.lawson.co.jp/recommend/original/detail/1509288_1996.html
+沖縄風ソーキ,216,https://www.lawson.co.jp/recommend/original/detail/img/l763385.jpg,123,7.5,9.8,1.2,1.1,0.1,0.4,https://www.lawson.co.jp/recommend/original/detail/1509287_1996.html
+沖縄厚揚,130,https://www.lawson.co.jp/recommend/original/detail/img/l606824.jpg,152,13.2,10.2,2.7,1.1,1.6,0.5,https://www.lawson.co.jp/recommend/original/detail/1509285_1996.html
+とろ〜り月見鶏つくねバーガー,495,https://www.lawson.co.jp/recommend/original/detail/img/l20250923chubo0001.jpg,444,26.7,20.5,39.9,36.6,3.3,4.7,https://www.lawson.co.jp/recommend/original/detail/1510289_1996.html
+三元豚の厚切りロースカツサンド(とんかつ まい泉監修ソース使用),495,https://www.lawson.co.jp/recommend/original/detail/img/l20210302chubo0003_1.jpg,613,22.1,27.4,70.7,68.3,2.4,3.2,https://www.lawson.co.jp/recommend/original/detail/1471238_1996.html
+三元豚の厚切りカツ＆タマゴサンド,495,https://www.lawson.co.jp/recommend/original/detail/img/ln41chubo_3.jpg,598,22.8,31.4,57.2,55,2.2,3.1,https://www.lawson.co.jp/recommend/original/detail/1471239_1996.html
+海老カツタマゴサンド,495,https://www.lawson.co.jp/recommend/original/detail/img/l20250422chubo0001.jpg,658,17.7,38.3,62,59.4,2.6,2.8,https://www.lawson.co.jp/recommend/original/detail/1504774_1996.html
+とろ〜り月見鶏つくね丼,592,https://www.lawson.co.jp/recommend/original/detail/img/l20250923chubo0002.jpg,586,28.5,17.2,81,77.5,3.5,4.2,https://www.lawson.co.jp/recommend/original/detail/1510290_1996.html
+海鮮かき揚げ丼,592,https://www.lawson.co.jp/recommend/original/detail/img/l20231114chubo0001_2.jpg,759,11.7,37.2,96.2,92.1,4.1,1.8,https://www.lawson.co.jp/recommend/original/detail/1476575_1996.html
+三元豚の厚切りロースソースカツ丼(とんかつ まい泉監修ソース使用),646,https://www.lawson.co.jp/recommend/original/detail/img/l20210302chubo0002_5.jpg,606,19.4,16.1,96.8,94.8,2,2,https://www.lawson.co.jp/recommend/original/detail/1471245_1996.html
+直火で炙った焼豚丼,697,https://www.lawson.co.jp/recommend/original/detail/img/l20240130chubo0001_1.jpg,519,24.9,12.4,78.2,75.8,2.4,2.6,https://www.lawson.co.jp/recommend/original/detail/1479577_1996.html
+具おにぎり　照りマヨ鶏つくね,397,https://www.lawson.co.jp/recommend/original/detail/img/l20250923chubo0003.jpg,483,22.1,19.1,57.1,54.4,2.7,5,https://www.lawson.co.jp/recommend/original/detail/1510287_1996.html
+具おにぎり　辛子明太子,376,https://www.lawson.co.jp/recommend/original/detail/img/l20231010chubo0003.jpg,203,8,1.4,39.9,39.1,0.8,2.2,https://www.lawson.co.jp/recommend/original/detail/1475033_1996.html
+具おにぎり　炙り焼きサーモン,365,https://www.lawson.co.jp/recommend/original/detail/img/l20250624chubo0001.jpg,259,15.9,3.3,41.6,41,0.6,2.1,https://www.lawson.co.jp/recommend/original/detail/1506964_1996.html
+鶏ごぼう,279,https://www.lawson.co.jp/recommend/original/detail/img/l122chubo.jpg,223,6,2.9,43.5,42.7,0.8,1.6,https://www.lawson.co.jp/recommend/original/detail/1471267_1996.html
+とろ〜り月見照りマヨ鶏つくね,397,https://www.lawson.co.jp/recommend/original/detail/img/l20250923chubo0004.jpg,322,19.5,19.3,17.8,17.4,0.4,3.9,https://www.lawson.co.jp/recommend/original/detail/1510288_1996.html
+三元豚の厚切りロースカツ,473,https://www.lawson.co.jp/recommend/original/detail/img/l20221025chubo0002_1.jpg,567,24.4,36.1,37,35.3,1.7,2.4,https://www.lawson.co.jp/recommend/original/detail/1471275_1996.html
+チーズ大葉チキンカツ,397,https://www.lawson.co.jp/recommend/original/detail/img/l20221025chubo0005_1.jpg,449,25.8,29.5,20.4,19.6,0.8,2.7,https://www.lawson.co.jp/recommend/original/detail/1471278_1996.html
+鶏の炭火焼き3種盛り,397,https://www.lawson.co.jp/recommend/original/detail/img/l20240423chubo0001.jpg,303,27.2,15.3,15.1,13,2.1,3.7,https://www.lawson.co.jp/recommend/original/detail/1486440_1996.html
+焼きいもカラメルフラッペ,380,https://www.lawson.co.jp/recommend/original/detail/img/l793661.jpg,244,4.6,8.8,37.7,37,0.7,0.2,https://www.lawson.co.jp/recommend/original/detail/1510294_1996.html
+コーヒー(S),160,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee001_1.jpg,6,0.3,0,1.3,1.1,0.2,0,https://www.lawson.co.jp/recommend/original/detail/1390651_1996.html
+コーヒー(M),230,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee002_1.jpg,9,0.4,0,1.7,1.5,0.2,0,https://www.lawson.co.jp/recommend/original/detail/1390652_1996.html
+コーヒー(L),260,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee003_1.jpg,9,0.5,0,1.8,1.6,0.2,0,https://www.lawson.co.jp/recommend/original/detail/1390653_1996.html
+メガホットコーヒー,360,https://www.lawson.co.jp/recommend/original/detail/img/l572961_3.jpg,17,0.9,0,3.4,3,0.4,0,https://www.lawson.co.jp/recommend/original/detail/1391808_1996.html
+アイスコーヒー(S),160,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee006_2.jpg,4,0.4,0,0.8,0.6,0.2,0,https://www.lawson.co.jp/recommend/original/detail/1390659_1996.html
+アイスコーヒー(M),260,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee007_3.jpg,5,0.5,0,1,0.8,0.2,0,https://www.lawson.co.jp/recommend/original/detail/1390660_1996.html
+メガアイスコーヒー,360,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee008_3.jpg,10,1,0,2,1.5,0.5,0,https://www.lawson.co.jp/recommend/original/detail/1446240_1996.html
+モカブレンド(S),180,https://www.lawson.co.jp/recommend/original/detail/img/l743965.jpg,6,0.3,0.3,1,0.3,0.7,0,https://www.lawson.co.jp/recommend/original/detail/1478723_1996.html
+アイスモカブレンド,190,https://www.lawson.co.jp/recommend/original/detail/img/l756603.jpg,4,0.4,0,0.8,0.6,0.2,0,https://www.lawson.co.jp/recommend/original/detail/1487098_1996.html
+カフェラテ(M),230,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee010_1.jpg,91,4.9,5.2,8,7.8,0.2,0.1,https://www.lawson.co.jp/recommend/original/detail/1390664_1996.html
+カフェラテ(L),288,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee011_1.jpg,120,6.4,7,10.5,10.3,0.2,0.2,https://www.lawson.co.jp/recommend/original/detail/1390665_1996.html
+メガホットカフェラテ,380,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee012_3.jpg,181,9.7,10.4,16.1,15.7,0.4,0.3,https://www.lawson.co.jp/recommend/original/detail/1390666_1996.html
+アイスカフェラテ(M),280,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee014_1.jpg,78,4.4,4.6,6.7,6.5,0.2,0.1,https://www.lawson.co.jp/recommend/original/detail/1390668_1996.html
+メガアイスカフェラテ,390,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee015_2.jpg,157,8.9,9.2,13.4,12.9,0.5,0.3,https://www.lawson.co.jp/recommend/original/detail/1390669_1996.html
+アイスアールグレイティー,200,https://www.lawson.co.jp/recommend/original/detail/img/l790789.jpg,4,0.1,0.1,0.9,0.8,0.1,0.2,https://www.lawson.co.jp/recommend/original/detail/1508562_1996.html
+メガアイスアールグレイティー,360,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee025_1.jpg,8,0.2,0.2,1.8,1.6,0.2,0.4,https://www.lawson.co.jp/recommend/original/detail/1508572_1996.html
+アイスミルク,150,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee030_1.jpg,110,5.9,6.8,8.6,8.6,0,0.2,https://www.lawson.co.jp/recommend/original/detail/1390685_1996.html
+ホットミルク,130,https://www.lawson.co.jp/recommend/original/detail/img/l_coffee029_1.jpg,122,6.6,7.6,9.6,9.6,0,0.2,https://www.lawson.co.jp/recommend/original/detail/1390684_1996.html
+キャラメルフラッペ,380,https://www.lawson.co.jp/recommend/original/detail/img/l781288.jpg,287,6.8,10.5,42.8,41.7,1.1,0.4,https://www.lawson.co.jp/recommend/original/detail/1504751_1996.html
+ストロベリーフラッペ,380,https://www.lawson.co.jp/recommend/original/detail/img/l781286.jpg,226,4.5,4.7,42.4,41.9,0.5,0.2,https://www.lawson.co.jp/recommend/original/detail/1504750_1996.html
+ホットコーヒー用豆,"1,800",https://www.lawson.co.jp/recommend/original/detail/img/l608688_1.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1425337_1996.html
+ショコラドーム　ティラミス,322,https://www.lawson.co.jp/recommend/original/detail/img/l792743.jpg,228,3.4,15.6,19.2,17.9,1.3,0.13,https://www.lawson.co.jp/recommend/original/detail/1510666_1996.html
+ふわとろマシュマロタルト　生キャラメルソース入,322,https://www.lawson.co.jp/recommend/original/detail/img/l792515.jpg,320,4,15.9,41.1,39.2,1.9,0.2,https://www.lawson.co.jp/recommend/original/detail/1510665_1996.html
+ポピーシード入り！しっとりブルーベリーケーキ,297,https://www.lawson.co.jp/recommend/original/detail/img/l792737.jpg,204,2.9,12.1,21.3,20.5,0.8,0.13,https://www.lawson.co.jp/recommend/original/detail/1510664_1996.html
+ほろふわ栗粉の栗堪能モンブラン,354,https://www.lawson.co.jp/recommend/original/detail/img/l789908.jpg,154,2,9.9,14.5,13.9,0.6,0.07,https://www.lawson.co.jp/recommend/original/detail/1510235_1996.html
+ほろふわ栗粉のダブルフロマージュ,365,https://www.lawson.co.jp/recommend/original/detail/img/l793153.jpg,150,3.3,9.1,14,13.4,0.6,0.12,https://www.lawson.co.jp/recommend/original/detail/1510234_1996.html
+抹茶栗粉のほろふわモンブラン,362,https://www.lawson.co.jp/recommend/original/detail/img/l788182.jpg,145,2.1,9.2,13.8,13.2,0.6,0.07,https://www.lawson.co.jp/recommend/original/detail/1510233_1996.html
+プレミアムロールケーキ,214,https://www.lawson.co.jp/recommend/original/detail/img/l788180.jpg,205,2.6,15.2,14.5,14.4,0.1,0.09,https://www.lawson.co.jp/recommend/original/detail/1508380_1996.html
+プレミアムロールケーキ　とろける2層のカスタード,248,https://www.lawson.co.jp/recommend/original/detail/img/l792739.jpg,206,5.3,12.2,19,18.7,0.3,0.17,https://www.lawson.co.jp/recommend/original/detail/1509528_1996.html
+バニラクリームタルト,265,https://www.lawson.co.jp/recommend/original/detail/img/l787872.jpg,347,3.5,22.8,32.3,31.6,0.7,0.2,https://www.lawson.co.jp/recommend/original/detail/1508579_1996.html
+とろサクエッグタルト,270,https://www.lawson.co.jp/recommend/original/detail/img/l784837.jpg,232,2.6,14.2,23.7,23.2,0.5,0.3,https://www.lawson.co.jp/recommend/original/detail/1507612_1996.html
+とろけるフロマージュ,286,https://www.lawson.co.jp/recommend/original/detail/img/l780667.jpg,199,3.2,14.5,13.9,13.7,0.2,0.23,https://www.lawson.co.jp/recommend/original/detail/1504769_1996.html
+泡ショコラ,275,https://www.lawson.co.jp/recommend/original/detail/img/l792742.jpg,162,2.3,11.2,13.4,12.4,1,0.09,https://www.lawson.co.jp/recommend/original/detail/1509527_1996.html
+卵・牛乳・砂糖のみで仕立てたカスタードプリン,221,https://www.lawson.co.jp/recommend/original/detail/img/l778865.jpg,155,6,6.8,17.4,17.3,0.1,0.17,https://www.lawson.co.jp/recommend/original/detail/1501065_1996.html
+ティラミス,313,https://www.lawson.co.jp/recommend/original/detail/img/l783338.jpg,216,3.6,14,19.1,18.8,0.3,0.1,https://www.lawson.co.jp/recommend/original/detail/1504981_1996.html
+Uchi Café×GODIVA　クープドゥショコラ,538,https://www.lawson.co.jp/recommend/original/detail/img/l793140_1.jpg,335,4.9,23.6,26.4,25,1.4,0.17,https://www.lawson.co.jp/recommend/original/detail/1510085_1996.html
+Uchi Café×GODIVA　ショコラクレープ,421,https://www.lawson.co.jp/recommend/original/detail/img/l792087_1.jpg,295,4.4,19.9,25.6,23.5,2.1,0.2,https://www.lawson.co.jp/recommend/original/detail/1510084_1996.html
+もっちりクレープ　生チョコ＆チョコチップ,214,https://www.lawson.co.jp/recommend/original/detail/img/l765358.jpg,254,3.8,15.5,25.5,24.3,1.2,0.1,https://www.lawson.co.jp/recommend/original/detail/1494061_1996.html
+ふんわりワッフル　カスタード＆ホイップ,162,https://www.lawson.co.jp/recommend/original/detail/img/l755530.jpg,201,3.9,9.8,24.5,23.9,0.6,0.1,https://www.lawson.co.jp/recommend/original/detail/1488096_1996.html
+生バウムクーヘン,184,https://www.lawson.co.jp/recommend/original/detail/img/l787490.jpg,265,4.6,13,32.6,32.3,0.3,0.2,https://www.lawson.co.jp/recommend/original/detail/1508656_1996.html
+ふわもち生シフォン,257,https://www.lawson.co.jp/recommend/original/detail/img/l779530.jpg,225,5.7,12.8,21.9,21.8,0.1,0.2,https://www.lawson.co.jp/recommend/original/detail/1507025_1996.html
+ふわもち生シフォン　生キャラメル,279,https://www.lawson.co.jp/recommend/original/detail/img/l792741.jpg,231,5.8,12,25.3,24.7,0.6,0.26,https://www.lawson.co.jp/recommend/original/detail/1509526_1996.html
+クリームたっぷり！　ふわもち冷やしクリームパン　カスタードホイップ,181,https://www.lawson.co.jp/recommend/original/detail/img/l782778.jpg,239,5.5,14.7,21.7,20.7,1,0.4,https://www.lawson.co.jp/recommend/original/detail/1508815_1996.html
+クリームたっぷり！　ふわもち冷やしクリームパン　チョコホイップ(生チョコ入り),192,https://www.lawson.co.jp/recommend/original/detail/img/l789226.jpg,267,4.5,17.1,24.4,23,1.4,0.5,https://www.lawson.co.jp/recommend/original/detail/1508814_1996.html
+もちぷよ(北海道産生クリーム入りミルククリーム),119,https://www.lawson.co.jp/recommend/original/detail/img/l771512.jpg,232,2.7,13.5,25,24.9,0.1,0.4,https://www.lawson.co.jp/recommend/original/detail/1497674_1996.html
+大きなツインシュー,151,https://www.lawson.co.jp/recommend/original/detail/img/l725158.jpg,334,4.3,22.8,27.9,27.7,0.2,0.3,https://www.lawson.co.jp/recommend/original/detail/1509525_1996.html
+バニラ香るカスタードクッキーシュー,214,https://www.lawson.co.jp/recommend/original/detail/img/l789007.jpg,191,3.6,11.8,17.8,17.3,0.5,0.19,https://www.lawson.co.jp/recommend/original/detail/1508813_1996.html
+カスタードパイシュー,254,https://www.lawson.co.jp/recommend/original/detail/img/l786123.jpg,354,4.2,28.6,20.2,19.6,0.6,0.3,https://www.lawson.co.jp/recommend/original/detail/1507867_1996.html
+カスタードエクレア,200,https://www.lawson.co.jp/recommend/original/detail/img/l782941.jpg,311,4.4,21,26.6,25.8,0.8,0.3,https://www.lawson.co.jp/recommend/original/detail/1505534_1996.html
+パンケーキ　北海道産小豆の粒あんホイップ　3個入,311,https://www.lawson.co.jp/recommend/original/detail/img/l773135.jpg,177,2.4,7.4,25.5,24.7,0.8,0.5,https://www.lawson.co.jp/recommend/original/detail/1498192_1996.html
+もち食感ロール(北海道産生クリーム入り),343,https://www.lawson.co.jp/recommend/original/detail/img/l749360.jpg,507,8,29.7,52.4,51.5,0.9,0.6,https://www.lawson.co.jp/recommend/original/detail/1484997_1996.html
+パリっとしたチョコのもち食感ロール,408,https://www.lawson.co.jp/recommend/original/detail/img/l787488.jpg,540,6.5,32.8,55.8,53.2,2.6,0.6,https://www.lawson.co.jp/recommend/original/detail/1508377_1996.html
+なめらかカスタードのプチエクレア　6個,311,https://www.lawson.co.jp/recommend/original/detail/img/l755531.jpg,458,6.3,33.9,32.7,31.2,1.5,0.2,https://www.lawson.co.jp/recommend/original/detail/1488287_1996.html
+なめらかカスタードのプチシュー　12個,311,https://www.lawson.co.jp/recommend/original/detail/img/l755534.jpg,406,6.3,28.6,31.1,30.5,0.6,0.3,https://www.lawson.co.jp/recommend/original/detail/1488288_1996.html
+どらもっち(あんこ＆ホイップ),200,https://www.lawson.co.jp/recommend/original/detail/img/l762166.jpg,252,4.5,8.1,41.4,38.9,2.5,0.3,https://www.lawson.co.jp/recommend/original/detail/1491618_1996.html
+Uchi Café×GODIVA　どらもっち(ショコラマロン),400,https://www.lawson.co.jp/recommend/original/detail/img/l789485_1.jpg,282,4.2,12.1,39.9,38.2,1.7,0.3,https://www.lawson.co.jp/recommend/original/detail/1510083_1996.html
+もっちりとした白いたい焼き　カスタード,178,https://www.lawson.co.jp/recommend/original/detail/img/l769627.jpg,199,2.6,7.6,30,29.7,0.3,0.5,https://www.lawson.co.jp/recommend/original/detail/1496910_1996.html
+杵つき豆大福　つぶあん,192,https://www.lawson.co.jp/recommend/original/detail/img/l780048.jpg,192,3.7,0.3,44.8,42.4,2.4,0.1,https://www.lawson.co.jp/recommend/original/detail/1505830_1996.html
+つるっとなめらか杏仁豆腐,200,https://www.lawson.co.jp/recommend/original/detail/img/l782767.jpg,144,2.5,3.8,25.2,24.9,0.3,0.08,https://www.lawson.co.jp/recommend/original/detail/1505160_1996.html
+とろけるわらび餅,192,https://www.lawson.co.jp/recommend/original/detail/img/l787489.jpg,261,2.5,2.2,58.3,57.3,1,0.02,https://www.lawson.co.jp/recommend/original/detail/1508578_1996.html
+味わいの食パン　6枚入,138,https://www.lawson.co.jp/recommend/original/detail/img/l772282_4.jpg,163,4.8,2,32.1,30.9,1.2,0.8,https://www.lawson.co.jp/recommend/original/detail/1496980_1996.html
+香り豊かなもっちりとした食パン　6枚入,181,https://www.lawson.co.jp/recommend/original/detail/img/l786198_3.jpg,157,5.6,2.5,29,27.2,1.8,0.7,https://www.lawson.co.jp/recommend/original/detail/1507139_1996.html
+香り豊かなもっちりとした食パン　8枚入,181,https://www.lawson.co.jp/recommend/original/detail/img/l786197_3.jpg,119,4.2,1.9,21.8,20.5,1.3,0.5,https://www.lawson.co.jp/recommend/original/detail/1507138_1996.html
+国産さんまの塩焼,397,https://www.lawson.co.jp/recommend/original/detail/img/l791274_1.jpg,233,20.4,16.8,0,0,0,1,https://www.lawson.co.jp/recommend/original/detail/1510261_1996.html
+クリームチーズ生ハム巻き,570,https://www.lawson.co.jp/recommend/original/detail/img/l671099_5.jpg,17,1.4,1.2,0.2,0.2,0,0.3,https://www.lawson.co.jp/recommend/original/detail/1446497_1996.html
+重慶飯店監修　四川風麻婆豆腐,451,https://www.lawson.co.jp/recommend/original/detail/img/l769380_2.jpg,210,12.8,10.6,16,13.8,2.2,3.7,https://www.lawson.co.jp/recommend/original/detail/1494923_1996.html
+重慶飯店監修　大海老のマヨソース,484,https://www.lawson.co.jp/recommend/original/detail/img/l694454_2.jpg,212,10.5,12.5,14.4,14.4,0,2.5,https://www.lawson.co.jp/recommend/original/detail/1458234_1996.html
+コールスローサラダ,124,https://www.lawson.co.jp/recommend/original/detail/img/l592810_4.jpg,37,1.4,0.2,7.3,5.2,2.1,0.09,https://www.lawson.co.jp/recommend/original/detail/1455011_1996.html
+10品目の彩りサラダ,214,https://www.lawson.co.jp/recommend/original/detail/img/l584823_5.jpg,24,1,0.1,4.8,2.9,1.9,0.03,https://www.lawson.co.jp/recommend/original/detail/1389705_1996.html
+キャベツ野菜炒め,119,https://www.lawson.co.jp/recommend/original/detail/img/l563373_5.jpg,25,1.1,0.1,6,4.2,1.8,0.02,https://www.lawson.co.jp/recommend/original/detail/1389709_1996.html
+ミックスサラダ,131,https://www.lawson.co.jp/recommend/original/detail/img/l557347_4.jpg,20,1.2,0.2,5,3.3,1.7,0.02,https://www.lawson.co.jp/recommend/original/detail/1389701_1996.html
+サラダチキン　梅しそ,279,https://www.lawson.co.jp/recommend/original/detail/img/l753187_1.jpg,130,24.9,1.7,3.9,3.7,0.2,2.1,https://www.lawson.co.jp/recommend/original/detail/1486002_1996.html
+炭火焼サラダチキン　タンドリー風,268,https://www.lawson.co.jp/recommend/original/detail/img/l787370.jpg,106,15.1,4.1,2.4,2.2,0.2,1.8,https://www.lawson.co.jp/recommend/original/detail/1508190_1996.html
+ひとくちサラダチキン　柚子七味,257,https://www.lawson.co.jp/recommend/original/detail/img/l786691.jpg,159,15.5,9.6,2.6,2.6,0,1.6,https://www.lawson.co.jp/recommend/original/detail/1507661_1996.html
+サラダチキンスティック　炙りチーズ,257,https://www.lawson.co.jp/recommend/original/detail/img/l662499_2.jpg,93,13.7,3.9,1.1,0.7,0.4,1.1,https://www.lawson.co.jp/recommend/original/detail/1462700_1996.html
+あらびきウインナー,162,https://www.lawson.co.jp/recommend/original/detail/img/l575632_4.jpg,360,9.8,32.8,6.5,6.5,0,2.1,https://www.lawson.co.jp/recommend/original/detail/1389755_1996.html
+皮なしウインナー,119,https://www.lawson.co.jp/recommend/original/detail/img/l723174.jpg,216,10,16.8,6.4,6.1,0.3,1.8,https://www.lawson.co.jp/recommend/original/detail/1467130_1996.html
+ロースハム　37g,97,https://www.lawson.co.jp/recommend/original/detail/img/l602751_3.jpg,42,5.8,1.3,1.9,1.8,0.1,1.2,https://www.lawson.co.jp/recommend/original/detail/1389748_1996.html
+ロースハム　74g,189,https://www.lawson.co.jp/recommend/original/detail/img/l727531.jpg,85,11.7,2.5,3.9,3.8,0.1,2.3,https://www.lawson.co.jp/recommend/original/detail/1469981_1996.html
+玉子　6個,＊価格は相場状況に応じて変動しますので、店頭商品をご確認ください。,https://www.lawson.co.jp/recommend/original/detail/img/l59297_3.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1389880_1996.html
+玉子　10個,＊価格は相場状況に応じて変動しますので、店頭商品をご確認ください。,https://www.lawson.co.jp/recommend/original/detail/img/l592971_3.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1389881_1996.html
+6Pチーズ,297,https://www.lawson.co.jp/recommend/original/detail/img/l698598_1.jpg,57,3.4,4.7,0.4,0.4,0,0.45,https://www.lawson.co.jp/recommend/original/detail/1461209_1996.html
+カマンベール入り　6Pチーズ,297,https://www.lawson.co.jp/recommend/original/detail/img/l697135_1.jpg,56,2.8,4.8,0.4,0.4,0,0.45,https://www.lawson.co.jp/recommend/original/detail/1461091_1996.html
+キャンディーチーズ　プレーン,286,https://www.lawson.co.jp/recommend/original/detail/img/l575510_4.jpg,51,3,4.2,0.2,0.2,0,0.45,https://www.lawson.co.jp/recommend/original/detail/1389886_1996.html
+キャンディーチーズ　ブラックペッパー,286,https://www.lawson.co.jp/recommend/original/detail/img/l469571_4.jpg,51,3.1,4.2,0.4,0.4,0,0.43,https://www.lawson.co.jp/recommend/original/detail/1404378_1996.html
+さきいかキムチ味,365,https://www.lawson.co.jp/recommend/original/detail/img/l791470.jpg,154,10.6,3.7,19.7,19.3,0.4,2.2,https://www.lawson.co.jp/recommend/original/detail/1510727_1996.html
+おつまみほぼカニ®,246,https://www.lawson.co.jp/recommend/original/detail/img/l793280.jpg,53,5.4,1,5.5,5.3,0.2,1.5,https://www.lawson.co.jp/recommend/original/detail/1510726_1996.html
+おつまみ焼きいか,322,https://www.lawson.co.jp/recommend/original/detail/img/l724508_1.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1467463_1996.html
+あさりの酒蒸し,311,https://www.lawson.co.jp/recommend/original/detail/img/l744333_1.jpg,53,8.1,0.9,3.3,3.1,0.2,1.5,https://www.lawson.co.jp/recommend/original/detail/1495043_1996.html
+小粒納豆　まろみだし,113,https://www.lawson.co.jp/recommend/original/detail/img/l792020_1.jpg,91,7.4,4.4,6.9,3.8,3.1,0.6,https://www.lawson.co.jp/recommend/original/detail/1509284_1996.html
+小粒納豆　九州うまかたれ,113,https://www.lawson.co.jp/recommend/original/detail/img/l792019_1.jpg,92,7.4,4.3,7.4,4.3,3.1,0.5,https://www.lawson.co.jp/recommend/original/detail/1509283_1996.html
+北海道産小粒納豆,135,https://www.lawson.co.jp/recommend/original/detail/img/l608417_3.jpg,76,6.6,3.5,5.9,3.2,2.7,0.6,https://www.lawson.co.jp/recommend/original/detail/1429406_1996.html
+極小粒納豆,113,https://www.lawson.co.jp/recommend/original/detail/img/l514107_3.jpg,100,8.4,4.9,7.4,3.8,3.6,0.7,https://www.lawson.co.jp/recommend/original/detail/1389777_1996.html
+紅しょうが,127,https://www.lawson.co.jp/recommend/original/detail/img/l787968_1.jpg,9,0.1,0.2,2.1,1.1,1,2.9,https://www.lawson.co.jp/recommend/original/detail/1507535_1996.html
+天日干したくあん　しそ風味,268,https://www.lawson.co.jp/recommend/original/detail/img/l763934.jpg,35,1.1,0.2,8.2,6.1,2.1,2.3,https://www.lawson.co.jp/recommend/original/detail/1491700_1996.html
+白菜キムチ,225,https://www.lawson.co.jp/recommend/original/detail/img/l729678.jpg,41,2.3,0.4,8.3,6,2.3,2.2,https://www.lawson.co.jp/recommend/original/detail/1469980_1996.html
+本格熟成キムチ,225,https://www.lawson.co.jp/recommend/original/detail/img/l469579_4.jpg,61,2.8,0.5,11.4,8.4,3,2.8,https://www.lawson.co.jp/recommend/original/detail/1389788_1996.html
+山芋焼,365,https://www.lawson.co.jp/recommend/original/detail/img/l786879.jpg,202,7.7,1.9,40.2,36.8,3.4,3.4,https://www.lawson.co.jp/recommend/original/detail/1510653_1996.html
+台湾まぜそば　にんにくラー油付き,322,https://www.lawson.co.jp/recommend/original/detail/img/l789686.jpg,574,18.1,23.4,74.9,70.5,4.4,3.6,https://www.lawson.co.jp/recommend/original/detail/1510652_1996.html
+炭火焼鳥＆ヤゲン軟骨,397,https://www.lawson.co.jp/recommend/original/detail/img/l786886.jpg,129,17.6,5.3,3.1,2.4,0.7,2.8,https://www.lawson.co.jp/recommend/original/detail/1510286_1996.html
+北海道産じゃがいも使用　フライドポテト,181,https://www.lawson.co.jp/recommend/original/detail/img/l643701_4.jpg,143,2.2,4.2,25.6,22.8,2.8,0.6,https://www.lawson.co.jp/recommend/original/detail/1433800_1996.html
+スープ激うま！札幌味噌ラーメン,238,https://www.lawson.co.jp/recommend/original/detail/img/l788227.jpg,346,9.4,9.3,57.9,54.2,3.7,5.7,https://www.lawson.co.jp/recommend/original/detail/1510720_1996.html
+スープ激うま！京都背脂醤油ラーメン,238,https://www.lawson.co.jp/recommend/original/detail/img/l788228.jpg,345,9.1,10.5,54.6,52.3,2.3,5.4,https://www.lawson.co.jp/recommend/original/detail/1510719_1996.html
+名店　麺屋一燈　濃厚魚介らーめん,348,https://www.lawson.co.jp/recommend/original/detail/img/l788197.jpg,474,14.8,18.3,64.2,61,3.2,7.8,https://www.lawson.co.jp/recommend/original/detail/1509266_1996.html
+名店　家系総本山　吉村家　豚骨醤油ラーメン,348,https://www.lawson.co.jp/recommend/original/detail/img/l790229.jpg,393,10.2,11.9,62.6,59.7,2.9,9.3,https://www.lawson.co.jp/recommend/original/detail/1509992_1996.html
+具だくさん満足スープ　辛味噌チゲ味,268,https://www.lawson.co.jp/recommend/original/detail/img/l789490.jpg,78,5.2,2.2,10.9,8.2,2.7,2.4,https://www.lawson.co.jp/recommend/original/detail/1510722_1996.html
+具だくさん満足スープ　コク旨ごま豆乳味,268,https://www.lawson.co.jp/recommend/original/detail/img/l789491.jpg,89,5.4,3.7,10.1,7.2,2.9,2.3,https://www.lawson.co.jp/recommend/original/detail/1510721_1996.html
+コシヒカリごはん,178,https://www.lawson.co.jp/recommend/original/detail/img/l593843_5.jpg,252,3.8,0.7,57.6,N/A,N/A,0,https://www.lawson.co.jp/recommend/original/detail/1427973_1996.html
+コシヒカリごはん　3個入,518,https://www.lawson.co.jp/recommend/original/detail/img/l593844_5.jpg,252,3.8,0.7,57.6,N/A,N/A,0,https://www.lawson.co.jp/recommend/original/detail/1427972_1996.html
+ジャスミン茶　1000ml,138,https://www.lawson.co.jp/recommend/original/detail/img/l792089.jpg,0,0,0,0,0,0,0,https://www.lawson.co.jp/recommend/original/detail/1510723_1996.html
+緑茶　1000ml,138,https://www.lawson.co.jp/recommend/original/detail/img/l786060_1.jpg,0,0,0,0,0,0,0,https://www.lawson.co.jp/recommend/original/detail/1507660_1996.html
+麦茶　1000ml,138,https://www.lawson.co.jp/recommend/original/detail/img/l786062_1.jpg,0,0,0,0.5,0.5,0,0,https://www.lawson.co.jp/recommend/original/detail/1507659_1996.html
+ほうじ茶　1000ml,138,https://www.lawson.co.jp/recommend/original/detail/img/l786061_1.jpg,0,0,0,0,0,0,0,https://www.lawson.co.jp/recommend/original/detail/1507658_1996.html
+バナナミルク大福,228,https://www.lawson.co.jp/recommend/original/detail/img/l784814.jpg,270,1.1,0.3,66,65.9,0.1,0.02,https://www.lawson.co.jp/recommend/original/detail/1510725_1996.html
+バナナミルクマシュマロチョコ,198,https://www.lawson.co.jp/recommend/original/detail/img/l784768.jpg,173,1.4,8.3,23,23,0,0.03,https://www.lawson.co.jp/recommend/original/detail/1510724_1996.html
+味わい豊かな海鮮ミックス,168,https://www.lawson.co.jp/recommend/original/detail/img/l787548_1.jpg,247,1.4,9.3,39.7,39,0.7,1.2,https://www.lawson.co.jp/recommend/original/detail/1510256_1996.html
+ザクッとポテト　芳醇トリュフ塩味,148,https://www.lawson.co.jp/recommend/original/detail/img/l787552_1.jpg,319,3,21.5,29.5,27.3,2.2,0.9,https://www.lawson.co.jp/recommend/original/detail/1510255_1996.html
+2種のぶどうフルーツバー,346,https://www.lawson.co.jp/recommend/original/detail/img/l749768.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1486654_1996.html
+2種のチョコレートバー,302,https://www.lawson.co.jp/recommend/original/detail/img/l655813_3.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1438017_1996.html
+テイスティー　コーヒー,498,https://www.lawson.co.jp/recommend/original/detail/img/l593271_4.jpg,4.9,0.3,N/A,1.1,0.7,0.4,0.01,https://www.lawson.co.jp/recommend/original/detail/1399029_1996.html
+ストロベリージャム,205,https://www.lawson.co.jp/recommend/original/detail/img/l577468_3.jpg,35,0.1,0,8.7,8.4,0.3,0.01,https://www.lawson.co.jp/recommend/original/detail/1389957_1996.html
+深いコクのドリップコーヒー,355,https://www.lawson.co.jp/recommend/original/detail/img/l577499_5.jpg,22,1,0.9,4.1,0.6,3.5,0,https://www.lawson.co.jp/recommend/original/detail/1389961_1996.html
+コーヒーフレッシュ,135,https://www.lawson.co.jp/recommend/original/detail/img/l593289_4.jpg,13,0.2,1.3,0.2,0.2,0,0.03,https://www.lawson.co.jp/recommend/original/detail/1389964_1996.html
+さば水煮,268,https://www.lawson.co.jp/recommend/original/detail/img/l593295_5.jpg,456,24.5,39.5,0.8,0,0.8,2.3,https://www.lawson.co.jp/recommend/original/detail/1400770_1996.html
+さばみそ煮,268,https://www.lawson.co.jp/recommend/original/detail/img/l558405_5.jpg,460,29.1,31.2,16.3,14.8,1.5,2.6,https://www.lawson.co.jp/recommend/original/detail/1400771_1996.html
+北海道産まいわしみそ煮,198,https://www.lawson.co.jp/recommend/original/detail/img/l772702_1.jpg,408,17.6,32.4,11.9,11,0.9,1.5,https://www.lawson.co.jp/recommend/original/detail/1509474_1996.html
+コク旨さんまかば焼き,270,https://www.lawson.co.jp/recommend/original/detail/img/l564451_6.jpg,168,14.8,9,7.5,6.7,0.8,1.2,https://www.lawson.co.jp/recommend/original/detail/1400772_1996.html
+チーズ香る　シーザーサラダドレッシング,320,https://www.lawson.co.jp/recommend/original/detail/img/l662435_4.jpg,59,0.15,5.66,1.86,1.8,0.06,0.5,https://www.lawson.co.jp/recommend/original/detail/1449242_1996.html
+かつお節香る　和風玉ねぎドレッシング,320,https://www.lawson.co.jp/recommend/original/detail/img/l662433_4.jpg,39,0.3,3.09,2.53,2.42,0.11,0.7,https://www.lawson.co.jp/recommend/original/detail/1449241_1996.html
+焙煎胡麻香る　ごまドレッシング,320,https://www.lawson.co.jp/recommend/original/detail/img/l662434_4.jpg,60,0.33,4.89,3.55,3.41,0.14,0.5,https://www.lawson.co.jp/recommend/original/detail/1449240_1996.html
+しょうゆ香る　チョレギドレッシング,320,https://www.lawson.co.jp/recommend/original/detail/img/l662436_4.jpg,73,0.44,6.9,2.46,2.31,0.15,0.7,https://www.lawson.co.jp/recommend/original/detail/1449239_1996.html
+ペーパーカップ,298,https://www.lawson.co.jp/recommend/original/detail/img/l586856_4.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1400774_1996.html
+クリアカップ,215,https://www.lawson.co.jp/recommend/original/detail/img/l785046.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1507032_1996.html
+断熱カップ,255,https://www.lawson.co.jp/recommend/original/detail/img/l586857_4.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1397734_1996.html
+ペーパープレート,229,https://www.lawson.co.jp/recommend/original/detail/img/l586860_4.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1510143_1996.html
+のむヨーグルト　プレーン,208,https://www.lawson.co.jp/recommend/original/detail/img/l724964_3.jpg,204,8.9,4.9,31.2,30.7,0.5,0.2,https://www.lawson.co.jp/recommend/original/detail/1468677_1996.html
+のむヨーグルト　ブルーベリー,165,https://www.lawson.co.jp/recommend/original/detail/img/l724967_2.jpg,125,6.3,0.2,24.7,24.3,0.4,0.2,https://www.lawson.co.jp/recommend/original/detail/1468850_1996.html
+のむヨーグルト　いちご,165,https://www.lawson.co.jp/recommend/original/detail/img/l724965_2.jpg,130,5.7,0.6,25.6,25.2,0.4,0.2,https://www.lawson.co.jp/recommend/original/detail/1468851_1996.html
+のむヨーグルト　まろやかいちご,225,https://www.lawson.co.jp/recommend/original/detail/img/l766537_1.jpg,157,7.4,N/A,32.2,31.7,0.5,0.2,https://www.lawson.co.jp/recommend/original/detail/1495578_1996.html
+のむヨーグルト　アロエ,165,https://www.lawson.co.jp/recommend/original/detail/img/l768500_1.jpg,128,5.6,0.2,26.2,25.8,0.4,0.2,https://www.lawson.co.jp/recommend/original/detail/1496095_1996.html
+のむヨーグルト　Mottainaiバナナ,188,https://www.lawson.co.jp/recommend/original/detail/img/l780167_1.jpg,123,5.8,0.2,24.7,24.2,0.4,0.2,https://www.lawson.co.jp/recommend/original/detail/1505844_1996.html
+1食分のビタミンが摂れる　のむヨーグルト　グリーン＆ゴールドキウイ,188,https://www.lawson.co.jp/recommend/original/detail/img/l790970.jpg,139,5.9,0.2,28.4,27.9,0.5,0.2,https://www.lawson.co.jp/recommend/original/detail/1510593_1996.html
+カフェラテ,195,https://www.lawson.co.jp/recommend/original/detail/img/l726413_3.jpg,150,4.5,4.8,22.1,22.1,0,0.5,https://www.lawson.co.jp/recommend/original/detail/1467453_1996.html
+カフェラテ　グランデ,258,https://www.lawson.co.jp/recommend/original/detail/img/l726415_3.jpg,224,6.8,7.2,33.1,33.1,0,0.7,https://www.lawson.co.jp/recommend/original/detail/1467452_1996.html
+カフェラテ　砂糖不使用,195,https://www.lawson.co.jp/recommend/original/detail/img/l761491_1.jpg,75,4.9,2.7,8.1,7.5,0.6,0.5,https://www.lawson.co.jp/recommend/original/detail/1490960_1996.html
+カフェラテ　砂糖不使用　グランデ,258,https://www.lawson.co.jp/recommend/original/detail/img/l726417_3.jpg,113,7.4,4.1,12.1,11.2,0.9,0.8,https://www.lawson.co.jp/recommend/original/detail/1467450_1996.html
+ブラック無糖　コーヒー,138,https://www.lawson.co.jp/recommend/original/detail/img/l672293_4.jpg,10,0.7,0,1.8,1.6,0.2,0.03,https://www.lawson.co.jp/recommend/original/detail/1390064_1996.html
+ミルクたっぷり　カフェラテ,228,https://www.lawson.co.jp/recommend/original/detail/img/l760301_1.jpg,154,5.8,6,19.3,19,0.3,0.4,https://www.lawson.co.jp/recommend/original/detail/1490469_1996.html
+ミルクたっぷり　キャラメルラテ,228,https://www.lawson.co.jp/recommend/original/detail/img/l760928_1.jpg,197,7.6,7.4,25.4,24.4,1,0.5,https://www.lawson.co.jp/recommend/original/detail/1490886_1996.html
+ミルクたっぷり　はちみつラテ,228,https://www.lawson.co.jp/recommend/original/detail/img/l760929_1.jpg,163,5,6,22.9,21.6,1.3,0.5,https://www.lawson.co.jp/recommend/original/detail/1490887_1996.html
+ミルクたっぷり　ほうじ茶ラテ,228,https://www.lawson.co.jp/recommend/original/detail/img/l761480_1.jpg,196,7.4,6.4,28,26.5,1.5,0.4,https://www.lawson.co.jp/recommend/original/detail/1491014_1996.html
+ミルクたっぷり　ミルクティー,228,https://www.lawson.co.jp/recommend/original/detail/img/l762236_3.jpg,180,6.3,5.8,26,25.2,0.8,0.22,https://www.lawson.co.jp/recommend/original/detail/1491614_1996.html
+ミルクたっぷり　ココア,228,https://www.lawson.co.jp/recommend/original/detail/img/l787743.jpg,186,5.6,5.6,29.3,27.3,2,0.22,https://www.lawson.co.jp/recommend/original/detail/1509255_1996.html
+アップルティー,130,https://www.lawson.co.jp/recommend/original/detail/img/l735204_2.jpg,83,0,0,20.8,20.8,0,0.03,https://www.lawson.co.jp/recommend/original/detail/1474187_1996.html
+マスカットティー,130,https://www.lawson.co.jp/recommend/original/detail/img/l735206_2.jpg,84,0,0,21.1,21.1,0,0,https://www.lawson.co.jp/recommend/original/detail/1474186_1996.html
+果汁たっぷり　ピーチティー,168,https://www.lawson.co.jp/recommend/original/detail/img/l752344_2.jpg,98,0,0,24.5,24.5,0,0,https://www.lawson.co.jp/recommend/original/detail/1486443_1996.html
+果汁たっぷり　オレンジミックスジャスミンティー,168,https://www.lawson.co.jp/recommend/original/detail/img/l772300_2.jpg,109,0.5,0,26.9,26.4,0.5,0.3,https://www.lawson.co.jp/recommend/original/detail/1497671_1996.html
+果汁たっぷり　パインジャスミンティー,168,https://www.lawson.co.jp/recommend/original/detail/img/l787374.jpg,115,0.3,0,28.5,28.5,0,0,https://www.lawson.co.jp/recommend/original/detail/1508286_1996.html
+タピオカミルクティー,258,https://www.lawson.co.jp/recommend/original/detail/img/l775694_1.jpg,175,3.1,6,27.6,26.9,0.7,0.1,https://www.lawson.co.jp/recommend/original/detail/1501068_1996.html
+いちごミルク,258,https://www.lawson.co.jp/recommend/original/detail/img/l775554_2.jpg,297,3.4,7.8,53.7,53,0.7,0.1,https://www.lawson.co.jp/recommend/original/detail/1501069_1996.html
+バナナ＆いちごソイスムージー,298,https://www.lawson.co.jp/recommend/original/detail/img/l779372_1.jpg,168,3.7,1.4,35.7,34.7,1,0.2,https://www.lawson.co.jp/recommend/original/detail/1505153_1996.html
+グリーンスムージー,198,https://www.lawson.co.jp/recommend/original/detail/img/l681086_3.jpg,79,0.8,0,19.6,18.4,1.2,0.09,https://www.lawson.co.jp/recommend/original/detail/1453015_1996.html
+グリーンスムージーONEDAY,218,https://www.lawson.co.jp/recommend/original/detail/img/l681088_3.jpg,102,2,0,24.6,22.6,2,0.3,https://www.lawson.co.jp/recommend/original/detail/1453013_1996.html
+NL　のむヨーグルト　生乳たっぷり,158,https://www.lawson.co.jp/recommend/original/detail/img/l779361_1.jpg,154,5.9,4.7,24.8,19,5.8,0.2,https://www.lawson.co.jp/recommend/original/detail/1505019_1996.html
+NL　1日不足分の鉄分が摂れる　のむヨーグルト　ゴールデンパイン,188,https://www.lawson.co.jp/recommend/original/detail/img/l781510.jpg,123,5.5,0.2,25,24.4,0.6,0.3,https://www.lawson.co.jp/recommend/original/detail/1506004_1996.html
+NL　1食分の鉄分が摂れる　ココア,198,https://www.lawson.co.jp/recommend/original/detail/img/l672297_1.jpg,240,5.2,8.7,38.7,31.7,7,0.4,https://www.lawson.co.jp/recommend/original/detail/1450811_1996.html
+キャラメルサンド　チョコレート,368,https://www.lawson.co.jp/recommend/original/detail/img/l775256.jpg,117,1.2,5.7,15.5,N/A,N/A,0.1,https://www.lawson.co.jp/recommend/original/detail/1504491_1996.html
+キャラメルサンド　ストロベリー,368,https://www.lawson.co.jp/recommend/original/detail/img/l775257.jpg,118,1.1,5.8,15.5,N/A,N/A,0.1,https://www.lawson.co.jp/recommend/original/detail/1504490_1996.html
+芳醇フロマージュ,148,https://www.lawson.co.jp/recommend/original/detail/img/l775258.jpg,88.9,1.5,4.1,11.5,N/A,N/A,0.11,https://www.lawson.co.jp/recommend/original/detail/1504489_1996.html
+濃厚ショコラ,148,https://www.lawson.co.jp/recommend/original/detail/img/l775259.jpg,88.6,1.6,4,11.6,N/A,N/A,0.06,https://www.lawson.co.jp/recommend/original/detail/1504488_1996.html
+やさしい甘み和ラスク,348,https://www.lawson.co.jp/recommend/original/detail/img/l775262.jpg,534,7.1,28.3,62.6,N/A,N/A,1,https://www.lawson.co.jp/recommend/original/detail/1504485_1996.html
+海苔と塩の和ラスク,348,https://www.lawson.co.jp/recommend/original/detail/img/l775261.jpg,544,10.2,32,53.8,N/A,N/A,2.1,https://www.lawson.co.jp/recommend/original/detail/1504484_1996.html
+あずき落花生×すりごま落花生,348,https://www.lawson.co.jp/recommend/original/detail/img/l775260.jpg,491,15.4,24.4,54.9,N/A,N/A,0.3,https://www.lawson.co.jp/recommend/original/detail/1504483_1996.html
+キューブケーキ　レモンチーズ,368,https://www.lawson.co.jp/recommend/original/detail/img/l775255.jpg,109,1.9,5.9,12.1,N/A,N/A,0.14,https://www.lawson.co.jp/recommend/original/detail/1510141_1996.html
+キューブケーキ　フルーツ,368,https://www.lawson.co.jp/recommend/original/detail/img/l775252.jpg,114,1.5,5.1,15.4,N/A,N/A,0.09,https://www.lawson.co.jp/recommend/original/detail/1510140_1996.html
+6種のフルーツ味わうパウンドケーキ,238,https://www.lawson.co.jp/recommend/original/detail/img/l764617.jpg,238,2.6,9.8,34.8,N/A,N/A,0.2,https://www.lawson.co.jp/recommend/original/detail/1493859_1996.html
+カカオ香る濃厚チョコパウンドケーキ,238,https://www.lawson.co.jp/recommend/original/detail/img/l764618.jpg,284,4,17.9,27.8,N/A,N/A,0.2,https://www.lawson.co.jp/recommend/original/detail/1493858_1996.html
+しっとりふんわりバウムクーヘン,238,https://www.lawson.co.jp/recommend/original/detail/img/l764616.jpg,424,6.3,25.9,41.6,N/A,N/A,0.4,https://www.lawson.co.jp/recommend/original/detail/1493857_1996.html
+発酵バター香るさくふわベルギーワッフル,178,https://www.lawson.co.jp/recommend/original/detail/img/l764625.jpg,229,3.8,14.1,21.9,21.3,0.6,0.2,https://www.lawson.co.jp/recommend/original/detail/1493856_1996.html
+バター香るしっとりフィナンシェ,178,https://www.lawson.co.jp/recommend/original/detail/img/l764619.jpg,118,2,7.5,10.9,10.5,0.4,0.15,https://www.lawson.co.jp/recommend/original/detail/1493855_1996.html
+レモン香るしっとりマドレーヌ,178,https://www.lawson.co.jp/recommend/original/detail/img/l764620.jpg,106,1.5,5.7,12.2,12.1,0.1,0.25,https://www.lawson.co.jp/recommend/original/detail/1494717_1996.html
+ホワイトチョコチャンクマカダミアクッキー,198,https://www.lawson.co.jp/recommend/original/detail/img/l765705.jpg,238,2.8,12.1,29.8,29.1,0.7,0.53,https://www.lawson.co.jp/recommend/original/detail/1495152_1996.html
+チョコチャンククッキー,198,https://www.lawson.co.jp/recommend/original/detail/img/l765704.jpg,286,3.4,14.5,36.5,34.5,2,0.58,https://www.lawson.co.jp/recommend/original/detail/1495153_1996.html
+バター香るしっとりレーズンサンド,228,https://www.lawson.co.jp/recommend/original/detail/img/l764626.jpg,191,1.8,10.9,21.7,21.1,0.6,0.13,https://www.lawson.co.jp/recommend/original/detail/1493854_1996.html
+しっとり五三焼カステラ,348,https://www.lawson.co.jp/recommend/original/detail/img/l764624.jpg,122,2.5,2,23.6,23.3,0.3,0.04,https://www.lawson.co.jp/recommend/original/detail/1494716_1996.html
+有機栽培の切れ端干し芋,288,https://www.lawson.co.jp/recommend/original/detail/img/l788111.jpg,277,3.1,0.7,67.8,61.7,6.1,0.2,https://www.lawson.co.jp/recommend/original/detail/1510260_1996.html
+プラントベースのポルボローネ　桔梗信玄餅味,228,https://www.lawson.co.jp/recommend/original/detail/img/l787557.jpg,232,3,12.6,27,26.3,0.7,0.12,https://www.lawson.co.jp/recommend/original/detail/1510259_1996.html
+アップサイクル原料使用　にんじんスナック,218,https://www.lawson.co.jp/recommend/original/detail/img/l787554.jpg,167,0.4,6.6,27.9,24.9,3,0.23,https://www.lawson.co.jp/recommend/original/detail/1510258_1996.html
+アップサイクル原料使用　さつまいもビスケット,168,https://www.lawson.co.jp/recommend/original/detail/img/l787555.jpg,199,2.6,10.2,25.7,22.7,3,0.35,https://www.lawson.co.jp/recommend/original/detail/1510257_1996.html
+素焼きアーモンド,228,https://www.lawson.co.jp/recommend/original/detail/img/l551143_2.jpg,220,7.5,18.9,6.8,3.2,3.6,0,https://www.lawson.co.jp/recommend/original/detail/1425184_1996.html
+沖縄純黒糖を使ったアーモンド＆くるみ,228,https://www.lawson.co.jp/recommend/original/detail/img/l760147.jpg,229,6.2,18.6,10.5,8.1,2.4,0.05,https://www.lawson.co.jp/recommend/original/detail/1491998_1996.html
+くるみとココナッツのキャラメリゼ　素焼きアーモンド入り,228,https://www.lawson.co.jp/recommend/original/detail/img/l551137_2.jpg,249,5.4,22,9.2,5.4,3.8,0.1,https://www.lawson.co.jp/recommend/original/detail/1425186_1996.html
+素焼きミックスナッツ,228,https://www.lawson.co.jp/recommend/original/detail/img/l551141_3.jpg,231,6.3,20.5,6.6,4,2.6,0,https://www.lawson.co.jp/recommend/original/detail/1425189_1996.html
+京挽ききなこミックスナッツ,228,https://www.lawson.co.jp/recommend/original/detail/img/l760146_2.jpg,228,6.8,17.6,11.9,9.5,2.4,0.08,https://www.lawson.co.jp/recommend/original/detail/1491613_1996.html
+カナダ産メープル香る　ミックスナッツ,228,https://www.lawson.co.jp/recommend/original/detail/img/l773587.jpg,206,6.2,16.7,8.6,6.6,2,0.15,https://www.lawson.co.jp/recommend/original/detail/1502189_1996.html
+GABAが摂れる　ハニーバターミックスナッツ,228,https://www.lawson.co.jp/recommend/original/detail/img/l734666.jpg,229,7.2,18.4,9.8,7.7,2.1,0.3,https://www.lawson.co.jp/recommend/original/detail/1475171_1996.html
+クエン酸が摂れるナッツ　すっぱい梅味,228,https://www.lawson.co.jp/recommend/original/detail/img/l782934.jpg,214,6.5,19.6,3.5,0.8,2.7,0.4,https://www.lawson.co.jp/recommend/original/detail/1507649_1996.html
+有機栽培の干し芋スティック,228,https://www.lawson.co.jp/recommend/original/detail/img/l732579.jpg,182,2.8,0.3,43.6,40.3,3.3,0.2,https://www.lawson.co.jp/recommend/original/detail/1474171_1996.html
+オーツブランの堅焼きおっとっと　チーズ味,178,https://www.lawson.co.jp/recommend/original/detail/img/l765515.jpg,151,10,6.4,17,9.7,7.3,0.4,https://www.lawson.co.jp/recommend/original/detail/1494905_1996.html
+パリパリ食感の枝豆チップス,168,https://www.lawson.co.jp/recommend/original/detail/img/l551127_3.jpg,154,1.5,8.6,26.7,8.7,18.1,0.5,https://www.lawson.co.jp/recommend/original/detail/1389671_1996.html
+パリパリ食感の3種のチーズチップス,168,https://www.lawson.co.jp/recommend/original/detail/img/l771241_1.jpg,150,0.6,9.4,26,5.9,20.1,0.5,https://www.lawson.co.jp/recommend/original/detail/1507292_1996.html
+たんぱく質たっぷりのえんどう豆スナック　バター醤油味,168,https://www.lawson.co.jp/recommend/original/detail/img/l737435.jpg,179,11.7,7.2,18.8,15,3.8,0.5,https://www.lawson.co.jp/recommend/original/detail/1477363_1996.html
+たんぱく質が摂れるスナック　サワークリームオニオン味,168,https://www.lawson.co.jp/recommend/original/detail/img/l773586.jpg,168,13.5,8.1,11.3,9.3,2,0.5,https://www.lawson.co.jp/recommend/original/detail/1502190_1996.html
+1/3日分の緑黄色野菜が摂れる　10種の野菜クラッカー,168,https://www.lawson.co.jp/recommend/original/detail/img/l778391.jpg,287,5.3,14.2,36,32.9,3.1,0.4,https://www.lawson.co.jp/recommend/original/detail/1505855_1996.html
+カルシウムが摂れる　やさいソフトせんべい,158,https://www.lawson.co.jp/recommend/original/detail/img/l778392.jpg,77,1,0.2,17.8,17.7,0.1,0.34,https://www.lawson.co.jp/recommend/original/detail/1505854_1996.html
+1日分のカルシウムが摂れる　コーンスナック　スパイス＆ビネガー味,168,https://www.lawson.co.jp/recommend/original/detail/img/l762324.jpg,370,3.6,20.7,42.8,41.7,1.1,0.5,https://www.lawson.co.jp/recommend/original/detail/1493853_1996.html
+マルチミネラルが摂れる　全粒粉バタークッキー,168,https://www.lawson.co.jp/recommend/original/detail/img/l775788.jpg,181,2.7,10.2,21,18.3,2.7,0.11,https://www.lawson.co.jp/recommend/original/detail/1504741_1996.html
+プラントベースのストロベリー＆ココナッツビスケット,228,https://www.lawson.co.jp/recommend/original/detail/img/l746705.jpg,148,1.8,7.5,27.6,9.1,18.5,0.2,https://www.lawson.co.jp/recommend/original/detail/1485345_1996.html
+プラントベースのポルボローネ　メープル味,218,https://www.lawson.co.jp/recommend/original/detail/img/l760137.jpg,231,2.7,13.2,25.9,25,0.9,0.12,https://www.lawson.co.jp/recommend/original/detail/1491410_1996.html
+プラントベース　グリッシーニ　トマトバジル味,168,https://www.lawson.co.jp/recommend/original/detail/img/l778394.jpg,114,2.9,4,17,16.1,0.9,0.42,https://www.lawson.co.jp/recommend/original/detail/1505852_1996.html
+乳酸菌が摂れる　ミニアスパラガスボーロ,158,https://www.lawson.co.jp/recommend/original/detail/img/l775805.jpg,225,3.4,7.1,38.3,35.9,2.4,0.5,https://www.lawson.co.jp/recommend/original/detail/1504482_1996.html
+鉄分とマルチビタミンが摂れるミニオールレーズン,168,https://www.lawson.co.jp/recommend/original/detail/img/l734667_1.jpg,242,3.5,7.1,42.1,40.1,2,0.4,https://www.lawson.co.jp/recommend/original/detail/1475532_1996.html
+アーモンドチョコレート(イヌリン使用),288,https://www.lawson.co.jp/recommend/original/detail/img/l551146_4.jpg,228,5.5,18.4,14.8,5.3,9.5,0.03,https://www.lawson.co.jp/recommend/original/detail/1425192_1996.html
+マカダミアナッツチョコレート(イヌリン使用),288,https://www.lawson.co.jp/recommend/original/detail/img/l645678_2.jpg,215,2.5,18.8,12.6,5.1,7.5,0.02,https://www.lawson.co.jp/recommend/original/detail/1444709_1996.html
+キシリトールチョコレート,228,https://www.lawson.co.jp/recommend/original/detail/img/l775802.jpg,183,2.1,14.7,15.2,13.5,1.7,0.03,https://www.lawson.co.jp/recommend/original/detail/1504478_1996.html
+こんにゃくチップス　のりしお味,168,https://www.lawson.co.jp/recommend/original/detail/img/l551123_2.jpg,58,0.1,1.7,12.2,9,3.2,0.2,https://www.lawson.co.jp/recommend/original/detail/1424110_1996.html
+オートミールチップス　メープルシュガー味,168,https://www.lawson.co.jp/recommend/original/detail/img/l787553.jpg,75,0.2,3.6,10.5,8.4,2.1,0.2,https://www.lawson.co.jp/recommend/original/detail/1509545_1996.html
+クエン酸が摂れる　ポテトチップス　梅味,168,https://www.lawson.co.jp/recommend/original/detail/img/l778393.jpg,252,1.7,16.3,25.5,23.5,2,0.3,https://www.lawson.co.jp/recommend/original/detail/1505853_1996.html
+沖縄県産さとうきびからできた黒糖味さつまいもチップス,168,https://www.lawson.co.jp/recommend/original/detail/img/l760135.jpg,181,1,9.8,23.3,21.2,2.1,0.08,https://www.lawson.co.jp/recommend/original/detail/1491999_1996.html
+1日分の鉄分が摂れる　こつぶキャラメルコーン,158,https://www.lawson.co.jp/recommend/original/detail/img/l775806.jpg,228,0.8,14,24.8,24.6,0.2,0.13,https://www.lawson.co.jp/recommend/original/detail/1504479_1996.html
+キシリトールのラムネ　ソーダ＆グレープ,228,https://www.lawson.co.jp/recommend/original/detail/img/l775804.jpg,86,0.1,0.8,25.9,25.2,0.7,0,https://www.lawson.co.jp/recommend/original/detail/1504477_1996.html
+ゴールドマスター生　350ml,162,https://www.lawson.co.jp/recommend/original/detail/img/l785713.jpg,165,1.1,0,9.0〜15.0,11.9,0〜0.7,0〜0.07,https://www.lawson.co.jp/recommend/original/detail/1474644_1996.html
+ゴールドマスター生　500ml,226,https://www.lawson.co.jp/recommend/original/detail/img/l785714.jpg,235,1.5,0,13.0〜22.0,17,0〜1.0,0〜0.1,https://www.lawson.co.jp/recommend/original/detail/1474643_1996.html
+ゴールドマスター生　糖質70％オフ　350ml,162,https://www.lawson.co.jp/recommend/original/detail/img/l785716.jpg,88,0.4,0,1.0〜6.0,3.2,0〜0.4,0〜0.07,https://www.lawson.co.jp/recommend/original/detail/1474642_1996.html
+ゴールドマスター生　糖質70％オフ　500ml,226,https://www.lawson.co.jp/recommend/original/detail/img/l785717.jpg,125,0.5,0,1.0〜8.0,4.5,0〜0.5,0〜0.1,https://www.lawson.co.jp/recommend/original/detail/1474641_1996.html
+カーサ・スベルカソー　シャルドネ,640,https://www.lawson.co.jp/recommend/original/detail/img/l466032.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1408166_1996.html
+カーサ・スベルカソー　メルロー,640,https://www.lawson.co.jp/recommend/original/detail/img/l757767.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1408167_1996.html
+カーサ・スベルカソー　カベルネ・ソーヴィニヨン,640,https://www.lawson.co.jp/recommend/original/detail/img/l466030.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1408168_1996.html
+カーサ・スベルカソー　カルメネール,640,https://www.lawson.co.jp/recommend/original/detail/img/l466035.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1408169_1996.html
+カーサ・スベルカソー　プレミアム　レッド・ブレンド,878,https://www.lawson.co.jp/recommend/original/detail/img/l762430.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1491975_1996.html
+サンガリア　ゼロサワー　レモン　265ml,100,https://www.lawson.co.jp/recommend/original/detail/img/l790693.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1510734_1996.html
+サンガリア　ゼロサワー　ストロングドライ　無糖　265ml,100,https://www.lawson.co.jp/recommend/original/detail/img/l790692.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1510733_1996.html
+カルビー　ポテトチップス　しおバター味,168,https://www.lawson.co.jp/recommend/original/detail/img/l788941.jpg,306,3,19.5,29.6,N/A,N/A,0.7,https://www.lawson.co.jp/recommend/original/detail/1510718_1996.html
+純水仕立てしゃきっと果実　オレンジ＆マンゴー,168,https://www.lawson.co.jp/recommend/original/detail/img/l794079.jpg,63,0,0,15.7,15.7,0,0.2,https://www.lawson.co.jp/recommend/original/detail/1510717_1996.html
+不二家　生ミルキー　りんご,312,https://www.lawson.co.jp/recommend/original/detail/img/l788750.jpg,20,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1510658_1996.html
+ビタミンC　パンテノールマスク　30枚入り,990,https://www.lawson.co.jp/recommend/original/detail/img/l790534_1.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1510735_1996.html
+THE おさつ　紅はるかペースト使用バター香るお芋ラテ,298,https://www.lawson.co.jp/recommend/original/detail/img/l790749.jpg,148,2.6,2.6,28.5,N/A,N/A,0.3,https://www.lawson.co.jp/recommend/original/detail/1510285_1996.html
+ひざつき製菓　極濃トリュフバターつな旨揚げ,171,https://www.lawson.co.jp/recommend/original/detail/img/l791986.jpg,165,1.8,10.4,16.1,N/A,N/A,0.8,https://www.lawson.co.jp/recommend/original/detail/1510248_1996.html
+ノースカラーズ　桔梗信玄餅グミ,203,https://www.lawson.co.jp/recommend/original/detail/img/l789377.jpg,133,1.7,0.3,30.8,N/A,N/A,0.02,https://www.lawson.co.jp/recommend/original/detail/1510247_1996.html
+UHA味覚糖　特濃ミルク8.2　桔梗信玄餅味,238,https://www.lawson.co.jp/recommend/original/detail/img/l788336.jpg,19,0.1,0.4,3.7,N/A,N/A,0.02,https://www.lawson.co.jp/recommend/original/detail/1510246_1996.html
+ブルックラディ蒸留所のラディハイボール,600,https://www.lawson.co.jp/recommend/original/detail/img/l790023.jpg,N/A,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1510245_1996.html
+徳島産業　和三盆工房　蜜芋紅はるか,228,https://www.lawson.co.jp/recommend/original/detail/img/l790403.jpg,88,N/A,N/A,N/A,N/A,N/A,N/A,https://www.lawson.co.jp/recommend/original/detail/1510224_1996.html
+キンレイ　天下一品監修ラーメン,516,https://www.lawson.co.jp/recommend/original/detail/img/l692782_1.jpg,471,20.9,21.7,49.8,46.4,3.4,5.5,https://www.lawson.co.jp/recommend/original/detail/1498080_1996.html
+キンレイ　家系総本山吉村家監修　豚骨醤油ラーメン,516,https://www.lawson.co.jp/recommend/original/detail/img/l750859.jpg,434,21.1,16.1,53.3,49.2,4.1,6.2,https://www.lawson.co.jp/recommend/original/detail/1498081_1996.html
+日清食品冷凍　阿吽監修濃厚胡麻香る担担麺,397,https://www.lawson.co.jp/recommend/original/detail/img/l760032_1.jpg,631,27.8,25.3,76.5,69.4,7.1,7.1,https://www.lawson.co.jp/recommend/original/detail/1498082_1996.html
+日清食品　麺屋一燈　濃厚魚介つけ麺,397,https://www.lawson.co.jp/recommend/original/detail/img/l720232.jpg,712,21.8,24.6,103.1,98.7,4.4,4.7,https://www.lawson.co.jp/recommend/original/detail/1498083_1996.html
+日清食品冷凍　無鉄砲　豚そば,430,https://www.lawson.co.jp/recommend/original/detail/img/l618892.jpg,538,20.4,22.3,67.1,60.7,6.4,8.1,https://www.lawson.co.jp/recommend/original/detail/1498084_1996.html
+ニチレイ　天下一品監修炒飯,365,https://www.lawson.co.jp/recommend/original/detail/img/l692783.jpg,588,15,17.7,92.7,91.8,0.9,4.5,https://www.lawson.co.jp/recommend/original/detail/1498085_1996.html
+マルハニチロ　ナガラ食品監修ホルモン炒飯,365,https://www.lawson.co.jp/recommend/original/detail/img/l660963.jpg,548,13.2,18.4,83.4,81.5,1.9,3.8,https://www.lawson.co.jp/recommend/original/detail/1498086_1996.html
+エスフーズ　ナガラ食品監修ホルモン焼,322,https://www.lawson.co.jp/recommend/original/detail/img/l612074.jpg,109,10.9,6.3,3.4,2.1,1.3,1.4,https://www.lawson.co.jp/recommend/original/detail/1498087_1996.html
+ラ・ピッコラ・ターヴォラ監修　マルゲリータ,599,https://www.lawson.co.jp/recommend/original/detail/img/l692773.jpg,538,23,21.6,64.9,60.7,4.2,2.6,https://www.lawson.co.jp/recommend/original/detail/1498088_1996.html
+ラ・ピッコラ・ターヴォラ監修　クアトロフォルマッジ,599,https://www.lawson.co.jp/recommend/original/detail/img/l725466.jpg,508,23.4,19.6,61.1,58,3.1,2.3,https://www.lawson.co.jp/recommend/original/detail/1498089_1996.html
+ノースイ　完熟生パインバー,181,https://www.lawson.co.jp/recommend/original/detail/img/l777692.jpg,22,0.2,0,5.5,N/A,N/A,0,https://www.lawson.co.jp/recommend/original/detail/1505614_1996.html
+味の素冷凍食品　 辻口博啓監修　ショコラテリーヌ,538,https://www.lawson.co.jp/recommend/original/detail/img/l744385_1.jpg,176,2.5,12,15.1,14,1.1,0.03,https://www.lawson.co.jp/recommend/original/detail/1490001_1996.html
+味の素冷凍食品　 辻口博啓監修　狭山抹茶テリーヌ,538,https://www.lawson.co.jp/recommend/original/detail/img/l744386_1.jpg,186,2.6,13,15,14.3,0.7,0.04,https://www.lawson.co.jp/recommend/original/detail/1490002_1996.html
+NL　果実とナッツのヨーグルト,243,https://www.lawson.co.jp/recommend/original/detail/img/l609560_4.jpg,142,5.7,4.8,21.4,16.7,4.7,0.1,https://www.lawson.co.jp/recommend/original/detail/1427699_1996.html
