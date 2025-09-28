@@ -259,6 +259,38 @@ def normalize_saved_activity(saved_display: str) -> str:
 def get_activity_factor(display: str) -> float:
     return ACTIVITY_MAP.get(display, ACTIVITY_LEVELS[1]["factor"])
 
+# ===== Progress→Level→Image (5段階) =====
+from pathlib import Path
+
+LEVEL_IMAGES = [
+    "levelup/kabigon.png",   # 0: 0%〜25%未満
+    "levelup/purin.png",     # 1: 25%〜50%未満
+    "levelup/koduck.png",    # 2: 50%〜75%未満
+    "levelup/pikachu.png",   # 3: 75%〜100%未満
+    "levelup/kasumi.png",    # 4: 100%
+]
+
+def compute_progress_percent(start_w: float, goal_w: float, current_w: float) -> float:
+    """初期体重→目標体重に対する到達率(0.0〜1.0)。"""
+    total = abs(goal_w - start_w)
+    if total < 1e-6:
+        return 1.0
+    moved = abs(current_w - start_w)
+    return max(0.0, min(1.0, moved / total))
+
+def progress_to_level(p: float) -> int:
+    """0,25,50,75,100% を閾値に 5段階(0〜4)へ。"""
+    if p >= 1.00: return 4
+    if p >= 0.75: return 3
+    if p >= 0.50: return 2
+    if p >= 0.25: return 1
+    return 0
+
+def level_image_path(level: int) -> str:
+    """app9.py からの相対パスを絶対に解決して返す。"""
+    base = Path(__file__).parent  # .../Dietary
+    return str((base / LEVEL_IMAGES[level]).resolve())
+
 # ===============================
 # TDEE 計算まわり
 # ===============================
@@ -627,6 +659,27 @@ def page_my_page():
 # ===============================
 def page_today_plan():
     st.title("今日の食事提案")
+    
+    # === ページ先頭：進捗レベル画像 ===
+    start_w = float(st.session_state.get("form_weight_now", 70.0))
+    goal_w  = float(st.session_state.get("form_weight_goal", 65.0))
+
+    current_w = start_w  # デフォルトは初期体重
+    try:
+        df_w = load_weight_history(st.session_state["user"].id)
+        if not df_w.empty:
+            df_w["date"] = pd.to_datetime(df_w["date"]).dt.normalize()
+            current_w = float(df_w.sort_values("date").iloc[-1]["weight_kg"])
+    except Exception:
+        pass
+
+    p = compute_progress_percent(start_w, goal_w, current_w)
+    level = progress_to_level(p)
+
+    st.markdown("#### レベル")
+    st.caption(f"進捗: **{p*100:.1f}%**（初期 {start_w:.1f}kg → 目標 {goal_w:.1f}kg／現在 {current_w:.1f}kg）")
+    st.image(level_image_path(level), width=200)
+
 
     age = st.session_state.get("form_age", 33)
     sex = st.session_state.get("form_sex", "male")
@@ -951,4 +1004,3 @@ elif nav == "AIトレーナー":
     st.session_state.get("form_activity", "moderate"))
 else:
     page_today_plan()
-
