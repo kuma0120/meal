@@ -5,6 +5,7 @@ import altair as alt
 from itertools import combinations
 from math import floor
 from supabase import create_client
+import numpy as np  # ★ 追加：ランダム化に使用
 
 st.set_page_config(
     page_title="Dietary",
@@ -127,7 +128,7 @@ def save_profile(user_id: str, age, sex, height, weight_now, weight_goal, deadli
         "weight_now": float(weight_now) if weight_now is not None else None,
         "weight_goal": float(weight_goal) if weight_goal is not None else None,
         "deadline": str(deadline) if deadline else None,
-        "activity": activity,  # 表示名を保存（例: "軽い運動 (1.375)"）
+        "activity": activity,  # 表示名を保存
         "daily_budget": int(daily_budget) if daily_budget is not None else None,
     }
     supabase.table("profiles").upsert(row, on_conflict="id").execute()
@@ -230,7 +231,7 @@ ACTIVITY_LEVELS = [
     },
 ]
 
-# 表示名（例: "軽い運動 (1.375)"）を用意
+# 表示名（例: "軽い運動 (1.375)"）
 ACTIVITY_DISPLAY = [f"{lvl['label']} ({lvl['factor']})" for lvl in ACTIVITY_LEVELS]
 ACTIVITY_MAP = {f"{lvl['label']} ({lvl['factor']})": lvl["factor"] for lvl in ACTIVITY_LEVELS}
 DEFAULT_ACTIVITY_DISPLAY = f"{ACTIVITY_LEVELS[1]['label']} ({ACTIVITY_LEVELS[1]['factor']})"  # 軽い運動(1.375)
@@ -337,20 +338,28 @@ def plan_score(plan, tg_kcal, tg_p, tg_f, tg_c, fiber_min=FIBER_MIN_G,
 def names_set(combo):
     return set(x["name"] for x in combo["items"])
 
-def optimize_day_fixed_score_no_overlap(combos_b, combos_l, combos_d, intake, budget, weight_kg):
-    # ★ 20/40/40 に変更
+# ★ 乱数を用いた最適化（同条件でも押すたびに違う結果）
+def optimize_day_fixed_score_no_overlap(combos_b, combos_l, combos_d, intake, budget, weight_kg, rng=None):
+    # 20/40/40
     t_b = int(intake*0.20); t_l = int(intake*0.40); t_d = intake - t_b - t_l
     tg_p, tg_f, tg_c = target_pfc_grams(intake, weight_kg)
-    cands_b = top_candidates_by_target(combos_b, t_b)
-    cands_l = top_candidates_by_target(combos_l, t_l)
-    cands_d = top_candidates_by_target(combos_d, t_d)
-    best, best_score = None, float("inf")
-    for cb in cands_b:
+
+    cands_b = top_candidates_by_target(combos_b, t_b, keep_top=60)
+    cands_l = top_candidates_by_target(combos_l, t_l, keep_top=60)
+    cands_d = top_candidates_by_target(combos_d, t_d, keep_top=60)
+
+    if rng is not None:
+        rng.shuffle(cands_b); rng.shuffle(cands_l); rng.shuffle(cands_d)
+
+    candidates = []
+    for cb in cands_b[:60]:
         names_b = names_set(cb)
-        for cl in cands_l:
-            if names_b & names_set(cl): continue
+        for cl in cands_l[:60]:
+            if names_b & names_set(cl):
+                continue
             price_bl = cb["price"] + cl["price"]
-            if price_bl > budget: continue
+            if price_bl > budget:
+                continue
             kcal_bl = cb["kcal"] + cl["kcal"]
             p_bl = cb["protein"] + cl["protein"]
             f_bl = cb["fat"] + cl["fat"]
@@ -358,10 +367,17 @@ def optimize_day_fixed_score_no_overlap(combos_b, combos_l, combos_d, intake, bu
             fiber_bl = cb["fiber"] + cl["fiber"]
             names_bl = names_b | names_set(cl)
             remain = intake - kcal_bl
-            for cd in sorted(cands_d, key=lambda x:(abs(x["kcal"]-remain), x["price"]))[:60]:
-                if names_bl & names_set(cd): continue
+
+            pool_d = sorted(cands_d, key=lambda x:(abs(x["kcal"]-remain), x["price"]))[:60]
+            if rng is not None:
+                rng.shuffle(pool_d)
+
+            for cd in pool_d:
+                if names_bl & names_set(cd):
+                    continue
                 price_total = price_bl + cd["price"]
-                if price_total > budget: continue
+                if price_total > budget:
+                    continue
                 plan = {
                     "breakfast": cb, "lunch": cl, "dinner": cd,
                     "kcal_total": kcal_bl + cd["kcal"],
@@ -369,17 +385,34 @@ def optimize_day_fixed_score_no_overlap(combos_b, combos_l, combos_d, intake, bu
                     "fat_total":     f_bl + cd["fat"],
                     "carb_total":    c_bl + cd["carb"],
                     "fiber_total":   fiber_bl + cd["fiber"],
-                    "price_total": price_total,
+                    "price_total":   price_total,
                 }
                 score = plan_score(plan, intake, tg_p, tg_f, tg_c)
-                if (score < best_score) or (score == best_score and price_total < (best["price_total"] if best else 1e18)):
-                    best, best_score = plan, score
-    return best, best_score
+                candidates.append((score, plan))
+
+    if not candidates:
+        return None, float("inf")
+
+    candidates.sort(key=lambda x: (x[0], x[1]["price_total"]))
+    K = min(15, max(5, len(candidates)//10))  # 上位1〜15件程度
+    topK = candidates[:K]
+
+    if rng is None:
+        chosen_score, chosen_plan = topK[0]
+    else:
+        scores = np.array([s for s,_ in topK], dtype=float)
+        T = 0.5  # 大きいほど多様性UP
+        w = np.exp(-(scores - scores.min())/max(1e-9, T))
+        w = w / w.sum()
+        idx = rng.choice(len(topK), p=w)
+        chosen_score, chosen_plan = topK[idx]
+
+    return chosen_plan, chosen_score
 
 # ===============================
 # 見やすいカードUI（画像＋テキスト横並び）
 # ===============================
-IMG_WIDTH = 150  # 画像の標準幅（ここを好みで大きくできます）
+IMG_WIDTH = 150  # 画像の標準幅
 
 def _fmt_price(yen: float) -> str:
     try:
@@ -439,7 +472,6 @@ def _render_slot_cards(slot_key: str, jp_title: str, best_plan: dict, target_kca
     combo = best_plan[slot_key]
     picked = int(combo["kcal"])
     _slot_header(jp_title, target_kcal, picked)
-    # 複数品のときはカードを縦に並べる
     for it in combo["items"]:
         _render_item_card(it)
     st.markdown(
@@ -466,7 +498,6 @@ def page_my_page():
             _deadline = dt.date.fromisoformat(_deadline)
         st.session_state["form_deadline"]     = _deadline
 
-        # ★ 活動量は新フォーマットに正規化
         saved_activity = (prof or {}).get("activity", DEFAULT_ACTIVITY_DISPLAY)
         st.session_state["form_activity"] = normalize_saved_activity(saved_activity)
 
@@ -489,7 +520,6 @@ def page_my_page():
             with c2:
                 deadline = st.date_input("期限日付", value=st.session_state["form_deadline"], key="deadline_input")
 
-                # ★ 活動量セレクト（週◯回の目安つき）
                 default_index = ACTIVITY_DISPLAY.index(st.session_state["form_activity"]) \
                                 if st.session_state["form_activity"] in ACTIVITY_DISPLAY else ACTIVITY_DISPLAY.index(DEFAULT_ACTIVITY_DISPLAY)
                 activity_display = st.selectbox(
@@ -499,7 +529,6 @@ def page_my_page():
                     key="activity_input",
                     help="週あたりの運動回数・時間の目安は下の表を参照"
                 )
-                # 選択中の説明を添える
                 _fac = get_activity_factor(activity_display)
                 _label = activity_display.split("(")[0].strip()
                 st.caption(f"選択中: **{_label}**｜係数 **{_fac}**｜目安: " +
@@ -507,7 +536,6 @@ def page_my_page():
 
                 daily_budget = st.number_input("1日予算(円)", 300, 4000, value=int(st.session_state["form_budget"]), step=10, key="budget_input")
 
-            # ★ 活動量の目安テーブル
             with st.expander("活動量レベルの目安（週あたりの運動イメージ）", expanded=False):
                 df_lv = pd.DataFrame([{
                     "レベル": lvl["label"],
@@ -521,14 +549,14 @@ def page_my_page():
             if saved:
                 try:
                     save_profile(
-                        user.id,
+                        st.session_state["user"].id,
                         st.session_state["age_input"],
                         st.session_state["sex_input"],
                         st.session_state["height_input"],
                         st.session_state["weight_now_input"],
                         st.session_state["weight_goal_input"],
                         st.session_state["deadline_input"],
-                        st.session_state["activity_input"],  # 表示名を保存
+                        st.session_state["activity_input"],
                         st.session_state["budget_input"],
                     )
                     st.session_state["form_age"]        = st.session_state["age_input"]
@@ -560,7 +588,7 @@ def page_my_page():
     )
 
     # ===== 体重の推移（“日ごと”に表示） =====
-    df_w = load_weight_history(user.id)
+    df_w = load_weight_history(st.session_state["user"].id)
     if not df_w.empty:
         df_w["date"] = pd.to_datetime(df_w["date"]).dt.normalize()
         df_daily = df_w.groupby("date", as_index=False)["weight_kg"].mean()
@@ -639,6 +667,10 @@ def page_today_plan():
     st.info(f"あなたの1日目標摂取カロリー： **{intake} kcal**｜内訳：朝 {b20} / 昼 {l40} / 夜 {d40}")
 
     if make_clicked:
+        # ★ ボタン押下ごとに乱数シードを進める（=毎回パターンが変わる）
+        st.session_state["plan_seed"] = st.session_state.get("plan_seed", 0) + 1
+        rng = np.random.default_rng(st.session_state["plan_seed"])
+
         st.session_state["weight_today"] = weight_today
         st.session_state["budget_today"] = budget_today
         try:
@@ -666,18 +698,22 @@ def page_today_plan():
         # ★ 20/40/40 ターゲット
         t_b = b20; t_l = l40; t_d = d40
 
-        # ==== ここを変更：スロット一致を優先してからカロリー近さ ====
-        def _trim(df, target_kcal, slot_key, n=40):
+        # ==== 上位候補を大きめに拾ってから“ランダム抽出” ====
+        def _trim(df, target_kcal, slot_key, n=40, rng=None):
             df2 = df.assign(
                 _absdiff=(df["kcal"] - target_kcal).abs(),
                 _prio=(df["meal_slot_hint"] == slot_key).astype(int)  # 一致=1, any=0
             )
-            return df2.sort_values(by=["_prio", "_absdiff"], ascending=[False, True]) \
-                      .head(n).drop(columns=["_absdiff", "_prio"])
+            pool = df2.sort_values(by=["_prio", "_absdiff"], ascending=[False, True]).head(n * 3)
+            pool = pool.drop(columns=["_absdiff", "_prio"])
+            if rng is not None and len(pool) > n:
+                # シードに基づいてランダム抽出
+                return pool.sample(n=n, random_state=int(rng.integers(0, 1_000_000_000)))
+            return pool.head(n)
 
-        df_b = _trim(df_b, t_b, "breakfast", n=40)
-        df_l = _trim(df_l, t_l, "lunch",     n=40)
-        df_d = _trim(df_d, t_d, "dinner",    n=40)
+        df_b = _trim(df_b, t_b, "breakfast", n=40, rng=rng)
+        df_l = _trim(df_l, t_l, "lunch",     n=40, rng=rng)
+        df_d = _trim(df_d, t_d, "dinner",    n=40, rng=rng)
 
         combos_b = generate_item_combos(df_b, budget=budget_today, max_items=3)
         combos_l = generate_item_combos(df_l, budget=budget_today, max_items=3)
@@ -687,8 +723,9 @@ def page_today_plan():
             st.warning("候補が不足しています。")
             st.stop()
 
+        # ★ 確率的な最終選定（品質を担保しながら多様化）
         best, score = optimize_day_fixed_score_no_overlap(
-            combos_b, combos_l, combos_d, intake, budget_today, weight_kg=weight_today
+            combos_b, combos_l, combos_d, intake, budget_today, weight_kg=weight_today, rng=rng
         )
 
         if best:
@@ -712,7 +749,7 @@ def page_today_plan():
             delta = best["kcal_total"] - intake
             st.metric("目標カロリー差", f"{delta:+} kcal")
 
-            # ====== コピペ用の表（画像列つき）も残す ======
+            # ====== コピペ用の表（画像列つき） ======
             def explode_slot(slot, jp):
                 rows = []
                 for it in best[slot]["items"]:
@@ -748,6 +785,145 @@ def page_today_plan():
             st.error("条件に合うプランが見つかりませんでした。")
 
 # ===============================
+# 設定：AIトレーナー
+# ===============================
+import streamlit as st
+import openai # pip install openai が必要
+import re # activity_factor抽出のために必要
+
+# OpenAI クライアントの初期化
+# StreamlitのSecretsを使用する場合
+try:
+    client = openai.OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+except KeyError:
+    st.error("OpenAI APIキーが設定されていません。Streamlit Secretsを確認してください。")
+     # Streamlitアプリが停止しないように、APIキー設定なしで進行させる場合は st.stop() をコメントアウト
+     # st.stop()
+    client = None # APIキーがない場合はクライアントをNoneに設定
+
+
+# ===============================
+# ページ：AIトレーナー
+# ===============================
+def page_ai_trainer(age, sex, height, weight_today, weight_goal, activity):
+    st.title("🏋️‍♂️ AIトレーナーに相談")
+    st.write("プロのフィットネストレーナーがあなたの運動・食事・健康に関する質問にお答えします。")
+
+    # OpenAI APIクライアントが利用可能かチェック
+    if client is None:
+        st.error("OpenAI APIキーが設定されていないため、AIトレーナー機能は利用できません。サイドバーでAPIキーを入力してください。")
+        return
+
+    # チャット履歴の初期化
+    if "trainer_messages" not in st.session_state:
+        st.session_state.trainer_messages = []
+        # 初回挨拶メッセージ
+        initial_message = "こんにちは！私はあなた専用のAIトレーナーです。運動や健康について何でもお聞きください！"
+        st.session_state.trainer_messages.append({"role": "assistant", "content": initial_message})
+
+    # 過去のメッセージを表示
+    for message in st.session_state.trainer_messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
+
+    # チャット入力
+    if prompt := st.chat_input("運動や健康について何でもお聞きください..."):
+        # ユーザーメッセージを追加
+        st.session_state.trainer_messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
+
+    
+        # activity_factorを抽出 (例: "中程度の運動(1.55)" -> "1.55")
+        match = re.search(r'\(([\d\.]+)\)', activity)
+        activity_factor_value = float(match.group(1)) if match else 1.55 # デフォルト値
+
+        system_prompt = f"""
+あなたはプロのフィットネストレーナーです。ユーザーの健康とフィットネス目標達成をサポートします。
+ユーザーの基本情報は以下の通りです。
+- 年齢: {age}歳
+- 性別: {sex}
+- 身長: {height}cm
+- 現在の体重: {weight_today}kg
+- 目標体重: {weight_goal}kg
+- 現在の活動量レベル: {activity} (ACTIVITY_FACTOR: {activity_factor_value})
+
+ACTIVITY_FACTORの具体的な定義は以下の通りです：
+- ほぼ運動しない(1.2): デスクワーク中心でほとんど運動しない。軽いウォーキングやストレッチから始めるのがおすすめです。
+- 軽い運動(1.375): 週に1〜3回程度の軽い運動（ウォーキング、ヨガなど）。全身を使った筋力トレーニングと有酸素運動をバランス良く取り入れましょう。
+- 中程度の運動(1.55): 週に3〜5回程度の運動（ジョギング、ジムでのトレーニングなど）。高強度のインターバルトレーニングや、特定の部位を鍛えるレジスタンストレーニングも効果的です。
+- 激しい運動(1.725): 週に6〜7回程度の激しい運動（ハードなトレーニング、スポーツなど）。回復を考慮した上での高負荷トレーニングや、専門的なスキルアップ練習が中心になります。
+- 非常に激しい(1.9): 毎日、非常に激しい運動や肉体労働。高いエネルギー消費に見合った栄養摂取と、怪我予防のための柔軟性・体幹トレーニングが特に重要です。
+
+ユーザーの質問に対し、科学的根拠に基づいた専門的で分かりやすいアドバイスをしてください。
+特に指定がない限り、トレーニングと食事の両面からバランスの取れた提案を心がけてください。
+
+回答の際は以下を守ってください：
+1. ユーザーの年齢、性別、身長、体重、活動量レベル、目標体重などのプロフィールを考慮した具体的な提案をする。
+2. 安全性を最優先にし、初心者でも理解できる説明を含める。
+3. 必要に応じて、予想消費カロリーや「おむすび🍙換算」（おにぎり1個=約180kcal）などの具体的な数値情報も提示する。
+   例: 約250kcal（おむすび1.4個分🍙）
+4. モチベーションを高める励ましの言葉を添える。
+5. 質問内容に応じて、トレーニングメニューや食事プラン、健康習慣など、多角的な視点からアドバイスを行う。
+"""
+
+        # OpenAI APIにリクエスト
+        try:
+            # システムプロンプトを会話の最初に設定
+            messages_for_api = [{"role": "system", "content": system_prompt}] + st.session_state.trainer_messages
+
+            with st.chat_message("assistant"):
+                message_placeholder = st.empty()
+                full_response = ""
+
+                # ストリーミング応答
+                stream = client.chat.completions.create(
+                    model="gpt-4o-mini", # または "gpt-3.5-turbo" など
+                    messages=messages_for_api,
+                    stream=True,
+                    max_tokens=1000,
+                    temperature=0.7
+                )
+
+                for chunk in stream:
+                    if chunk.choices[0].delta.content is not None:
+                        content = chunk.choices[0].delta.content
+                        full_response += content
+                        message_placeholder.markdown(full_response + "▌") # カーソル表示
+
+                message_placeholder.markdown(full_response) # 最終的な応答を表示
+
+            # AIの応答をセッション状態に保存
+            st.session_state.trainer_messages.append({"role": "assistant", "content": full_response})
+
+        except Exception as e:
+            st.error(f"AIトレーナーとの通信でエラーが発生しました: {e}")
+            st.info("しばらくしてから再度お試しください。OpenAI APIキーが正しく設定されているか確認してください。")
+
+    # チャット履歴クリアボタン
+    # サイドバーに配置する方が一般的ですが、ここでは主要コンテンツの下に配置
+    if st.button("チャット履歴をクリア", key="clear_trainer_chat_main"):
+        st.session_state.trainer_messages = []
+        # クリア後、再度最初の挨拶メッセージを表示
+        initial_message = "こんにちは！私はあなた専用のAIトレーナーです。運動や食事について何でもお聞きください！"
+        st.session_state.trainer_messages.append({"role": "assistant", "content": initial_message})
+        st.rerun()
+
+    # ヒント表示
+    with st.expander("💡 質問のヒント"):
+        st.markdown("""
+        **こんな質問ができます：**
+        - 「週3回ジムに通える初心者におすすめの筋トレメニューを教えて」
+        - 「デスクワークで運動不足です。家でできる運動を教えて」
+        - 「ダイエット中の食事で気をつけることは？」
+        - 「プロテインはいつ飲むのが効果的？」
+        - 「膝が痛いときにできる運動はありますか？」
+        - 「現在の活動量レベルに合わせた食事のポイントは？」
+        """)
+
+
+
+# ===============================
 # サイドバー（共通）
 # ===============================
 st.sidebar.image("logo.png", use_container_width=True)
@@ -755,12 +931,19 @@ st.sidebar.markdown("### Dietary")
 st.sidebar.write(f"ログイン情報\n{st.session_state['user'].email}")
 st.sidebar.button("ログアウト", on_click=logout)
 
-nav = st.sidebar.radio("ナビゲーション", ["マイページ", "今日の食事提案"])
+nav = st.sidebar.radio("ナビゲーション", ["マイページ", "今日の食事提案", "AIトレーナー"])
 
 # ===============================
 # ルーティング
 # ===============================
 if nav == "マイページ":
     page_my_page()
+elif nav == "AIトレーナー":
+    page_ai_trainer(st.session_state.get("form_age", 33),
+    st.session_state.get("form_sex", "male"),
+    st.session_state.get("form_height", 173),
+    st.session_state.get("form_weight_today", 70.0),
+    st.session_state.get("form_weight_goal", 65.0),
+    st.session_state.get("form_activity", "moderate"))
 else:
     page_today_plan()
