@@ -842,6 +842,145 @@ def page_today_plan():
             st.error("条件に合うプランが見つかりませんでした。")
 
 # ===============================
+# 設定：AIトレーナー
+# ===============================
+import streamlit as st
+import openai # pip install openai が必要
+import re # activity_factor抽出のために必要
+
+# OpenAI クライアントの初期化
+# StreamlitのSecretsを使用する場合
+try:
+    client = openai.OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+except KeyError:
+    st.error("OpenAI APIキーが設定されていません。Streamlit Secretsを確認してください。")
+     # Streamlitアプリが停止しないように、APIキー設定なしで進行させる場合は st.stop() をコメントアウト
+     # st.stop()
+    client = None # APIキーがない場合はクライアントをNoneに設定
+
+
+# ===============================
+# ページ：AIトレーナー
+# ===============================
+def page_ai_trainer(age, sex, height, weight_today, weight_goal, activity):
+    st.title("🏋️‍♂️ AIトレーナーに相談")
+    st.write("プロのフィットネストレーナーがあなたの運動・食事・健康に関する質問にお答えします。")
+
+    # OpenAI APIクライアントが利用可能かチェック
+    if client is None:
+        st.error("OpenAI APIキーが設定されていないため、AIトレーナー機能は利用できません。サイドバーでAPIキーを入力してください。")
+        return
+
+    # チャット履歴の初期化
+    if "trainer_messages" not in st.session_state:
+        st.session_state.trainer_messages = []
+        # 初回挨拶メッセージ
+        initial_message = "こんにちは！私はあなた専用のAIトレーナーです。運動や健康について何でもお聞きください！"
+        st.session_state.trainer_messages.append({"role": "assistant", "content": initial_message})
+
+    # 過去のメッセージを表示
+    for message in st.session_state.trainer_messages:
+        with st.chat_message(message["role"]):
+            st.markdown(message["content"])
+
+    # チャット入力
+    if prompt := st.chat_input("運動や健康について何でもお聞きください..."):
+        # ユーザーメッセージを追加
+        st.session_state.trainer_messages.append({"role": "user", "content": prompt})
+        with st.chat_message("user"):
+            st.markdown(prompt)
+
+    
+        # activity_factorを抽出 (例: "中程度の運動(1.55)" -> "1.55")
+        match = re.search(r'\(([\d\.]+)\)', activity)
+        activity_factor_value = float(match.group(1)) if match else 1.55 # デフォルト値
+
+        system_prompt = f"""
+あなたはプロのフィットネストレーナーです。ユーザーの健康とフィットネス目標達成をサポートします。
+ユーザーの基本情報は以下の通りです。
+- 年齢: {age}歳
+- 性別: {sex}
+- 身長: {height}cm
+- 現在の体重: {weight_today}kg
+- 目標体重: {weight_goal}kg
+- 現在の活動量レベル: {activity} (ACTIVITY_FACTOR: {activity_factor_value})
+
+ACTIVITY_FACTORの具体的な定義は以下の通りです：
+- ほぼ運動しない(1.2): デスクワーク中心でほとんど運動しない。軽いウォーキングやストレッチから始めるのがおすすめです。
+- 軽い運動(1.375): 週に1〜3回程度の軽い運動（ウォーキング、ヨガなど）。全身を使った筋力トレーニングと有酸素運動をバランス良く取り入れましょう。
+- 中程度の運動(1.55): 週に3〜5回程度の運動（ジョギング、ジムでのトレーニングなど）。高強度のインターバルトレーニングや、特定の部位を鍛えるレジスタンストレーニングも効果的です。
+- 激しい運動(1.725): 週に6〜7回程度の激しい運動（ハードなトレーニング、スポーツなど）。回復を考慮した上での高負荷トレーニングや、専門的なスキルアップ練習が中心になります。
+- 非常に激しい(1.9): 毎日、非常に激しい運動や肉体労働。高いエネルギー消費に見合った栄養摂取と、怪我予防のための柔軟性・体幹トレーニングが特に重要です。
+
+ユーザーの質問に対し、科学的根拠に基づいた専門的で分かりやすいアドバイスをしてください。
+特に指定がない限り、トレーニングと食事の両面からバランスの取れた提案を心がけてください。
+
+回答の際は以下を守ってください：
+1. ユーザーの年齢、性別、身長、体重、活動量レベル、目標体重などのプロフィールを考慮した具体的な提案をする。
+2. 安全性を最優先にし、初心者でも理解できる説明を含める。
+3. 必要に応じて、予想消費カロリーや「おむすび🍙換算」（おにぎり1個=約180kcal）などの具体的な数値情報も提示する。
+   例: 約250kcal（おむすび1.4個分🍙）
+4. モチベーションを高める励ましの言葉を添える。
+5. 質問内容に応じて、トレーニングメニューや食事プラン、健康習慣など、多角的な視点からアドバイスを行う。
+"""
+
+        # OpenAI APIにリクエスト
+        try:
+            # システムプロンプトを会話の最初に設定
+            messages_for_api = [{"role": "system", "content": system_prompt}] + st.session_state.trainer_messages
+
+            with st.chat_message("assistant"):
+                message_placeholder = st.empty()
+                full_response = ""
+
+                # ストリーミング応答
+                stream = client.chat.completions.create(
+                    model="gpt-4o-mini", # または "gpt-3.5-turbo" など
+                    messages=messages_for_api,
+                    stream=True,
+                    max_tokens=1000,
+                    temperature=0.7
+                )
+
+                for chunk in stream:
+                    if chunk.choices[0].delta.content is not None:
+                        content = chunk.choices[0].delta.content
+                        full_response += content
+                        message_placeholder.markdown(full_response + "▌") # カーソル表示
+
+                message_placeholder.markdown(full_response) # 最終的な応答を表示
+
+            # AIの応答をセッション状態に保存
+            st.session_state.trainer_messages.append({"role": "assistant", "content": full_response})
+
+        except Exception as e:
+            st.error(f"AIトレーナーとの通信でエラーが発生しました: {e}")
+            st.info("しばらくしてから再度お試しください。OpenAI APIキーが正しく設定されているか確認してください。")
+
+    # チャット履歴クリアボタン
+    # サイドバーに配置する方が一般的ですが、ここでは主要コンテンツの下に配置
+    if st.button("チャット履歴をクリア", key="clear_trainer_chat_main"):
+        st.session_state.trainer_messages = []
+        # クリア後、再度最初の挨拶メッセージを表示
+        initial_message = "こんにちは！私はあなた専用のAIトレーナーです。運動や食事について何でもお聞きください！"
+        st.session_state.trainer_messages.append({"role": "assistant", "content": initial_message})
+        st.rerun()
+
+    # ヒント表示
+    with st.expander("💡 質問のヒント"):
+        st.markdown("""
+        **こんな質問ができます：**
+        - 「週3回ジムに通える初心者におすすめの筋トレメニューを教えて」
+        - 「デスクワークで運動不足です。家でできる運動を教えて」
+        - 「ダイエット中の食事で気をつけることは？」
+        - 「プロテインはいつ飲むのが効果的？」
+        - 「膝が痛いときにできる運動はありますか？」
+        - 「現在の活動量レベルに合わせた食事のポイントは？」
+        """)
+
+
+
+# ===============================
 # サイドバー（共通）
 # ===============================
 st.sidebar.image("logo.png", use_container_width=True)
@@ -849,12 +988,19 @@ st.sidebar.markdown("### Dietary")
 st.sidebar.write(f"ログイン情報\n{st.session_state['user'].email}")
 st.sidebar.button("ログアウト", on_click=logout)
 
-nav = st.sidebar.radio("ナビゲーション", ["マイページ", "今日の食事提案"])
+nav = st.sidebar.radio("ナビゲーション", ["マイページ", "今日の食事提案", "AIトレーナー"])
 
 # ===============================
 # ルーティング
 # ===============================
 if nav == "マイページ":
     page_my_page()
+elif nav == "AIトレーナー":
+    page_ai_trainer(st.session_state.get("form_age", 33),
+    st.session_state.get("form_sex", "male"),
+    st.session_state.get("form_height", 173),
+    st.session_state.get("form_weight_today", 70.0),
+    st.session_state.get("form_weight_goal", 65.0),
+    st.session_state.get("form_activity", "moderate"))
 else:
     page_today_plan()
